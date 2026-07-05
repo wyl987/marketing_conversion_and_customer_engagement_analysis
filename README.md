@@ -2,15 +2,15 @@
 
 ## Project status
 
-This project is currently in progress.
+This project is in progress.
 
 Completed so far:
 
 - SQL Server source tables loaded
-- basic source validation completed
-- analytical model design completed
-- SQL extraction views created
-- two SQL analytical summary views created
+- source data checks completed
+- analytical data model planned
+- SQL extraction views created for the Power BI model
+- two SQL summary views created for quick business review
 - SQL preview screenshots captured
 
 Next stage:
@@ -18,27 +18,29 @@ Next stage:
 - connect Power BI to SQL Server
 - build the star schema model
 - create DAX measures
-- design dashboard pages
+- design report pages
 - add final insights and recommendations
 
 ## Project overview
 
-Nam Nam Australia is a fictional Australian retail business used for this portfolio project. The project analyses customer journey activity, marketing engagement, product feedback and customer segments using SQL Server and Power BI.
+Nam Nam Australia is a fictional Australian retail business used for this portfolio project.
 
-The current stage of the project focuses on the SQL layer. The Power BI report has not been built yet, so the dashboard screenshots, final insights and recommendations will be added later.
+The project analyses customer journey activity, marketing engagement, customer reviews, product performance and customer segments using SQL Server and Power BI.
+
+At this stage, the project focuses on the SQL and data model design work. The Power BI report has not been built yet, so dashboard screenshots and final recommendations will be added later.
 
 ## Business problem
 
-Nam Nam Australia has customer, product, journey, engagement, review and geography data available in SQL Server, but the data needs to be turned into a reporting model that can answer practical business questions.
+Nam Nam Australia has customer, product, journey, engagement, review and geography data available in SQL Server. The data is useful, but it needs to be organised into a reporting model that can answer business questions clearly.
 
-The main problem is that management does not yet have a clear view of:
+The main questions are:
 
-- which journey stages and touchpoints are linked with purchase outcomes;
-- which campaign channels generate engagement, conversion and unsubscribe risk;
-- which customer groups show stronger purchase behaviour;
-- which products or categories may need attention based on customer feedback.
+- which journey stages and touchpoints are linked with purchase outcomes
+- which campaign channels generate engagement, conversion and unsubscribe risk
+- which customer groups show stronger purchase behaviour
+- which products or categories may need attention based on reviews and sentiment
 
-This project builds the SQL and Power BI reporting layer needed to answer those questions.
+This project builds the SQL and Power BI reporting layer needed to analyse those areas.
 
 ## Key analysis questions
 
@@ -55,7 +57,7 @@ This project builds the SQL and Power BI reporting layer needed to answer those 
 
 The `customer_journey` table is treated as a customer lifecycle interaction log, not a strict checkout funnel.
 
-Each row represents one journey interaction event. The key fields are interpreted as follows:
+Each row represents one journey interaction event.
 
 | Field | Meaning |
 |---|---|
@@ -93,7 +95,7 @@ outcome = 'Purchased'
 
 and the related product unit price.
 
-This metric is useful for comparing relative performance across stages, products, channels and customer groups. It should not be read as audited sales revenue.
+This metric is useful for comparing relative performance across stages, channels, products and customer groups. It should not be read as audited sales revenue.
 
 ## Tools used
 
@@ -107,7 +109,7 @@ This metric is useful for comparing relative performance across stages, products
 
 ## Source tables
 
-The project uses six source tables in SQL Server:
+The project uses six source tables in SQL Server.
 
 | Source table | Area |
 |---|---|
@@ -132,26 +134,23 @@ The extraction views are the main source tables for the planned Power BI star sc
 
 ## Analytical SQL views completed
 
-Two analytical summary views have been created in SQL Server.
+Two SQL summary views have been created.
 
-These views are not a replacement for the Power BI star schema. They are small SQL summaries that make selected business checks easier to review and document.
+These views are not a replacement for the Power BI star schema. They are small SQL summaries used to check the data and document selected business logic.
 
 | SQL view | Grain | Purpose |
 |---|---|---|
-| `vw_journey_stage_summary` | One row per journey stage | Summarises lifecycle stage activity, touchpoints, purchase outcomes, no-action rate and estimated revenue |
+| `vw_journey_stage_summary` | One row per journey stage | Summarises stage activity, touchpoints, purchase outcomes, no-action rate and estimated revenue |
 | `vw_engagement_channel_summary` | One row per engagement channel | Summarises campaign channel activity, event share, engagement strength, conversion and unsubscribe risk |
 
-The analytical view creation script should be saved in:
+The SQL scripts are saved in the `sql/` folder.
 
-```text
-sql/03_create_analytical_views.sql
-```
-
-The validation checks should be saved in:
-
-```text
-sql/04_validate_analytical_views.sql
-```
+| SQL file | Purpose |
+|---|---|
+| `01_source_validation.sql` | Checks source table row counts and basic data quality |
+| `02_create_extraction_views.sql` | Creates the extraction views for the Power BI model |
+| `03_create_analytical_views.sql` | Creates the two SQL summary views |
+| `04_validate_analytical_views.sql` | Checks that the analytical views reconcile back to the source views |
 
 ## SQL preview screenshots
 
@@ -202,7 +201,7 @@ Current columns include:
 - `unsubscribe_events`
 - `unsubscribe_rate`
 
-The `engagement_event_share_rate` column uses a SQL window function to compare each channel's engagement events with the total engagement events across all channels.
+The `engagement_event_share_rate` column uses a SQL window function to compare each channel's engagement events with total engagement events across all channels.
 
 ## Planned Power BI model
 
@@ -221,7 +220,7 @@ The two analytical summary views may also be loaded into Power BI for reference 
 
 ## Planned dashboard pages
 
-The Power BI report is planned to include these pages:
+The Power BI report is planned to include these pages.
 
 | Page | Purpose |
 |---|---|
@@ -238,11 +237,8 @@ nam-nam-australia-marketing-analytics/
 ├── README.md
 ├── docs/
 │   ├── data_model_design.md
-│   ├── sql_analytical_views.md
-│   ├── powerbi_dashboard_plan.md
-│   └── project_status.md
+│   └── powerbi_dashboard_plan.md
 ├── sql/
-│   ├── README.md
 │   ├── 01_source_validation.sql
 │   ├── 02_create_extraction_views.sql
 │   ├── 03_create_analytical_views.sql
@@ -260,7 +256,7 @@ nam-nam-australia-marketing-analytics/
 2. Build the star schema model.
 3. Create DAX measures.
 4. Build dashboard pages.
-5. Replace placeholder sections with final screenshots, insights and recommendations.
+5. Replace the in-progress notes with final screenshots, insights and recommendations.
 
 ## Skills shown so far
 
