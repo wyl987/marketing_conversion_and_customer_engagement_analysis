@@ -1,0 +1,92 @@
+geography_id,state,suburb_name,suburb_postcode
+1,ACT,Belconnen,2617
+2,ACT,Canberra,2601
+3,ACT,Dickson,2602
+4,ACT,Gungahlin,2912
+5,ACT,Kingston,2604
+6,ACT,Tuggeranong,2900
+7,ACT,Woden,2606
+8,NSW,Blacktown,2148
+9,NSW,Bondi,2026
+10,NSW,Chatswood,2067
+11,NSW,Coffs Harbour,2450
+12,NSW,Dubbo,2830
+13,NSW,Hurstville,2220
+14,NSW,Liverpool,2170
+15,NSW,Manly,2095
+16,NSW,Newcastle,2300
+17,NSW,Newtown,2042
+18,NSW,Parramatta,2150
+19,NSW,Penrith,2750
+20,NSW,Surry Hills,2010
+21,NSW,Sydney,2000
+22,NSW,Wollongong,2500
+23,NT,Alice Springs,870
+24,NT,Casuarina,810
+25,NT,Darwin,800
+26,NT,Katherine,850
+27,NT,Nhulunbuy,880
+28,NT,Palmerston,830
+29,QLD,Brisbane City,4000
+30,QLD,Cairns,4870
+31,QLD,Chermside,4032
+32,QLD,Fortitude Valley,4006
+33,QLD,Gold Coast,4217
+34,QLD,Logan Central,4114
+35,QLD,Mackay,4740
+36,QLD,Mount Gravatt,4122
+37,QLD,Noosa Heads,4567
+38,QLD,Robina,4226
+39,QLD,South Brisbane,4101
+40,QLD,Toowong,4066
+41,QLD,Toowoomba,4350
+42,QLD,Townsville,4810
+43,SA,Adelaide,5000
+44,SA,Glenelg,5045
+45,SA,Mawson Lakes,5095
+46,SA,Mount Gambier,5290
+47,SA,Murray Bridge,5253
+48,SA,North Adelaide,5006
+49,SA,Norwood,5067
+50,SA,Port Adelaide,5015
+51,SA,Prospect,5082
+52,SA,Victor Harbor,5211
+53,SA,Whyalla,5600
+54,TAS,Burnie,7320
+55,TAS,Devonport,7310
+56,TAS,Glenorchy,7010
+57,TAS,Hobart,7000
+58,TAS,Kingston,7050
+59,TAS,Launceston,7250
+60,TAS,New Norfolk,7140
+61,TAS,Sandy Bay,7005
+62,VIC,Ballarat,3350
+63,VIC,Bendigo,3550
+64,VIC,Box Hill,3128
+65,VIC,Brunswick,3056
+66,VIC,Carlton,3053
+67,VIC,Clayton,3168
+68,VIC,Dandenong,3175
+69,VIC,Footscray,3011
+70,VIC,Geelong,3220
+71,VIC,Glen Waverley,3150
+72,VIC,Hawthorn,3122
+73,VIC,Melbourne,3000
+74,VIC,Preston,3072
+75,VIC,Reservoir,3073
+76,VIC,Richmond,3121
+77,VIC,Southbank,3006
+78,VIC,St Kilda,3182
+79,VIC,Werribee,3030
+80,WA,Albany,6330
+81,WA,Broome,6725
+82,WA,Bunbury,6230
+83,WA,Cannington,6107
+84,WA,Fremantle,6160
+85,WA,Geraldton,6530
+86,WA,Joondalup,6027
+87,WA,Mandurah,6210
+88,WA,Midland,6056
+89,WA,Perth,6000
+90,WA,Rockingham,6168
+91,WA,Subiaco,6008

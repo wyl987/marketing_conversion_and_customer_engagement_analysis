@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,unit_price,cost_price,launch_date,active_flag
+PROD0001,Everyday Wireless Earbuds,Electronics,Harbour Lane,220.09,136.29,2023-06-29,1
+PROD0002,Travel Bluetooth Speaker,Electronics,Banksia,238.48,107.57,2021-10-14,1
+PROD0003,Family Tablet Stand,Electronics,Harbour Lane,171.83,121.83,2026-01-07,1
+PROD0004,Classic USB-C Hub,Electronics,Northshore,175.52,95.74,2023-01-26,1
+PROD0005,Eco Smart Watch,Electronics,Koala & Co,226.46,143.29,2021-02-23,1
+PROD0006,Classic Phone Case,Electronics,Harbour Lane,148.27,65.77,2021-07-22,1
+PROD0007,Plus Laptop Sleeve,Electronics,Urban Basics,201.4,129.4,2024-08-23,1
+PROD0008,Lite Portable Charger,Electronics,Koala & Co,223.43,160.57,2026-01-09,1
+PROD0009,Compact Desk Lamp,Electronics,Northshore,84.7,39.26,2024-08-23,1
+PROD0010,Pro Streaming Webcam,Electronics,Urban Basics,58.3,33.87,2020-03-30,1
+PROD0011,Lite Wireless Earbuds,Electronics,Everyday Select,136.9,65.33,2023-10-07,1
+PROD0012,Classic Bluetooth Speaker,Electronics,MetroCart,69.67,43.11,2025-10-11,1
+PROD0013,Travel Tablet Stand,Electronics,Blue Gum,48.84,25.71,2022-09-05,1
+PROD0014,Premium USB-C Hub,Electronics,Harbour Lane,29.05,13.13,2025-09-23,1
+PROD0015,Compact Smart Watch,Electronics,MetroCart,51.02,32.47,2023-10-10,1
+PROD0016,Compact Phone Case,Electronics,BrightBay,169.13,79.35,2025-05-11,1
+PROD0017,Family Laptop Sleeve,Electronics,Northshore,55.7,32.66,2022-06-07,1
+PROD0018,Everyday Portable Charger,Electronics,Wattle Home,125.64,73.91,2025-04-29,1
+PROD0019,Eco Desk Lamp,Electronics,Wattle Home,180.0,113.51,2022-04-10,1
+PROD0020,Plus Streaming Webcam,Electronics,Banksia,170.61,116.51,2023-12-17,1
+PROD0021,Eco Cotton T-Shirt,Clothing,AussieNest,147.49,93.7,2020-12-17,1
+PROD0022,Lite Linen Shirt,Clothing,Everyday Select,64.88,37.22,2020-09-14,1
+PROD0023,Travel Denim Jacket,Clothing,Southern Cross,19.47,9.06,2021-08-09,1
+PROD0024,Compact Running Shorts,Clothing,Northshore,140.77,83.16,2024-08-14,1
+PROD0025,Travel Puffer Vest,Clothing,Northshore,81.62,52.22,2022-09-15,1
+PROD0026,Lite Casual Hoodie,Clothing,Everyday Select,93.82,64.9,2023-06-27,1
+PROD0027,Pro Chino Pants,Clothing,Wattle Home,70.67,36.19,2025-12-13,1
+PROD0028,Compact Wool Scarf,Clothing,Northshore,88.35,39.52,2022-05-20,1
+PROD0029,Classic Canvas Cap,Clothing,Bushland,27.85,16.38,2025-01-15,1
+PROD0030,Family Active Leggings,Clothing,Banksia,45.42,31.22,2021-11-07,1
+PROD0031,Family Cotton T-Shirt,Clothing,Bushland,153.3,76.71,2020-11-26,1
+PROD0032,Family Linen Shirt,Clothing,Wattle Home,110.0,76.63,2020-04-23,1
+PROD0033,Everyday Denim Jacket,Clothing,Koala & Co,110.43,78.76,2021-09-16,1
+PROD0034,Family Running Shorts,Clothing,Urban Basics,23.43,13.12,2022-09-15,1
+PROD0035,Classic Puffer Vest,Clothing,BrightBay,151.55,87.44,2025-03-19,1
+PROD0036,Lite Casual Hoodie,Clothing,AussieNest,114.52,67.67,2021-07-11,1
+PROD0037,Pro Chino Pants,Clothing,Blue Gum,60.77,40.57,2024-01-05,1
+PROD0038,Premium Wool Scarf,Clothing,MetroCart,37.13,20.55,2025-03-14,1
+PROD0039,Everyday Canvas Cap,Clothing,Sundown,145.27,93.83,2021-09-14,1
+PROD0040,Classic Active Leggings,Clothing,Urban Basics,29.27,13.16,2020-07-06,1
+PROD0041,Travel Ceramic Mug,Home & Living,Sundown,88.03,62.79,2023-09-27,1
+PROD0042,Travel Scented Candle,Home & Living,Southern Cross,36.68,16.31,2024-02-25,1
+PROD0043,Pro Throw Blanket,Home & Living,Bushland,44.44,20.91,2021-02-17,1
+PROD0044,Lite Storage Basket,Home & Living,AussieNest,93.15,46.05,2024-04-09,1
+PROD0045,Classic Bath Towel Set,Home & Living,Everyday Select,150.68,74.85,2020-07-05,1
+PROD0046,Everyday Indoor Planter,Home & Living,Harbour Lane,146.04,98.89,2025-10-13,1
+PROD0047,Travel Wall Clock,Home & Living,Bushland,103.64,47.57,2023-10-11,1
+PROD0048,Premium Bamboo Cutlery Set,Home & Living,Blue Gum,74.68,38.48,2023-01-23,1
+PROD0049,Premium Memory Foam Pillow,Home & Living,Blue Gum,161.64,81.6,2025-10-11,1
+PROD0050,Family Laundry Hamper,Home & Living,Banksia,70.29,34.0,2023-02-15,1
+PROD0051,Eco Ceramic Mug,Home & Living,Koala & Co,67.16,41.01,2024-04-16,0
+PROD0052,Everyday Scented Candle,Home & Living,MetroCart,47.25,23.69,2024-12-30,0
+PROD0053,Eco Throw Blanket,Home & Living,Harbour Lane,113.39,58.63,2025-02-07,1
+PROD0054,Travel Storage Basket,Home & Living,Terra,153.96,97.49,2020-10-20,1
+PROD0055,Pro Bath Towel Set,Home & Living,Banksia,61.3,35.72,2025-12-14,1
+PROD0056,Compact Indoor Planter,Home & Living,Urban Basics,20.59,10.63,2021-10-18,1
+PROD0057,Lite Wall Clock,Home & Living,Blue Gum,102.46,62.19,2026-03-13,1
+PROD0058,Premium Bamboo Cutlery Set,Home & Living,Everyday Select,85.79,40.17,2021-10-05,0
+PROD0059,Everyday Memory Foam Pillow,Home & Living,Northshore,73.81,50.76,2023-09-16,0
+PROD0060,Premium Laundry Hamper,Home & Living,Wattle Home,85.96,47.97,2022-10-25,1
+PROD0061,Premium Face Cleanser,Beauty & Personal Care,Wattle Home,127.81,65.84,2020-07-17,1
+PROD0062,Plus Moisturiser,Beauty & Personal Care,Everyday Select,119.38,76.97,2020-12-14,1
+PROD0063,Premium Hair Dryer,Beauty & Personal Care,Bushland,112.26,71.33,2023-03-02,1
+PROD0064,Classic Sunscreen SPF50,Beauty & Personal Care,Wattle Home,42.41,28.31,2022-07-23,1
+PROD0065,Classic Lip Balm,Beauty & Personal Care,BrightBay,37.96,20.4,2023-01-20,1
+PROD0066,Travel Body Wash,Beauty & Personal Care,Urban Basics,111.47,66.28,2021-02-15,1
+PROD0067,Lite Shampoo Bar,Beauty & Personal Care,BrightBay,90.67,47.88,2024-05-20,1
+PROD0068,Lite Makeup Brush Set,Beauty & Personal Care,Harbour Lane,31.88,17.15,2025-02-15,1
+PROD0069,Classic Hand Cream,Beauty & Personal Care,Wattle Home,22.96,11.83,2023-05-13,1
+PROD0070,Lite Facial Mist,Beauty & Personal Care,Northshore,31.09,14.84,2025-10-13,1
+PROD0071,Compact Face Cleanser,Beauty & Personal Care,MetroCart,30.25,14.08,2020-09-29,1
+PROD0072,Lite Moisturiser,Beauty & Personal Care,Blue Gum,130.88,91.39,2021-04-06,1
+PROD0073,Everyday Hair Dryer,Beauty & Personal Care,Southern Cross,31.0,18.6,2021-06-28,1
+PROD0074,Classic Sunscreen SPF50,Beauty & Personal Care,Everyday Select,62.43,36.6,2020-09-03,1
+PROD0075,Compact Lip Balm,Beauty & Personal Care,Urban Basics,43.92,20.24,2025-09-09,1
+PROD0076,Eco Body Wash,Beauty & Personal Care,Southern Cross,25.23,15.62,2025-05-06,1
+PROD0077,Pro Shampoo Bar,Beauty & Personal Care,BrightBay,26.59,13.91,2025-09-19,1
+PROD0078,Classic Makeup Brush Set,Beauty & Personal Care,Blue Gum,38.31,24.93,2024-04-06,1
+PROD0079,Classic Hand Cream,Beauty & Personal Care,Terra,103.08,46.83,2023-10-02,1
+PROD0080,Everyday Facial Mist,Beauty & Personal Care,Urban Basics,73.33,46.01,2022-11-18,1
+PROD0081,Compact Yoga Mat,Sports & Outdoors,MetroCart,43.07,28.97,2024-03-04,1
+PROD0082,Pro Resistance Band Set,Sports & Outdoors,Sundown,165.71,87.95,2021-09-15,1
+PROD0083,Pro Hiking Bottle,Sports & Outdoors,BrightBay,76.76,32.55,2022-03-15,1
+PROD0084,Classic Cycling Gloves,Sports & Outdoors,Northshore,207.57,114.43,2022-08-18,1
+PROD0085,Classic Gym Towel,Sports & Outdoors,Urban Basics,63.16,29.39,2022-10-24,1
+PROD0086,Eco Foam Roller,Sports & Outdoors,Northshore,9.22,6.3,2024-01-19,1
+PROD0087,Plus Running Belt,Sports & Outdoors,BrightBay,79.41,43.23,2023-04-21,1
+PROD0088,Family Picnic Rug,Sports & Outdoors,BrightBay,89.94,54.21,2023-05-19,0
+PROD0089,Pro Camping Lantern,Sports & Outdoors,Blue Gum,138.16,93.06,2022-09-18,1
+PROD0090,Everyday Swim Goggles,Sports & Outdoors,Harbour Lane,108.57,59.79,2025-11-01,1
+PROD0091,Premium Yoga Mat,Sports & Outdoors,BrightBay,185.07,130.87,2021-05-31,1
+PROD0092,Plus Resistance Band Set,Sports & Outdoors,Terra,218.58,141.66,2020-12-18,1
+PROD0093,Travel Hiking Bottle,Sports & Outdoors,Harbour Lane,109.64,72.82,2020-10-05,1
+PROD0094,Compact Cycling Gloves,Sports & Outdoors,Koala & Co,39.21,23.94,2025-11-25,0
+PROD0095,Plus Gym Towel,Sports & Outdoors,Everyday Select,204.58,97.53,2022-12-06,1
+PROD0096,Classic Foam Roller,Sports & Outdoors,Northshore,38.18,25.95,2025-04-19,1
+PROD0097,Travel Running Belt,Sports & Outdoors,Banksia,128.84,62.91,2020-10-28,0
+PROD0098,Travel Picnic Rug,Sports & Outdoors,AussieNest,18.0,8.13,2022-05-31,1
+PROD0099,Family Camping Lantern,Sports & Outdoors,Terra,197.89,104.92,2020-03-16,1
+PROD0100,Lite Swim Goggles,Sports & Outdoors,Southern Cross,63.71,39.88,2025-05-31,1
+PROD0101,Premium Dog Leash,Pet Supplies,Blue Gum,84.7,39.01,2024-09-12,1
+PROD0102,Classic Cat Scratcher,Pet Supplies,Sundown,16.91,11.45,2022-03-18,1
+PROD0103,Eco Pet Bowl,Pet Supplies,Northshore,43.33,27.26,2025-02-18,1
+PROD0104,Pro Dog Toy,Pet Supplies,Northshore,96.55,45.99,2022-10-22,1
+PROD0105,Compact Pet Grooming Brush,Pet Supplies,Wattle Home,133.69,88.36,2022-07-05,1
+PROD0106,Eco Cat Litter Mat,Pet Supplies,Bushland,95.23,52.42,2021-12-13,1
+PROD0107,Compact Pet Bed,Pet Supplies,BrightBay,58.49,40.99,2020-10-07,1
+PROD0108,Pro Treat Pouch,Pet Supplies,Bushland,34.99,15.25,2023-02-16,1
+PROD0109,Compact Bird Feeder,Pet Supplies,Wattle Home,26.36,17.87,2022-05-17,1
+PROD0110,Classic Aquarium Net,Pet Supplies,Everyday Select,55.26,28.79,2023-05-22,1
+PROD0111,Eco Dog Leash,Pet Supplies,Everyday Select,32.69,14.39,2023-08-25,1
+PROD0112,Travel Cat Scratcher,Pet Supplies,Urban Basics,58.46,34.54,2025-12-07,1
+PROD0113,Everyday Pet Bowl,Pet Supplies,Bushland,136.44,97.0,2022-09-21,1
+PROD0114,Classic Dog Toy,Pet Supplies,Urban Basics,28.77,13.86,2023-12-05,1
+PROD0115,Classic Pet Grooming Brush,Pet Supplies,AussieNest,81.23,55.29,2025-05-19,1
+PROD0116,Premium Cat Litter Mat,Pet Supplies,Urban Basics,127.56,58.19,2023-02-17,1
+PROD0117,Premium Pet Bed,Pet Supplies,Koala & Co,125.4,82.95,2025-02-21,1
+PROD0118,Eco Treat Pouch,Pet Supplies,AussieNest,57.18,34.62,2024-12-25,1
+PROD0119,Eco Bird Feeder,Pet Supplies,Koala & Co,33.2,23.2,2022-01-17,1
+PROD0120,Pro Aquarium Net,Pet Supplies,Sundown,38.72,23.21,2020-03-05,1
+PROD0121,Compact Car Phone Mount,Automotive,Urban Basics,41.16,23.08,2025-01-22,1
+PROD0122,Pro Microfibre Cloths,Automotive,Sundown,114.12,75.94,2021-09-25,1
+PROD0123,Compact Tyre Pressure Gauge,Automotive,Wattle Home,152.49,94.16,2025-04-07,1
+PROD0124,Plus Boot Organiser,Automotive,Sundown,174.15,83.6,2026-03-30,1
+PROD0125,Lite Car Sunshade,Automotive,Blue Gum,103.96,65.75,2021-07-10,1
+PROD0126,Premium Seat Gap Filler,Automotive,Southern Cross,146.06,100.52,2021-08-06,1
+PROD0127,Compact Dashboard Cleaner,Automotive,Urban Basics,149.77,90.6,2023-07-31,1
+PROD0128,Compact Travel Cooler Bag,Automotive,Banksia,148.35,85.74,2025-02-25,1
+PROD0129,Pro Emergency Torch,Automotive,Northshore,24.16,15.42,2024-04-23,1
+PROD0130,Travel Window Shade,Automotive,BrightBay,123.12,77.13,2025-04-24,1
+PROD0131,Pro Car Phone Mount,Automotive,Urban Basics,62.63,34.61,2023-09-12,0
+PROD0132,Everyday Microfibre Cloths,Automotive,Sundown,138.26,69.5,2022-10-10,0
+PROD0133,Classic Tyre Pressure Gauge,Automotive,Wattle Home,61.47,39.66,2022-12-26,1
+PROD0134,Compact Boot Organiser,Automotive,MetroCart,87.08,61.08,2024-07-24,1
+PROD0135,Plus Car Sunshade,Automotive,Blue Gum,130.7,64.99,2020-05-29,1
+PROD0136,Lite Seat Gap Filler,Automotive,Terra,150.19,75.35,2022-10-02,1
+PROD0137,Travel Dashboard Cleaner,Automotive,Harbour Lane,49.47,25.31,2025-12-10,1
+PROD0138,Pro Travel Cooler Bag,Automotive,AussieNest,61.96,31.07,2022-06-15,1
+PROD0139,Family Emergency Torch,Automotive,Sundown,133.37,63.64,2022-03-15,0
+PROD0140,Everyday Window Shade,Automotive,Sundown,47.99,20.47,2025-10-12,1
+PROD0141,Plus Notebook Set,Books & Stationery,MetroCart,45.22,30.86,2023-11-25,1
+PROD0142,Premium Gel Pen Pack,Books & Stationery,Everyday Select,15.35,9.43,2022-08-31,1
+PROD0143,Pro Planner,Books & Stationery,Northshore,14.35,8.14,2022-03-30,1
+PROD0144,Classic Desk Organiser,Books & Stationery,Wattle Home,20.49,12.06,2026-03-06,1
+PROD0145,Family Sticky Notes,Books & Stationery,Southern Cross,67.17,39.49,2022-07-22,1
+PROD0146,Compact Bookmark Set,Books & Stationery,Everyday Select,38.49,23.57,2021-11-12,1
+PROD0147,Premium Sketch Pad,Books & Stationery,Northshore,33.37,14.69,2022-04-05,1
+PROD0148,Lite Mechanical Pencil,Books & Stationery,Urban Basics,77.61,38.85,2022-08-16,1
+PROD0149,Pro Document Folder,Books & Stationery,Everyday Select,68.8,46.16,2021-01-16,1
+PROD0150,Classic Whiteboard Marker Set,Books & Stationery,Northshore,10.29,6.91,2021-10-07,1
+PROD0151,Premium Notebook Set,Books & Stationery,Everyday Select,64.47,31.33,2024-10-08,1
+PROD0152,Family Gel Pen Pack,Books & Stationery,Terra,16.45,9.83,2024-05-11,1
+PROD0153,Lite Planner,Books & Stationery,Koala & Co,6.0,3.89,2020-01-07,1
+PROD0154,Lite Desk Organiser,Books & Stationery,Urban Basics,47.54,28.11,2024-11-17,1
+PROD0155,Premium Sticky Notes,Books & Stationery,Blue Gum,69.39,30.22,2023-04-30,1
+PROD0156,Premium Bookmark Set,Books & Stationery,Terra,56.02,37.63,2021-04-17,1
+PROD0157,Pro Sketch Pad,Books & Stationery,Harbour Lane,69.11,49.26,2023-09-09,1
+PROD0158,Travel Mechanical Pencil,Books & Stationery,Urban Basics,51.97,37.02,2020-04-04,1
+PROD0159,Compact Document Folder,Books & Stationery,Southern Cross,5.66,3.04,2024-06-18,1
+PROD0160,Classic Whiteboard Marker Set,Books & Stationery,Urban Basics,52.37,37.67,2021-09-20,1
+PROD0161,Premium Digital Thermometer,Health & Wellness,MetroCart,59.32,28.93,2024-06-05,1
+PROD0162,Compact Heat Pack,Health & Wellness,Bushland,132.3,67.47,2023-03-25,1
+PROD0163,Premium Posture Cushion,Health & Wellness,Southern Cross,53.13,29.4,2021-09-22,1
+PROD0164,Compact Eye Mask,Health & Wellness,Banksia,73.54,44.84,2020-10-14,1
+PROD0165,Lite Massage Ball,Health & Wellness,Bushland,165.22,104.21,2020-03-15,1
+PROD0166,Compact Water Flosser,Health & Wellness,Harbour Lane,53.82,32.28,2024-02-28,0
+PROD0167,Travel First Aid Kit,Health & Wellness,Terra,89.07,51.3,2025-08-08,1
+PROD0168,Plus Humidifier,Health & Wellness,Urban Basics,103.99,45.38,2026-02-24,1
+PROD0169,Classic Pill Organiser,Health & Wellness,Terra,38.77,24.14,2020-02-18,1
+PROD0170,Premium Compression Socks,Health & Wellness,Urban Basics,139.52,77.48,2022-08-31,1
+PROD0171,Plus Digital Thermometer,Health & Wellness,Everyday Select,133.17,89.26,2021-08-13,1
+PROD0172,Lite Heat Pack,Health & Wellness,Harbour Lane,80.08,42.79,2024-03-10,1
+PROD0173,Plus Posture Cushion,Health & Wellness,Southern Cross,41.21,23.99,2025-08-12,0
+PROD0174,Compact Eye Mask,Health & Wellness,BrightBay,186.45,90.95,2022-05-29,1
+PROD0175,Pro Massage Ball,Health & Wellness,Sundown,198.69,134.36,2024-11-18,1
+PROD0176,Travel Water Flosser,Health & Wellness,BrightBay,119.72,58.27,2022-07-27,1
+PROD0177,Travel First Aid Kit,Health & Wellness,MetroCart,24.97,12.15,2024-01-12,1
+PROD0178,Plus Humidifier,Health & Wellness,Harbour Lane,66.93,39.71,2024-07-03,1
+PROD0179,Plus Pill Organiser,Health & Wellness,Banksia,133.72,90.19,2022-08-22,1
+PROD0180,Eco Compression Socks,Health & Wellness,Banksia,207.65,131.61,2021-02-05,1
+PROD0181,Classic Specialty Coffee Beans,Grocery & Gourmet,Urban Basics,52.54,37.83,2023-01-19,1
+PROD0182,Family Organic Tea Bags,Grocery & Gourmet,Sundown,11.47,7.47,2022-01-16,1
+PROD0183,Classic Granola Mix,Grocery & Gourmet,BrightBay,15.04,7.23,2023-03-14,1
+PROD0184,Premium Olive Oil,Grocery & Gourmet,Koala & Co,18.78,9.38,2023-06-17,1
+PROD0185,Classic Pasta Sauce,Grocery & Gourmet,Sundown,4.49,2.38,2024-03-17,1
+PROD0186,Plus Dark Chocolate,Grocery & Gourmet,Wattle Home,58.63,41.18,2022-12-27,1
+PROD0187,Family Spice Blend,Grocery & Gourmet,Bushland,39.58,20.53,2025-04-28,1
+PROD0188,Pro Honey Jar,Grocery & Gourmet,Terra,37.49,26.92,2022-11-18,1
+PROD0189,Classic Nut Mix,Grocery & Gourmet,Banksia,37.58,24.61,2022-06-24,1
+PROD0190,Everyday Breakfast Cereal,Grocery & Gourmet,Blue Gum,43.87,24.75,2026-03-02,1
+PROD0191,Family Specialty Coffee Beans,Grocery & Gourmet,Banksia,37.06,23.45,2023-08-24,1
+PROD0192,Family Organic Tea Bags,Grocery & Gourmet,Sundown,22.85,15.15,2020-01-31,1
+PROD0193,Travel Granola Mix,Grocery & Gourmet,Koala & Co,10.03,4.76,2022-02-06,1
+PROD0194,Eco Olive Oil,Grocery & Gourmet,Southern Cross,20.85,8.92,2024-12-17,1
+PROD0195,Lite Pasta Sauce,Grocery & Gourmet,MetroCart,24.34,16.57,2026-01-11,1
+PROD0196,Classic Dark Chocolate,Grocery & Gourmet,Banksia,27.3,13.62,2024-03-15,1
+PROD0197,Compact Spice Blend,Grocery & Gourmet,MetroCart,43.49,21.83,2020-11-01,1
+PROD0198,Eco Honey Jar,Grocery & Gourmet,Southern Cross,56.03,32.12,2021-03-02,1
+PROD0199,Family Nut Mix,Grocery & Gourmet,Koala & Co,5.18,2.82,2022-09-28,1
+PROD0200,Family Breakfast Cereal,Grocery & Gourmet,Wattle Home,10.43,6.09,2021-02-19,1

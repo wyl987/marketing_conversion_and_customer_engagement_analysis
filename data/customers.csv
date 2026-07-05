@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,gender,age,age_group,geography_id,income_band,membership_tier,acquisition_channel,signup_date,email_opt_in,sms_opt_in
+CUST000001,Theodore,White,Male,28,25-34,17,120k-160k,Silver,Affiliate,2021-10-03,1,0
+CUST000002,Hudson,Wong,Male,46,45-54,79,80k-120k,Platinum,Affiliate,2026-01-19,0,0
+CUST000003,Henry,Hall,Male,41,35-44,13,Under 50k,Silver,Affiliate,2023-12-14,1,0
+CUST000004,Henry,Taylor,Male,38,35-44,21,50k-80k,Platinum,Email Campaign,2023-09-07,1,0
+CUST000005,Ethan,Williams,Male,18,18-24,22,Under 50k,Bronze,Paid Search,2021-10-15,1,0
+CUST000006,Lily,Chen,Female,49,45-54,72,Under 50k,Silver,Affiliate,2021-02-02,1,0
+CUST000007,Emily,Johnson,Female,40,35-44,4,50k-80k,Bronze,Organic Search,2024-08-08,1,0
+CUST000008,Ava,White,Female,43,35-44,33,120k-160k,Gold,Organic Search,2022-03-07,0,1
+CUST000009,Levi,Scott,Non-binary,32,25-34,72,80k-120k,Bronze,Social Media,2022-12-09,1,0
+CUST000010,Mason,Young,Male,19,18-24,35,120k-160k,Bronze,Paid Search,2024-02-13,1,0
+CUST000011,Lucy,Brown,Female,32,25-34,79,80k-120k,Bronze,Marketplace,2024-05-23,1,1
+CUST000012,Theodore,Jones,Male,18,18-24,68,50k-80k,Silver,Referral,2022-06-28,1,0
+CUST000013,Archie,Allen,Male,30,25-34,39,50k-80k,Silver,Social Media,2021-07-06,0,1
+CUST000014,Sarah,Nguyen,Female,22,18-24,24,80k-120k,Bronze,Organic Search,2021-06-22,0,0
+CUST000015,Harrison,Nguyen,Male,38,35-44,62,Under 50k,Bronze,In-store QR,2025-04-07,1,1
+CUST000016,Thomas,Patel,Non-binary,45,45-54,65,80k-120k,Bronze,Social Media,2026-03-11,1,1
+CUST000017,Liam,Nguyen,Male,43,35-44,11,Under 50k,Bronze,Marketplace,2022-10-30,1,1
+CUST000018,Jessica,Wong,Female,45,45-54,73,80k-120k,Silver,Referral,2025-07-15,0,0
+CUST000019,Xavier,Singh,Male,38,35-44,15,50k-80k,Silver,Social Media,2024-06-07,1,1
+CUST000020,Maddison,Smith,Female,23,18-24,69,80k-120k,Silver,Marketplace,2021-07-06,1,0
+CUST000021,Isla,Allen,Female,21,18-24,74,50k-80k,Silver,Email Campaign,2026-02-20,1,0
+CUST000022,Charlotte,Roberts,Female,70,55+,44,80k-120k,Gold,In-store QR,2024-01-04,1,1
+CUST000023,Charlie,Anderson,Male,53,45-54,62,160k+,Bronze,Social Media,2021-06-26,1,1
+CUST000024,Lucas,Davis,Male,40,35-44,36,Under 50k,Bronze,In-store QR,2022-12-08,1,1
+CUST000025,Lily,Scott,Non-binary,40,35-44,65,160k+,Silver,In-store QR,2023-06-13,1,0
+CUST000026,Leo,Nguyen,Male,32,25-34,63,50k-80k,Bronze,Social Media,2025-06-15,1,0
+CUST000027,Cooper,Wong,Male,59,55+,70,120k-160k,Bronze,Organic Search,2025-02-03,1,0
+CUST000028,Max,Martin,Male,31,25-34,36,80k-120k,Gold,Referral,2021-10-02,1,0
+CUST000029,Harrison,Smith,Male,52,45-54,42,50k-80k,Silver,Organic Search,2021-11-08,1,1
+CUST000030,Theodore,Hall,Male,31,25-34,32,160k+,Bronze,Affiliate,2021-01-29,0,1
+CUST000031,Amelia,Taylor,Female,59,55+,11,120k-160k,Bronze,Social Media,2023-09-26,1,1
+CUST000032,Liam,Anderson,Male,42,35-44,39,Under 50k,Platinum,Social Media,2021-12-07,1,1
+CUST000033,Sophie,Thompson,Female,40,35-44,37,50k-80k,Gold,Referral,2024-01-02,1,0
+CUST000034,Hannah,Hall,Female,32,25-34,12,Under 50k,Bronze,Social Media,2023-05-10,1,1
+CUST000035,Harrison,Jones,Male,27,25-34,52,120k-160k,Bronze,In-store QR,2023-06-07,1,0
+CUST000036,Charlie,Nguyen,Male,31,25-34,11,50k-80k,Gold,Paid Search,2024-07-25,1,1
+CUST000037,Hannah,Wilson,Female,39,35-44,14,120k-160k,Gold,In-store QR,2023-03-25,1,1
+CUST000038,James,Tran,Male,56,55+,10,80k-120k,Silver,Marketplace,2025-06-04,1,1
+CUST000039,Oliver,Smith,Male,33,25-34,72,80k-120k,Bronze,Paid Search,2022-09-18,0,0
+CUST000040,Grace,Taylor,Female,25,25-34,41,50k-80k,Silver,Affiliate,2026-03-31,0,0
+CUST000041,Max,Baker,Male,42,35-44,16,Under 50k,Bronze,Social Media,2024-02-28,1,1
+CUST000042,Zoe,Anderson,Female,40,35-44,34,Under 50k,Bronze,Paid Search,2024-12-18,1,0
+CUST000043,Leo,Davis,Male,22,18-24,75,Under 50k,Bronze,Social Media,2022-06-23,1,1
+CUST000044,Hudson,Miller,Male,23,18-24,81,80k-120k,Bronze,Social Media,2022-06-13,0,0
+CUST000045,Abigail,Patel,Female,61,55+,14,80k-120k,Gold,Affiliate,2025-04-21,1,0
+CUST000046,Emily,Wong,Female,33,25-34,13,50k-80k,Gold,Referral,2023-07-02,1,1
+CUST000047,Chloe,Williams,Female,23,18-24,78,120k-160k,Bronze,Paid Search,2026-02-06,1,1
+CUST000048,Maddison,Singh,Female,23,18-24,90,50k-80k,Silver,In-store QR,2021-03-01,0,1
+CUST000049,Cooper,Taylor,Male,38,35-44,8,50k-80k,Bronze,In-store QR,2023-03-16,1,0
+CUST000050,Lucy,King,Female,33,25-34,37,50k-80k,Bronze,Social Media,2024-07-30,0,1
+CUST000051,Leo,Anderson,Male,41,35-44,5,80k-120k,Bronze,Marketplace,2023-03-17,1,1
+CUST000052,Mason,Tran,Male,47,45-54,43,80k-120k,Bronze,Organic Search,2023-02-23,1,0
+CUST000053,Oliver,Patel,Male,34,25-34,68,50k-80k,Gold,Affiliate,2025-03-24,0,0
+CUST000054,Emily,Nguyen,Female,62,55+,47,50k-80k,Silver,Affiliate,2022-05-21,1,1
+CUST000055,Ava,Green,Female,36,35-44,13,120k-160k,Bronze,Marketplace,2025-06-21,1,1
+CUST000056,Olivia,Johnson,Female,42,35-44,70,50k-80k,Silver,Social Media,2024-01-11,1,0
+CUST000057,Charlie,Davis,Male,43,35-44,45,Under 50k,Bronze,Affiliate,2023-12-03,0,1
+CUST000058,Sophie,Hall,Female,46,45-54,65,120k-160k,Silver,Affiliate,2025-12-16,0,0
+CUST000059,Thomas,Thompson,Male,35,35-44,29,80k-120k,Bronze,In-store QR,2021-07-12,1,0
+CUST000060,Maddison,Singh,Female,18,18-24,72,50k-80k,Bronze,In-store QR,2022-10-17,1,1
+CUST000061,Lucy,Anderson,Female,18,18-24,73,Under 50k,Bronze,Marketplace,2024-08-19,1,1
+CUST000062,Oscar,Brown,Male,52,45-54,83,50k-80k,Gold,Organic Search,2021-01-09,1,1
+CUST000063,Lily,Chen,Female,23,18-24,44,50k-80k,Bronze,Paid Search,2025-05-14,1,1
+CUST000064,Lily,Wong,Female,51,45-54,65,160k+,Bronze,Marketplace,2023-11-17,1,1
+CUST000065,Theodore,Williams,Male,20,18-24,19,80k-120k,Silver,Social Media,2021-04-17,1,0
+CUST000066,Archie,Roberts,Male,53,45-54,17,80k-120k,Bronze,In-store QR,2021-06-04,0,1
+CUST000067,William,White,Male,39,35-44,13,50k-80k,Platinum,In-store QR,2022-04-07,1,1
+CUST000068,Zoe,Allen,Female,61,55+,66,Under 50k,Silver,Social Media,2026-05-30,0,0
+CUST000069,Abigail,Wilson,Female,26,25-34,13,120k-160k,Bronze,Affiliate,2022-06-07,0,1
+CUST000070,Oliver,Patel,Male,33,25-34,9,80k-120k,Silver,Email Campaign,2025-06-08,1,0
+CUST000071,Abigail,Allen,Female,34,25-34,13,160k+,Gold,Marketplace,2026-01-30,0,1
+CUST000072,Cooper,Wilson,Male,49,45-54,78,Under 50k,Bronze,Social Media,2022-10-06,1,1
+CUST000073,Sarah,Wilson,Female,36,35-44,67,80k-120k,Bronze,Social Media,2026-05-23,1,0
+CUST000074,Henry,King,Prefer not to say,46,45-54,30,50k-80k,Bronze,In-store QR,2024-04-06,1,0
+CUST000075,Sarah,Patel,Female,58,55+,25,80k-120k,Gold,Affiliate,2026-05-27,1,0
+CUST000076,Emily,Brown,Female,44,35-44,38,80k-120k,Bronze,Email Campaign,2023-05-04,0,0
+CUST000077,Matilda,Wong,Female,36,35-44,12,50k-80k,Bronze,In-store QR,2022-10-20,0,1
+CUST000078,Thomas,Roberts,Male,50,45-54,8,50k-80k,Bronze,Email Campaign,2021-05-17,1,0
+CUST000079,Ethan,White,Male,35,35-44,28,Under 50k,Bronze,In-store QR,2025-08-08,0,1
+CUST000080,Max,Young,Non-binary,60,55+,41,120k-160k,Bronze,Email Campaign,2023-03-14,0,1
+CUST000081,Ruby,Anderson,Female,34,25-34,63,120k-160k,Silver,Referral,2025-04-24,0,0
+CUST000082,Emma,Young,Female,31,25-34,70,160k+,Bronze,Paid Search,2024-10-11,1,0
+CUST000083,Lucas,Hall,Male,30,25-34,73,50k-80k,Silver,Affiliate,2025-09-18,1,0
+CUST000084,Noah,Wilson,Male,54,45-54,89,120k-160k,Bronze,Affiliate,2023-03-13,1,1
+CUST000085,Lucas,Allen,Male,29,25-34,82,Under 50k,Gold,Affiliate,2022-03-13,1,0
+CUST000086,Leo,Baker,Male,31,25-34,89,Under 50k,Gold,Paid Search,2023-12-18,1,1
+CUST000087,Jessica,Martin,Non-binary,28,25-34,72,80k-120k,Bronze,Referral,2025-08-27,0,0
+CUST000088,Liam,Wilson,Male,34,25-34,42,50k-80k,Bronze,Referral,2023-07-29,1,0
+CUST000089,William,Lee,Male,46,45-54,66,160k+,Bronze,Affiliate,2021-08-22,1,0
+CUST000090,Emma,Nguyen,Female,41,35-44,15,120k-160k,Bronze,In-store QR,2024-03-10,1,0
+CUST000091,Ella,Allen,Female,50,45-54,63,120k-160k,Silver,Paid Search,2021-11-17,1,0
+CUST000092,Samuel,Martin,Male,60,55+,19,80k-120k,Bronze,Paid Search,2025-11-16,1,1
+CUST000093,Thomas,Roberts,Male,40,35-44,15,Under 50k,Silver,Referral,2022-08-09,1,1
+CUST000094,Levi,Scott,Male,55,55+,22,120k-160k,Gold,Affiliate,2021-12-27,1,0
+CUST000095,Grace,Johnson,Female,46,45-54,14,80k-120k,Bronze,Organic Search,2022-06-13,1,1
+CUST000096,James,King,Male,18,18-24,41,Under 50k,Silver,Email Campaign,2024-07-06,1,1
+CUST000097,Ella,Patel,Female,39,35-44,12,Under 50k,Bronze,Affiliate,2022-08-03,1,1
+CUST000098,Ethan,Smith,Male,46,45-54,87,120k-160k,Bronze,Paid Search,2023-11-14,1,1
+CUST000099,Cooper,Davis,Male,49,45-54,72,80k-120k,Bronze,Affiliate,2025-09-25,1,1
+CUST000100,William,Thompson,Male,34,25-34,11,80k-120k,Silver,In-store QR,2025-02-05,1,1
+CUST000101,James,Johnson,Male,27,25-34,10,50k-80k,Bronze,Social Media,2026-01-30,1,0
+CUST000102,Sarah,Thompson,Female,78,55+,67,Under 50k,Bronze,Referral,2026-03-12,1,1
+CUST000103,Ella,Martin,Female,25,25-34,19,50k-80k,Bronze,Paid Search,2025-10-09,1,0
+CUST000104,Olivia,Taylor,Female,56,55+,39,50k-80k,Bronze,Marketplace,2022-04-17,1,0
+CUST000105,Ruby,Green,Female,18,18-24,77,80k-120k,Silver,Paid Search,2022-03-16,1,0
+CUST000106,Abigail,Chen,Female,42,35-44,66,50k-80k,Gold,Email Campaign,2022-10-09,1,1
+CUST000107,Hannah,Hall,Female,23,18-24,89,120k-160k,Bronze,Paid Search,2024-12-27,0,0
+CUST000108,Olivia,Wilson,Female,46,45-54,11,120k-160k,Silver,Email Campaign,2022-04-02,1,1
+CUST000109,Max,Taylor,Male,42,35-44,8,50k-80k,Gold,In-store QR,2021-07-20,1,1
+CUST000110,Charlotte,Green,Female,49,45-54,89,80k-120k,Silver,In-store QR,2026-03-10,1,1
+CUST000111,Amelia,Davis,Female,32,25-34,47,80k-120k,Bronze,Marketplace,2023-12-08,1,0
+CUST000112,Georgia,Williams,Female,45,45-54,32,Under 50k,Bronze,Affiliate,2021-01-13,1,1
+CUST000113,Amelia,Miller,Female,40,35-44,31,50k-80k,Silver,Email Campaign,2021-09-25,1,1
+CUST000114,Leo,Chen,Male,34,25-34,85,120k-160k,Bronze,Email Campaign,2022-07-13,1,0
+CUST000115,Lucy,Patel,Female,18,18-24,79,50k-80k,Bronze,Organic Search,2025-07-07,1,0
+CUST000116,Ella,Thompson,Female,23,18-24,20,120k-160k,Gold,Organic Search,2026-02-19,0,0
+CUST000117,Maddison,Hall,Female,18,18-24,22,80k-120k,Gold,Referral,2022-03-17,1,0
+CUST000118,Benjamin,Brown,Male,22,18-24,21,Under 50k,Bronze,Affiliate,2023-02-05,1,1
+CUST000119,Olivia,Scott,Female,33,25-34,12,50k-80k,Bronze,In-store QR,2021-05-13,1,1
+CUST000120,Lucy,Thompson,Female,61,55+,13,120k-160k,Silver,Referral,2023-06-02,0,0
+CUST000121,Mia,Walker,Female,33,25-34,17,Under 50k,Bronze,Email Campaign,2023-11-22,0,1
+CUST000122,William,Johnson,Male,27,25-34,14,80k-120k,Silver,In-store QR,2025-01-10,1,0
+CUST000123,Henry,Johnson,Male,39,35-44,87,120k-160k,Gold,Email Campaign,2023-07-04,1,0
+CUST000124,Levi,Martin,Male,18,18-24,35,80k-120k,Gold,Paid Search,2021-10-28,1,1
+CUST000125,Grace,Wilson,Female,60,55+,32,Under 50k,Bronze,Affiliate,2026-04-29,1,1
+CUST000126,Mia,Williams,Female,36,35-44,38,50k-80k,Bronze,In-store QR,2026-03-19,0,0
+CUST000127,Olivia,Williams,Female,53,45-54,34,Under 50k,Bronze,Paid Search,2024-05-08,1,0
+CUST000128,Oscar,Singh,Male,18,18-24,19,Under 50k,Gold,Referral,2023-03-30,1,0
+CUST000129,Maddison,Thompson,Female,48,45-54,11,80k-120k,Bronze,Email Campaign,2021-06-22,0,0
+CUST000130,Ella,Baker,Female,18,18-24,68,50k-80k,Bronze,Referral,2023-09-25,1,0
+CUST000131,Harrison,Johnson,Male,52,45-54,68,80k-120k,Bronze,Referral,2021-05-27,1,0
+CUST000132,Benjamin,Chen,Male,30,25-34,30,80k-120k,Platinum,In-store QR,2023-12-08,1,1
+CUST000133,Liam,Brown,Male,46,45-54,16,Under 50k,Bronze,Referral,2025-01-01,0,0
+CUST000134,Henry,Green,Male,52,45-54,72,160k+,Bronze,Paid Search,2021-02-24,1,1
+CUST000135,Ava,Nguyen,Female,48,45-54,67,120k-160k,Silver,Paid Search,2026-02-08,1,1
+CUST000136,Ella,Tran,Female,27,25-34,38,80k-120k,Gold,Social Media,2024-09-10,1,1
+CUST000137,Mia,Allen,Female,45,45-54,53,50k-80k,Silver,Affiliate,2025-08-05,1,1
+CUST000138,Hudson,Singh,Male,37,35-44,14,Under 50k,Silver,Social Media,2023-11-22,1,0
+CUST000139,Charlie,Martin,Male,47,45-54,35,Under 50k,Bronze,Organic Search,2024-05-28,0,1
+CUST000140,William,Davis,Male,24,18-24,39,50k-80k,Bronze,Affiliate,2022-01-28,1,1
+CUST000141,Benjamin,Hall,Male,26,25-34,77,80k-120k,Bronze,Email Campaign,2026-01-13,1,1
+CUST000142,Charlie,Brown,Male,53,45-54,53,80k-120k,Silver,Referral,2023-01-29,1,1
+CUST000143,Leo,Smith,Male,41,35-44,77,80k-120k,Bronze,Referral,2025-12-04,1,0
+CUST000144,Oliver,Thompson,Prefer not to say,66,55+,10,80k-120k,Bronze,Paid Search,2026-04-16,1,0
+CUST000145,Emily,Jones,Female,38,35-44,48,50k-80k,Platinum,Referral,2025-01-14,1,1
+CUST000146,Noah,Scott,Male,40,35-44,31,Under 50k,Gold,Paid Search,2024-06-20,0,1
+CUST000147,Isla,Johnson,Female,22,18-24,66,Under 50k,Bronze,Marketplace,2026-04-09,1,0
+CUST000148,Sarah,Tran,Female,18,18-24,31,Under 50k,Bronze,Organic Search,2025-08-25,1,1
+CUST000149,Sophie,Scott,Female,54,45-54,37,80k-120k,Bronze,Referral,2026-01-01,1,0
+CUST000150,Abigail,Wilson,Non-binary,46,45-54,31,Under 50k,Gold,Email Campaign,2025-03-09,1,1
+CUST000151,Mason,Martin,Male,35,35-44,16,50k-80k,Bronze,Email Campaign,2026-05-21,1,1
+CUST000152,Oliver,Jones,Male,32,25-34,68,80k-120k,Gold,Marketplace,2023-08-02,1,0
+CUST000153,James,Brown,Male,62,55+,21,50k-80k,Silver,Email Campaign,2025-02-14,1,0
+CUST000154,Georgia,Young,Female,46,45-54,21,50k-80k,Bronze,Paid Search,2021-09-01,1,1
+CUST000155,Olivia,Young,Female,60,55+,22,50k-80k,Silver,Affiliate,2023-05-10,1,1
+CUST000156,Jack,Taylor,Male,41,35-44,74,80k-120k,Bronze,Social Media,2024-02-23,1,0
+CUST000157,Matilda,Davis,Female,53,45-54,22,50k-80k,Silver,Paid Search,2024-03-11,1,1
+CUST000158,Harrison,Singh,Male,26,25-34,12,50k-80k,Bronze,Social Media,2023-02-22,1,1
+CUST000159,Abigail,Miller,Female,18,18-24,65,Under 50k,Silver,Marketplace,2021-03-17,0,0
+CUST000160,Zoe,White,Female,64,55+,70,Under 50k,Bronze,Organic Search,2023-09-21,1,0
+CUST000161,Sarah,Thompson,Female,33,25-34,77,50k-80k,Bronze,In-store QR,2024-09-02,1,0
+CUST000162,Grace,Allen,Female,33,25-34,69,Under 50k,Bronze,Marketplace,2023-08-13,1,0
+CUST000163,Charlie,Green,Male,32,25-34,21,50k-80k,Platinum,Social Media,2023-06-20,1,0
+CUST000164,Benjamin,Smith,Male,23,18-24,8,50k-80k,Silver,Paid Search,2021-10-19,0,0
+CUST000165,Ethan,Martin,Male,37,35-44,59,50k-80k,Bronze,Referral,2025-04-03,0,0
+CUST000166,Levi,Young,Male,26,25-34,41,Under 50k,Gold,Email Campaign,2024-02-20,1,1
+CUST000167,Lucas,Scott,Male,36,35-44,42,Under 50k,Bronze,Referral,2021-02-06,1,1
+CUST000168,Benjamin,Young,Male,28,25-34,15,120k-160k,Bronze,Social Media,2026-03-23,1,0
+CUST000169,Leo,Williams,Male,39,35-44,11,50k-80k,Bronze,Organic Search,2026-01-14,1,0
+CUST000170,Amelia,Scott,Female,46,45-54,73,50k-80k,Bronze,Affiliate,2023-05-22,0,0
+CUST000171,Ella,Walker,Female,37,35-44,32,50k-80k,Silver,Social Media,2023-12-24,1,1
+CUST000172,Ruby,Lee,Female,52,45-54,20,120k-160k,Bronze,Marketplace,2024-07-17,1,1
+CUST000173,Jessica,Young,Female,46,45-54,18,80k-120k,Silver,Email Campaign,2025-03-25,1,1
+CUST000174,Lucy,Scott,Female,46,45-54,39,80k-120k,Gold,Organic Search,2025-04-28,0,0
+CUST000175,Zoe,Anderson,Female,43,35-44,43,Under 50k,Gold,Organic Search,2023-06-24,1,0
+CUST000176,Emily,Baker,Female,37,35-44,12,Under 50k,Bronze,Email Campaign,2021-01-09,1,0
+CUST000177,Lily,Tran,Female,27,25-34,53,160k+,Bronze,Paid Search,2022-02-06,1,1
+CUST000178,Grace,Williams,Female,47,45-54,34,Under 50k,Bronze,Paid Search,2024-10-11,1,1
+CUST000179,Lucy,Jones,Female,59,55+,39,50k-80k,Bronze,In-store QR,2024-08-22,1,1
+CUST000180,Benjamin,Walker,Male,18,18-24,18,50k-80k,Silver,Referral,2023-01-17,1,1
+CUST000181,Max,Kaur,Male,36,35-44,81,80k-120k,Silver,Referral,2023-03-15,1,1
+CUST000182,Levi,Green,Male,33,25-34,35,50k-80k,Bronze,Social Media,2024-05-13,1,1
+CUST000183,Ruby,Wilson,Female,31,25-34,20,80k-120k,Bronze,In-store QR,2021-08-21,1,1
+CUST000184,Archie,Walker,Male,60,55+,19,80k-120k,Bronze,Organic Search,2021-09-07,1,1
+CUST000185,Hudson,Singh,Non-binary,40,35-44,73,50k-80k,Silver,Email Campaign,2025-02-02,1,1
+CUST000186,Lily,Hall,Female,44,35-44,20,160k+,Bronze,Referral,2023-07-20,0,1
+CUST000187,Lucas,Jones,Male,42,35-44,44,80k-120k,Silver,Affiliate,2025-08-30,1,1
+CUST000188,Liam,Davis,Male,63,55+,66,50k-80k,Silver,Organic Search,2022-07-11,0,1
+CUST000189,Emma,Roberts,Female,37,35-44,76,80k-120k,Bronze,Affiliate,2021-04-15,1,1
+CUST000190,Levi,Brown,Male,38,35-44,89,120k-160k,Bronze,Referral,2023-10-28,0,1
+CUST000191,Grace,Brown,Female,28,25-34,21,50k-80k,Bronze,Email Campaign,2024-03-15,1,0
+CUST000192,Theodore,White,Male,24,18-24,48,Under 50k,Gold,Paid Search,2024-10-03,1,1
+CUST000193,Ethan,Hall,Prefer not to say,38,35-44,29,50k-80k,Bronze,In-store QR,2025-01-05,1,0
+CUST000194,Maddison,Wong,Female,33,25-34,43,80k-120k,Silver,Marketplace,2021-07-02,1,1
+CUST000195,Mason,Wong,Male,44,35-44,18,120k-160k,Bronze,Marketplace,2022-04-10,1,0
+CUST000196,Sarah,Anderson,Female,36,35-44,66,120k-160k,Bronze,Paid Search,2023-11-23,1,1
+CUST000197,Isla,Johnson,Female,50,45-54,73,Under 50k,Bronze,Marketplace,2022-09-03,1,1
+CUST000198,Olivia,Nguyen,Female,46,45-54,64,160k+,Gold,Email Campaign,2021-11-26,0,0
+CUST000199,Lily,Miller,Female,50,45-54,67,80k-120k,Bronze,Email Campaign,2026-02-05,1,0
+CUST000200,Emma,Roberts,Female,37,35-44,70,50k-80k,Bronze,Marketplace,2021-12-30,1,0
+CUST000201,William,Baker,Male,18,18-24,30,80k-120k,Bronze,Referral,2021-11-26,0,0
+CUST000202,Lucy,Wilson,Female,32,25-34,70,120k-160k,Silver,Marketplace,2025-08-16,0,1
+CUST000203,Thomas,Anderson,Male,54,45-54,20,120k-160k,Bronze,Referral,2024-11-23,1,0
+CUST000204,Olivia,Anderson,Female,36,35-44,76,80k-120k,Bronze,Paid Search,2025-09-03,1,0
+CUST000205,Theodore,Williams,Male,45,45-54,84,120k-160k,Silver,Social Media,2025-03-26,1,0
+CUST000206,Theodore,Davis,Male,45,45-54,65,Under 50k,Gold,Marketplace,2022-10-31,1,0
+CUST000207,William,Thompson,Male,24,18-24,81,Under 50k,Gold,Paid Search,2022-11-30,1,1
+CUST000208,Ethan,Williams,Male,21,18-24,18,50k-80k,Bronze,Paid Search,2025-02-11,1,0
+CUST000209,Noah,Smith,Male,29,25-34,16,80k-120k,Bronze,Affiliate,2023-10-19,1,1
+CUST000210,Mason,Martin,Male,22,18-24,72,80k-120k,Bronze,Social Media,2023-12-30,1,1
+CUST000211,Noah,Nguyen,Male,18,18-24,82,50k-80k,Bronze,In-store QR,2021-12-30,0,1
+CUST000212,Ava,Singh,Non-binary,62,55+,39,160k+,Bronze,Marketplace,2022-12-20,1,1
+CUST000213,Mason,Kaur,Male,22,18-24,8,50k-80k,Silver,Paid Search,2023-11-22,1,1
+CUST000214,Maddison,Johnson,Female,34,25-34,66,120k-160k,Silver,Marketplace,2021-05-19,1,0
+CUST000215,Mia,King,Female,47,45-54,29,50k-80k,Silver,Paid Search,2024-05-23,1,0
+CUST000216,Liam,Williams,Male,23,18-24,16,Under 50k,Bronze,Affiliate,2025-04-04,1,1
+CUST000217,James,Davis,Male,55,55+,21,50k-80k,Bronze,Affiliate,2023-02-15,1,1
+CUST000218,Lucas,Young,Male,37,35-44,47,50k-80k,Bronze,Referral,2025-07-28,1,1
+CUST000219,Lily,Young,Female,38,35-44,77,50k-80k,Gold,Marketplace,2023-09-03,1,1
+CUST000220,Hudson,Williams,Male,39,35-44,19,120k-160k,Silver,Affiliate,2025-11-08,1,1
+CUST000221,Lucas,Johnson,Male,43,35-44,65,80k-120k,Silver,Paid Search,2025-07-19,0,1
+CUST000222,Sophie,Jones,Female,18,18-24,34,50k-80k,Silver,In-store QR,2026-01-25,1,0
+CUST000223,James,Brown,Male,45,45-54,52,120k-160k,Bronze,Marketplace,2023-04-13,1,1
+CUST000224,Charlie,Roberts,Male,22,18-24,70,50k-80k,Bronze,In-store QR,2024-04-09,1,0
+CUST000225,Henry,Smith,Male,42,35-44,20,120k-160k,Bronze,Affiliate,2021-06-04,1,1
+CUST000226,Oscar,Tran,Male,41,35-44,86,Under 50k,Bronze,Organic Search,2023-07-23,1,0
+CUST000227,Cooper,Allen,Male,42,35-44,72,120k-160k,Bronze,Email Campaign,2026-02-20,1,1
+CUST000228,Matilda,Tran,Female,44,35-44,11,50k-80k,Bronze,Email Campaign,2026-02-11,1,0
+CUST000229,Grace,White,Female,24,18-24,9,50k-80k,Silver,Referral,2026-03-29,1,0
+CUST000230,Liam,Green,Male,29,25-34,64,50k-80k,Bronze,Email Campaign,2023-01-30,0,0
+CUST000231,Thomas,Thompson,Male,55,55+,78,Under 50k,Bronze,Social Media,2021-09-14,0,0
+CUST000232,Ethan,Patel,Male,25,25-34,19,Under 50k,Gold,Email Campaign,2022-05-29,0,0
+CUST000233,Henry,Nguyen,Male,40,35-44,55,80k-120k,Bronze,Organic Search,2023-08-10,1,1
+CUST000234,Jack,Baker,Prefer not to say,45,45-54,7,Under 50k,Silver,Referral,2026-05-21,1,1
+CUST000235,Mia,Davis,Female,27,25-34,70,80k-120k,Bronze,Affiliate,2025-04-28,1,1
+CUST000236,Grace,Green,Female,48,45-54,40,50k-80k,Bronze,Email Campaign,2022-04-26,1,1
+CUST000237,Cooper,White,Male,55,55+,64,120k-160k,Bronze,Email Campaign,2025-09-23,1,1
+CUST000238,Max,Kaur,Male,46,45-54,30,50k-80k,Bronze,Email Campaign,2021-07-08,1,0
+CUST000239,Henry,Patel,Male,26,25-34,68,80k-120k,Bronze,Email Campaign,2024-04-10,1,0
+CUST000240,Oscar,Hall,Male,49,45-54,47,120k-160k,Bronze,Paid Search,2023-12-13,0,0
+CUST000241,Grace,Nguyen,Female,19,18-24,72,80k-120k,Bronze,Affiliate,2026-05-14,0,1
+CUST000242,Noah,Anderson,Male,47,45-54,33,Under 50k,Bronze,Social Media,2026-05-09,0,0
+CUST000243,Abigail,Jones,Female,18,18-24,91,Under 50k,Bronze,Paid Search,2026-03-14,1,1
+CUST000244,Xavier,Taylor,Male,31,25-34,10,50k-80k,Silver,Referral,2023-04-07,0,1
+CUST000245,Georgia,Walker,Female,18,18-24,65,80k-120k,Platinum,Organic Search,2025-04-26,1,1
+CUST000246,Levi,Young,Male,21,18-24,19,Under 50k,Gold,Social Media,2021-04-22,1,0
+CUST000247,James,Hall,Male,64,55+,13,80k-120k,Bronze,Affiliate,2025-09-16,1,1
+CUST000248,Abigail,Lee,Female,43,35-44,31,80k-120k,Silver,Organic Search,2021-06-14,0,1
+CUST000249,Sophie,Walker,Female,32,25-34,68,80k-120k,Silver,Marketplace,2022-10-14,1,1
+CUST000250,Mason,Hall,Male,30,25-34,74,120k-160k,Bronze,Affiliate,2023-09-07,1,0
+CUST000251,Jack,Lee,Male,44,35-44,8,Under 50k,Bronze,Paid Search,2025-01-18,1,1
+CUST000252,Leo,Jones,Male,48,45-54,89,120k-160k,Silver,Marketplace,2024-04-15,1,0
+CUST000253,Abigail,Roberts,Female,34,25-34,35,Under 50k,Bronze,Marketplace,2023-11-28,1,1
+CUST000254,Abigail,Johnson,Female,57,55+,8,50k-80k,Silver,Referral,2026-01-27,1,0
+CUST000255,Max,Brown,Male,27,25-34,67,Under 50k,Silver,Affiliate,2024-06-09,0,1
+CUST000256,Levi,Miller,Male,30,25-34,20,50k-80k,Bronze,Paid Search,2026-04-01,0,1
+CUST000257,Matilda,Singh,Female,39,35-44,71,50k-80k,Bronze,In-store QR,2021-07-27,1,0
+CUST000258,Matilda,Roberts,Female,33,25-34,48,Under 50k,Bronze,Affiliate,2024-10-01,0,0
+CUST000259,Mia,Martin,Female,18,18-24,82,Under 50k,Bronze,Referral,2021-07-19,1,0
+CUST000260,Maddison,Walker,Female,46,45-54,66,160k+,Bronze,Affiliate,2021-11-16,1,1
+CUST000261,Emma,Kaur,Female,30,25-34,10,160k+,Platinum,Referral,2023-04-16,1,1
+CUST000262,Mason,White,Male,38,35-44,74,Under 50k,Bronze,Marketplace,2021-10-23,1,1
+CUST000263,Charlotte,Roberts,Female,73,55+,22,120k-160k,Gold,Email Campaign,2025-02-19,1,1
+CUST000264,Charlie,Anderson,Male,38,35-44,72,50k-80k,Platinum,In-store QR,2023-11-21,1,0
+CUST000265,Lucas,Scott,Male,42,35-44,8,Under 50k,Silver,Email Campaign,2022-12-30,1,0
+CUST000266,Grace,King,Female,40,35-44,10,50k-80k,Bronze,Affiliate,2024-04-10,1,1
+CUST000267,Theodore,Patel,Male,45,45-54,70,50k-80k,Bronze,Social Media,2023-10-09,0,1
+CUST000268,Charlotte,White,Female,55,55+,4,120k-160k,Bronze,Referral,2021-03-28,1,0
+CUST000269,Theodore,Kaur,Male,35,35-44,52,80k-120k,Platinum,Email Campaign,2025-02-11,1,0
+CUST000270,Olivia,Roberts,Female,53,45-54,19,80k-120k,Silver,Paid Search,2026-01-05,1,0
+CUST000271,Grace,Kaur,Female,34,25-34,9,80k-120k,Bronze,Email Campaign,2025-07-16,1,0
+CUST000272,Noah,Walker,Prefer not to say,18,18-24,9,50k-80k,Bronze,Email Campaign,2021-05-08,1,0
+CUST000273,Ava,Williams,Female,19,18-24,9,80k-120k,Bronze,In-store QR,2022-01-10,0,0
+CUST000274,Chloe,Hall,Female,42,35-44,80,80k-120k,Platinum,Social Media,2025-01-21,1,1
+CUST000275,Theodore,Nguyen,Male,29,25-34,17,80k-120k,Bronze,Organic Search,2022-08-04,1,1
+CUST000276,Charlotte,Singh,Female,26,25-34,37,120k-160k,Bronze,In-store QR,2025-09-16,1,0
+CUST000277,Chloe,Davis,Female,18,18-24,36,Under 50k,Bronze,Paid Search,2022-09-15,1,0
+CUST000278,Olivia,Hall,Female,18,18-24,44,50k-80k,Bronze,Referral,2022-02-26,0,0
+CUST000279,Ella,Wilson,Female,43,35-44,73,160k+,Silver,Marketplace,2024-07-08,0,1
+CUST000280,Georgia,King,Female,18,18-24,48,Under 50k,Gold,Affiliate,2022-03-11,1,1
+CUST000281,Ethan,Thompson,Male,19,18-24,14,50k-80k,Bronze,Paid Search,2023-11-23,0,1
+CUST000282,Ava,Smith,Female,34,25-34,80,50k-80k,Bronze,In-store QR,2023-02-22,1,1
+CUST000283,Xavier,White,Male,44,35-44,89,50k-80k,Silver,Referral,2022-09-06,1,1
+CUST000284,Henry,Wilson,Male,34,25-34,52,120k-160k,Bronze,Social Media,2025-09-16,1,0
+CUST000285,Harrison,Jones,Male,59,55+,48,50k-80k,Bronze,In-store QR,2024-03-13,1,1
+CUST000286,Lucas,Thompson,Male,47,45-54,38,50k-80k,Bronze,Marketplace,2023-12-12,0,0
+CUST000287,Levi,Allen,Male,61,55+,12,80k-120k,Silver,Marketplace,2021-08-09,1,1
+CUST000288,Archie,Patel,Male,52,45-54,29,80k-120k,Silver,Marketplace,2024-01-11,1,1
+CUST000289,Olivia,King,Female,26,25-34,37,50k-80k,Gold,Marketplace,2025-12-13,1,0
+CUST000290,Abigail,Chen,Female,39,35-44,21,160k+,Bronze,Social Media,2024-05-29,1,1
+CUST000291,Mason,Nguyen,Male,45,45-54,34,80k-120k,Gold,Marketplace,2023-09-29,1,1
+CUST000292,Lily,Singh,Female,43,35-44,35,80k-120k,Bronze,Email Campaign,2021-12-13,1,0
+CUST000293,Georgia,White,Female,48,45-54,18,Under 50k,Silver,Referral,2025-12-07,1,1
+CUST000294,Mason,Martin,Male,39,35-44,17,120k-160k,Silver,Marketplace,2025-09-02,1,0
+CUST000295,Mason,King,Male,54,45-54,39,50k-80k,Silver,Paid Search,2021-04-01,1,1
+CUST000296,William,Hall,Male,25,25-34,19,50k-80k,Silver,Referral,2026-02-01,0,1
+CUST000297,Jack,Kaur,Male,40,35-44,74,Under 50k,Gold,Social Media,2025-12-02,0,1
+CUST000298,Leo,Baker,Male,57,55+,8,80k-120k,Bronze,Social Media,2026-03-20,1,0
+CUST000299,Sarah,Nguyen,Female,18,18-24,13,Under 50k,Bronze,Affiliate,2022-06-09,0,0
+CUST000300,James,Baker,Male,48,45-54,16,120k-160k,Silver,Email Campaign,2022-06-21,1,0
+CUST000301,Mason,Martin,Male,42,35-44,11,160k+,Silver,Affiliate,2022-10-22,1,1
+CUST000302,Zoe,Walker,Prefer not to say,39,35-44,31,80k-120k,Bronze,In-store QR,2025-12-15,1,1
+CUST000303,Amelia,Hall,Female,29,25-34,75,80k-120k,Silver,Referral,2021-11-18,1,1
+CUST000304,Max,Green,Male,20,18-24,62,80k-120k,Gold,In-store QR,2022-12-06,1,1
+CUST000305,Max,White,Male,42,35-44,16,50k-80k,Bronze,Social Media,2022-07-08,1,0
+CUST000306,Lucy,Taylor,Female,37,35-44,38,80k-120k,Bronze,Email Campaign,2025-11-05,1,1
+CUST000307,Ella,Wong,Female,25,25-34,74,Under 50k,Bronze,Organic Search,2024-01-15,0,0
+CUST000308,Henry,Smith,Prefer not to say,35,35-44,40,80k-120k,Gold,Affiliate,2024-04-05,1,1
+CUST000309,Cooper,Singh,Male,40,35-44,21,120k-160k,Bronze,Organic Search,2022-12-01,0,1
+CUST000310,Maddison,Chen,Female,18,18-24,21,Under 50k,Bronze,Marketplace,2024-08-28,0,0
+CUST000311,Georgia,Roberts,Female,26,25-34,19,50k-80k,Bronze,Referral,2024-09-26,1,0
+CUST000312,Hudson,Baker,Male,46,45-54,69,80k-120k,Bronze,Email Campaign,2023-11-03,1,1
+CUST000313,Ethan,Lee,Male,62,55+,8,Under 50k,Gold,Email Campaign,2023-06-12,0,0
+CUST000314,Ava,Thompson,Female,54,45-54,79,80k-120k,Bronze,In-store QR,2022-03-28,1,0
+CUST000315,Hudson,Scott,Male,34,25-34,9,Under 50k,Bronze,In-store QR,2023-09-19,1,0
+CUST000316,William,King,Male,39,35-44,21,160k+,Silver,In-store QR,2023-12-11,1,1
+CUST000317,Oliver,Taylor,Male,29,25-34,31,50k-80k,Bronze,Paid Search,2025-11-13,1,0
+CUST000318,Zoe,Taylor,Female,36,35-44,64,80k-120k,Bronze,Social Media,2025-03-24,0,0
+CUST000319,Charlotte,Anderson,Prefer not to say,24,18-24,21,80k-120k,Silver,In-store QR,2025-05-01,1,1
+CUST000320,Lily,Thompson,Female,29,25-34,83,Under 50k,Silver,Referral,2022-06-15,1,1
+CUST000321,Lucy,Martin,Female,31,25-34,44,80k-120k,Gold,Referral,2024-02-05,1,1
+CUST000322,William,White,Male,31,25-34,10,80k-120k,Silver,Affiliate,2025-02-23,0,1
+CUST000323,Zoe,Thompson,Female,44,35-44,34,Under 50k,Silver,Paid Search,2022-03-23,1,0
+CUST000324,Theodore,Walker,Male,35,35-44,64,Under 50k,Gold,In-store QR,2022-03-30,1,1
+CUST000325,Mia,Williams,Female,45,45-54,66,50k-80k,Bronze,Paid Search,2021-10-25,0,1
+CUST000326,Archie,Green,Male,25,25-34,49,Under 50k,Bronze,Organic Search,2024-05-06,1,0
+CUST000327,Mason,Young,Non-binary,46,45-54,43,Under 50k,Bronze,In-store QR,2022-06-27,1,0
+CUST000328,Grace,White,Female,63,55+,20,50k-80k,Bronze,Organic Search,2026-04-08,1,1
+CUST000329,Mason,Baker,Male,58,55+,70,80k-120k,Bronze,Marketplace,2024-11-01,1,1
+CUST000330,Cooper,Taylor,Male,47,45-54,13,Under 50k,Gold,Marketplace,2025-05-05,1,1
+CUST000331,Georgia,Taylor,Female,20,18-24,22,Under 50k,Gold,In-store QR,2025-07-25,1,0
+CUST000332,Henry,Davis,Male,25,25-34,63,50k-80k,Gold,Referral,2023-02-06,1,0
+CUST000333,Thomas,Patel,Male,34,25-34,13,50k-80k,Bronze,Marketplace,2021-09-06,1,0
+CUST000334,Georgia,Kaur,Female,30,25-34,81,Under 50k,Silver,Marketplace,2024-02-20,1,1
+CUST000335,Sarah,Lee,Female,37,35-44,89,50k-80k,Silver,Email Campaign,2023-10-07,1,0
+CUST000336,Maddison,Johnson,Female,53,45-54,32,50k-80k,Platinum,Paid Search,2022-05-08,1,0
+CUST000337,Grace,Brown,Female,53,45-54,64,80k-120k,Bronze,In-store QR,2026-05-11,0,1
+CUST000338,Chloe,Anderson,Prefer not to say,18,18-24,8,Under 50k,Silver,Marketplace,2024-01-29,1,0
+CUST000339,Oliver,Scott,Male,48,45-54,62,Under 50k,Bronze,Affiliate,2022-08-17,1,0
+CUST000340,Ethan,King,Male,58,55+,21,80k-120k,Platinum,Marketplace,2025-04-13,1,1
+CUST000341,Maddison,Chen,Female,28,25-34,4,Under 50k,Bronze,Organic Search,2025-02-24,1,0
+CUST000342,Harrison,Williams,Male,53,45-54,5,50k-80k,Bronze,In-store QR,2025-01-18,1,1
+CUST000343,Emma,Patel,Female,63,55+,69,Under 50k,Bronze,Paid Search,2024-10-30,1,0
+CUST000344,Theodore,Green,Male,51,45-54,64,120k-160k,Gold,Paid Search,2026-01-24,0,0
+CUST000345,Evie,Martin,Female,46,45-54,19,50k-80k,Silver,Referral,2023-03-08,1,0
+CUST000346,Evie,Wilson,Female,33,25-34,74,50k-80k,Gold,Paid Search,2021-09-02,0,1
+CUST000347,Lucy,Anderson,Prefer not to say,43,35-44,53,80k-120k,Bronze,Marketplace,2022-11-13,1,1
+CUST000348,Lily,Hall,Female,39,35-44,82,120k-160k,Silver,Marketplace,2023-02-26,1,0
+CUST000349,Henry,Tran,Male,52,45-54,14,80k-120k,Bronze,Social Media,2024-04-20,1,1
+CUST000350,Georgia,Wilson,Non-binary,24,18-24,53,80k-120k,Bronze,Affiliate,2022-01-14,1,0
+CUST000351,Archie,Martin,Male,68,55+,76,80k-120k,Silver,Marketplace,2021-08-22,1,1
+CUST000352,Ethan,Wilson,Male,39,35-44,67,160k+,Platinum,Organic Search,2025-07-25,1,0
+CUST000353,Jack,Allen,Male,19,18-24,15,Under 50k,Bronze,In-store QR,2023-06-15,1,1
+CUST000354,Emma,Taylor,Female,18,18-24,31,Under 50k,Silver,Organic Search,2024-11-20,0,0
+CUST000355,Samuel,Johnson,Male,42,35-44,51,80k-120k,Silver,Organic Search,2023-12-01,1,1
+CUST000356,William,Baker,Male,26,25-34,30,50k-80k,Bronze,In-store QR,2021-04-01,0,0
+CUST000357,Emma,Green,Female,50,45-54,73,80k-120k,Bronze,Paid Search,2021-08-28,1,0
+CUST000358,Liam,Chen,Male,62,55+,39,80k-120k,Silver,Referral,2023-01-27,1,1
+CUST000359,Harrison,Young,Male,44,35-44,13,80k-120k,Bronze,In-store QR,2022-08-12,0,0
+CUST000360,Sophie,Patel,Female,31,25-34,22,50k-80k,Bronze,Social Media,2025-12-07,1,1
+CUST000361,Jack,Jones,Male,49,45-54,40,50k-80k,Silver,Marketplace,2022-11-07,1,0
+CUST000362,James,Baker,Male,29,25-34,69,50k-80k,Silver,Social Media,2025-09-29,0,1
+CUST000363,Oscar,Johnson,Male,25,25-34,63,50k-80k,Bronze,Social Media,2022-02-09,1,1
+CUST000364,Zoe,Davis,Female,31,25-34,40,Under 50k,Silver,Social Media,2021-09-06,1,0
+CUST000365,Grace,Davis,Female,44,35-44,70,120k-160k,Silver,In-store QR,2022-04-18,1,0
+CUST000366,Olivia,Baker,Female,55,55+,69,50k-80k,Silver,In-store QR,2024-05-17,0,1
+CUST000367,Lucas,Davis,Male,38,35-44,9,120k-160k,Gold,In-store QR,2022-03-26,1,0
+CUST000368,Evie,Wilson,Female,49,45-54,53,Under 50k,Bronze,Email Campaign,2021-07-04,1,0
+CUST000369,Isla,Nguyen,Female,38,35-44,78,80k-120k,Silver,Marketplace,2023-06-29,1,1
+CUST000370,Lucy,Roberts,Female,38,35-44,9,50k-80k,Platinum,In-store QR,2021-02-20,0,1
+CUST000371,Theodore,Patel,Male,20,18-24,68,50k-80k,Platinum,Marketplace,2022-12-06,1,0
+CUST000372,Olivia,Nguyen,Female,39,35-44,73,80k-120k,Gold,Affiliate,2025-01-11,1,1
+CUST000373,Hannah,Wilson,Female,52,45-54,32,80k-120k,Silver,Marketplace,2024-01-04,0,0
+CUST000374,Theodore,Jones,Male,19,18-24,86,50k-80k,Bronze,Referral,2022-08-23,1,1
+CUST000375,Lucas,Anderson,Male,41,35-44,34,Under 50k,Bronze,Referral,2025-09-27,0,1
+CUST000376,Evie,Brown,Female,26,25-34,29,80k-120k,Bronze,Social Media,2025-12-20,1,0
+CUST000377,Abigail,Brown,Female,58,55+,81,50k-80k,Bronze,Social Media,2023-03-01,1,1
+CUST000378,Liam,Wilson,Male,36,35-44,36,50k-80k,Bronze,Social Media,2024-08-22,1,1
+CUST000379,Liam,White,Male,31,25-34,66,80k-120k,Gold,Social Media,2021-04-06,1,1
+CUST000380,Jack,Martin,Male,27,25-34,14,Under 50k,Gold,Referral,2024-10-12,1,1
+CUST000381,Chloe,King,Female,44,35-44,45,Under 50k,Silver,Social Media,2022-01-20,0,1
+CUST000382,Archie,Williams,Male,28,25-34,48,80k-120k,Bronze,Affiliate,2025-04-08,0,1
+CUST000383,Grace,Johnson,Female,37,35-44,18,160k+,Silver,Email Campaign,2022-09-11,1,0
+CUST000384,Ava,Green,Female,40,35-44,18,80k-120k,Bronze,Referral,2025-04-27,1,0
+CUST000385,Theodore,Martin,Male,46,45-54,15,160k+,Gold,In-store QR,2025-06-14,0,0
+CUST000386,Amelia,King,Female,38,35-44,17,Under 50k,Bronze,Paid Search,2025-02-16,1,1
+CUST000387,Olivia,Kaur,Prefer not to say,30,25-34,22,50k-80k,Bronze,Marketplace,2026-01-26,1,1
+CUST000388,Mason,Wong,Male,55,55+,38,80k-120k,Bronze,Affiliate,2021-06-04,1,1
+CUST000389,Hudson,Anderson,Male,48,45-54,47,120k-160k,Gold,Paid Search,2024-07-23,1,0
+CUST000390,Georgia,King,Female,36,35-44,32,Under 50k,Bronze,Referral,2023-12-22,1,0
+CUST000391,Charlie,Tran,Male,58,55+,90,Under 50k,Silver,Email Campaign,2021-01-12,0,0
+CUST000392,Levi,Baker,Male,46,45-54,12,160k+,Silver,In-store QR,2024-02-21,0,0
+CUST000393,Harrison,Green,Male,78,55+,72,50k-80k,Bronze,Organic Search,2024-05-01,1,1
+CUST000394,Max,Roberts,Male,40,35-44,69,120k-160k,Platinum,Social Media,2022-12-16,1,0
+CUST000395,Charlie,Lee,Male,43,35-44,18,50k-80k,Bronze,Affiliate,2024-05-10,1,1
+CUST000396,Chloe,Johnson,Female,29,25-34,13,80k-120k,Bronze,In-store QR,2026-05-05,1,0
+CUST000397,Hannah,Singh,Female,23,18-24,70,50k-80k,Gold,In-store QR,2023-03-08,1,1
+CUST000398,Emma,Nguyen,Female,35,35-44,70,50k-80k,Bronze,Referral,2024-12-25,1,0
+CUST000399,Ethan,Kaur,Male,57,55+,82,50k-80k,Bronze,Marketplace,2021-09-12,1,0
+CUST000400,Lily,Lee,Female,18,18-24,15,50k-80k,Bronze,In-store QR,2025-02-16,1,1
+CUST000401,Grace,Scott,Female,18,18-24,38,50k-80k,Bronze,Affiliate,2023-03-09,0,0
+CUST000402,Ella,Miller,Female,57,55+,21,Under 50k,Gold,Marketplace,2024-05-02,1,0
+CUST000403,Oliver,Thompson,Male,34,25-34,85,120k-160k,Bronze,Affiliate,2023-07-13,1,1
+CUST000404,Zoe,Baker,Female,30,25-34,74,50k-80k,Gold,Marketplace,2026-04-06,1,1
+CUST000405,Zoe,White,Female,34,25-34,45,120k-160k,Bronze,Referral,2021-04-22,1,0
+CUST000406,Grace,Roberts,Female,20,18-24,67,160k+,Bronze,In-store QR,2021-04-13,1,0
+CUST000407,Sophie,White,Female,62,55+,39,50k-80k,Bronze,Paid Search,2023-07-24,1,0
+CUST000408,Sarah,Wilson,Female,30,25-34,12,80k-120k,Gold,Email Campaign,2022-06-20,1,0
+CUST000409,Zoe,Wong,Female,39,35-44,67,80k-120k,Gold,In-store QR,2023-01-05,1,1
+CUST000410,Ruby,White,Female,24,18-24,9,Under 50k,Bronze,Affiliate,2025-10-16,1,1
+CUST000411,Benjamin,Taylor,Male,20,18-24,42,50k-80k,Silver,Organic Search,2025-04-22,1,1
+CUST000412,Zoe,Wong,Female,22,18-24,65,50k-80k,Silver,Email Campaign,2021-02-05,1,1
+CUST000413,Mason,Davis,Male,20,18-24,18,120k-160k,Bronze,Email Campaign,2021-11-19,1,1
+CUST000414,Zoe,Hall,Female,27,25-34,3,50k-80k,Bronze,Referral,2024-09-20,0,0
+CUST000415,Noah,Tran,Male,32,25-34,86,50k-80k,Silver,Email Campaign,2022-08-11,1,1
+CUST000416,Abigail,Davis,Female,43,35-44,15,50k-80k,Silver,Marketplace,2023-09-27,1,1
+CUST000417,Ava,Allen,Female,42,35-44,75,80k-120k,Bronze,Paid Search,2021-03-23,1,0
+CUST000418,Ethan,Davis,Male,35,35-44,38,Under 50k,Platinum,Email Campaign,2025-06-11,1,1
+CUST000419,Ethan,Wong,Male,62,55+,8,50k-80k,Bronze,Social Media,2022-12-18,1,1
+CUST000420,Ava,Green,Female,26,25-34,9,80k-120k,Silver,Social Media,2024-03-11,1,1
+CUST000421,Ethan,Brown,Male,35,35-44,39,50k-80k,Bronze,Organic Search,2024-09-07,1,1
+CUST000422,Levi,Patel,Male,18,18-24,8,160k+,Bronze,Affiliate,2023-07-27,1,0
+CUST000423,Leo,Singh,Male,34,25-34,20,80k-120k,Bronze,Paid Search,2022-10-20,1,1
+CUST000424,Emily,Wilson,Female,28,25-34,66,50k-80k,Platinum,Social Media,2023-04-04,1,1
+CUST000425,James,Williams,Male,19,18-24,73,Under 50k,Bronze,In-store QR,2023-08-03,1,1
+CUST000426,Oscar,Anderson,Prefer not to say,42,35-44,21,160k+,Bronze,In-store QR,2026-02-14,1,1
+CUST000427,Lucy,Walker,Female,42,35-44,77,80k-120k,Bronze,Organic Search,2025-02-21,1,1
+CUST000428,Mia,Young,Female,47,45-54,75,50k-80k,Bronze,Paid Search,2022-07-24,0,1
+CUST000429,Ethan,Hall,Male,36,35-44,12,80k-120k,Silver,Marketplace,2026-01-18,1,1
+CUST000430,Sophie,Wong,Female,55,55+,9,Under 50k,Gold,Paid Search,2022-08-01,0,0
+CUST000431,Sophie,Baker,Female,36,35-44,78,50k-80k,Gold,Marketplace,2022-06-21,1,0
+CUST000432,Abigail,Brown,Female,46,45-54,11,50k-80k,Bronze,Organic Search,2021-09-29,1,1
+CUST000433,Charlie,Singh,Male,36,35-44,16,120k-160k,Silver,Email Campaign,2022-12-20,1,1
+CUST000434,Maddison,Allen,Female,21,18-24,75,Under 50k,Silver,Affiliate,2023-02-11,0,1
+CUST000435,Thomas,Hall,Male,41,35-44,11,120k-160k,Gold,Marketplace,2022-02-19,0,1
+CUST000436,Henry,Roberts,Male,39,35-44,8,50k-80k,Platinum,In-store QR,2022-09-06,0,0
+CUST000437,Oliver,Davis,Male,57,55+,55,Under 50k,Silver,Marketplace,2024-12-07,0,1
+CUST000438,Olivia,Davis,Female,35,35-44,43,Under 50k,Bronze,Referral,2023-01-08,0,1
+CUST000439,Thomas,Patel,Male,29,25-34,31,80k-120k,Bronze,Organic Search,2022-01-22,0,1
+CUST000440,Henry,Allen,Male,43,35-44,69,80k-120k,Bronze,Social Media,2025-07-19,0,0
+CUST000441,Lily,Chen,Female,52,45-54,4,120k-160k,Bronze,In-store QR,2021-05-20,1,0
+CUST000442,Oliver,Allen,Male,18,18-24,75,50k-80k,Gold,Paid Search,2025-05-23,1,1
+CUST000443,Jessica,Tran,Prefer not to say,50,45-54,71,50k-80k,Silver,Paid Search,2025-09-08,1,1
+CUST000444,Oliver,Taylor,Male,31,25-34,57,Under 50k,Gold,Paid Search,2021-03-30,0,0
+CUST000445,Jessica,Walker,Female,45,45-54,50,50k-80k,Bronze,Affiliate,2021-04-10,1,1
+CUST000446,Hannah,Brown,Female,18,18-24,15,80k-120k,Gold,Marketplace,2022-03-24,0,0
+CUST000447,Grace,King,Non-binary,62,55+,37,80k-120k,Bronze,Email Campaign,2022-11-20,1,0
+CUST000448,Charlotte,Allen,Female,34,25-34,9,50k-80k,Bronze,Email Campaign,2022-10-09,1,0
+CUST000449,Theodore,Lee,Male,45,45-54,13,Under 50k,Platinum,Email Campaign,2023-05-17,1,0
+CUST000450,Leo,Hall,Male,37,35-44,16,80k-120k,Bronze,Affiliate,2022-03-09,1,0
+CUST000451,Oliver,Miller,Male,42,35-44,85,Under 50k,Gold,In-store QR,2025-04-15,1,1
+CUST000452,Matilda,Young,Female,18,18-24,74,50k-80k,Gold,Paid Search,2022-09-15,1,1
+CUST000453,Zoe,Green,Female,40,35-44,74,120k-160k,Gold,Referral,2024-11-19,0,1
+CUST000454,Ruby,Scott,Female,48,45-54,35,120k-160k,Bronze,Marketplace,2022-05-27,1,0
+CUST000455,Georgia,Singh,Female,18,18-24,14,Under 50k,Bronze,Affiliate,2024-03-09,0,0
+CUST000456,Amelia,Tran,Female,33,25-34,72,120k-160k,Gold,Email Campaign,2024-11-14,1,0
+CUST000457,William,Lee,Male,43,35-44,11,Under 50k,Bronze,Marketplace,2021-01-31,0,1
+CUST000458,Emma,Taylor,Female,44,35-44,74,50k-80k,Bronze,In-store QR,2023-05-24,1,1
+CUST000459,Liam,Tran,Male,30,25-34,63,Under 50k,Gold,Organic Search,2021-10-14,1,0
+CUST000460,Lucas,White,Male,38,35-44,9,120k-160k,Silver,Paid Search,2023-03-12,0,1
+CUST000461,Grace,Chen,Female,34,25-34,54,50k-80k,Bronze,Social Media,2024-02-21,1,0
+CUST000462,Ethan,Johnson,Male,37,35-44,82,80k-120k,Silver,Email Campaign,2023-09-22,1,0
+CUST000463,Sarah,Nguyen,Female,18,18-24,66,50k-80k,Bronze,Paid Search,2021-06-15,1,0
+CUST000464,Hudson,Hall,Male,52,45-54,14,50k-80k,Silver,In-store QR,2022-10-06,1,1
+CUST000465,Amelia,Williams,Female,61,55+,68,50k-80k,Silver,Marketplace,2023-04-04,1,1
+CUST000466,Benjamin,Williams,Male,25,25-34,10,50k-80k,Bronze,Organic Search,2025-10-16,1,0
+CUST000467,Harrison,Walker,Non-binary,31,25-34,33,80k-120k,Bronze,Paid Search,2026-04-02,1,1
+CUST000468,Jack,Allen,Male,39,35-44,17,Under 50k,Bronze,Referral,2023-09-09,1,1
+CUST000469,Chloe,Chen,Female,28,25-34,22,80k-120k,Bronze,In-store QR,2025-06-17,1,1
+CUST000470,Lily,Jones,Female,43,35-44,74,50k-80k,Bronze,In-store QR,2026-03-18,1,1
+CUST000471,Max,Smith,Male,54,45-54,82,50k-80k,Gold,Affiliate,2024-11-12,1,1
+CUST000472,Ruby,Anderson,Female,61,55+,9,Under 50k,Silver,Social Media,2025-03-15,1,0
+CUST000473,James,Wilson,Male,46,45-54,31,Under 50k,Silver,Organic Search,2022-01-15,1,0
+CUST000474,Ruby,Smith,Female,58,55+,73,160k+,Bronze,In-store QR,2021-06-22,1,0
+CUST000475,Lucy,Williams,Female,38,35-44,17,50k-80k,Bronze,Email Campaign,2026-01-27,0,1
+CUST000476,Emily,Johnson,Female,23,18-24,71,120k-160k,Bronze,Affiliate,2026-02-11,1,0
+CUST000477,Xavier,Wong,Male,40,35-44,69,80k-120k,Bronze,In-store QR,2023-07-20,0,0
+CUST000478,Mason,Walker,Male,35,35-44,19,50k-80k,Silver,Referral,2026-03-02,0,0
+CUST000479,Ruby,Singh,Female,53,45-54,12,80k-120k,Gold,Marketplace,2024-12-31,1,1
+CUST000480,Jack,Brown,Male,24,18-24,76,Under 50k,Bronze,Marketplace,2023-04-01,1,1
+CUST000481,Amelia,Anderson,Female,41,35-44,52,80k-120k,Bronze,Social Media,2022-05-15,0,1
+CUST000482,Abigail,Nguyen,Female,19,18-24,65,50k-80k,Bronze,Organic Search,2023-05-09,0,0
+CUST000483,Amelia,Roberts,Female,38,35-44,72,80k-120k,Silver,Organic Search,2023-07-18,1,0
+CUST000484,Lucas,Baker,Male,31,25-34,44,50k-80k,Platinum,Paid Search,2025-01-07,0,0
+CUST000485,William,Baker,Male,50,45-54,74,80k-120k,Bronze,In-store QR,2022-08-21,1,1
+CUST000486,Hannah,Davis,Female,27,25-34,20,Under 50k,Silver,Marketplace,2021-12-20,1,1
+CUST000487,Georgia,Young,Non-binary,23,18-24,10,80k-120k,Bronze,Paid Search,2026-01-17,1,0
+CUST000488,Samuel,Williams,Non-binary,29,25-34,21,50k-80k,Bronze,Referral,2025-11-19,1,0
+CUST000489,Lucas,Allen,Male,44,35-44,9,80k-120k,Bronze,Paid Search,2021-01-03,0,1
+CUST000490,James,Thompson,Male,21,18-24,33,50k-80k,Bronze,Organic Search,2022-09-06,0,1
+CUST000491,Grace,Taylor,Female,40,35-44,76,50k-80k,Bronze,Organic Search,2022-12-17,1,0
+CUST000492,Evie,Anderson,Female,25,25-34,36,80k-120k,Bronze,Social Media,2023-03-07,0,1
+CUST000493,Maddison,Allen,Female,34,25-34,8,Under 50k,Gold,Affiliate,2021-05-06,1,0
+CUST000494,Matilda,Johnson,Female,27,25-34,17,80k-120k,Silver,Referral,2025-07-31,1,0
+CUST000495,Mason,White,Male,49,45-54,79,80k-120k,Bronze,Organic Search,2023-11-25,0,1
+CUST000496,Archie,Jones,Male,49,45-54,67,160k+,Gold,Social Media,2025-08-12,1,1
+CUST000497,Max,Walker,Non-binary,42,35-44,90,120k-160k,Bronze,Marketplace,2021-11-05,1,0
+CUST000498,Chloe,Wong,Female,27,25-34,52,80k-120k,Silver,Organic Search,2025-12-02,0,1
+CUST000499,Max,Thompson,Male,71,55+,32,50k-80k,Bronze,In-store QR,2022-06-30,1,0
+CUST000500,Xavier,Scott,Male,18,18-24,84,Under 50k,Silver,Paid Search,2026-02-03,0,1
+CUST000501,Emily,King,Female,42,35-44,16,50k-80k,Silver,Marketplace,2023-09-04,1,0
+CUST000502,Amelia,Jones,Female,28,25-34,91,80k-120k,Bronze,Organic Search,2023-07-14,1,0
+CUST000503,Ruby,Allen,Non-binary,41,35-44,34,50k-80k,Bronze,Paid Search,2023-02-25,1,0
+CUST000504,Chloe,Young,Female,37,35-44,16,50k-80k,Bronze,Affiliate,2024-03-21,1,0
+CUST000505,Cooper,Williams,Male,52,45-54,86,50k-80k,Bronze,In-store QR,2022-06-02,1,1
+CUST000506,James,Williams,Male,35,35-44,9,50k-80k,Silver,Marketplace,2024-04-24,1,0
+CUST000507,Liam,Tran,Male,33,25-34,63,80k-120k,Bronze,Email Campaign,2026-03-15,1,1
+CUST000508,Charlie,Thompson,Male,36,35-44,20,120k-160k,Gold,In-store QR,2025-04-17,1,1
+CUST000509,Georgia,Wilson,Female,48,45-54,49,120k-160k,Bronze,In-store QR,2023-09-09,1,1
+CUST000510,Max,Kaur,Male,22,18-24,55,80k-120k,Bronze,Paid Search,2024-03-27,0,0
+CUST000511,Xavier,Lee,Male,34,25-34,67,120k-160k,Silver,Organic Search,2026-04-10,1,1
+CUST000512,Xavier,Tran,Male,57,55+,78,Under 50k,Silver,Referral,2023-06-18,1,0
+CUST000513,Harrison,Nguyen,Male,23,18-24,19,50k-80k,Bronze,Marketplace,2021-10-28,1,0
+CUST000514,Benjamin,Wilson,Male,41,35-44,10,80k-120k,Silver,Referral,2022-03-25,1,1
+CUST000515,Olivia,Lee,Female,47,45-54,66,120k-160k,Gold,In-store QR,2023-08-13,0,1
+CUST000516,Noah,Thompson,Male,18,18-24,89,Under 50k,Gold,Social Media,2022-02-04,0,1
+CUST000517,Thomas,Singh,Male,38,35-44,8,Under 50k,Bronze,Email Campaign,2023-07-17,1,1
+CUST000518,Maddison,Williams,Female,32,25-34,47,Under 50k,Silver,Email Campaign,2022-11-20,1,0
+CUST000519,Oliver,Lee,Male,39,35-44,15,Under 50k,Silver,Referral,2026-05-22,1,0
+CUST000520,Thomas,Taylor,Male,34,25-34,67,Under 50k,Bronze,Affiliate,2022-04-09,0,0
+CUST000521,Theodore,Young,Male,21,18-24,74,50k-80k,Silver,Organic Search,2024-10-23,1,0
+CUST000522,Isla,Roberts,Female,68,55+,15,120k-160k,Bronze,In-store QR,2022-01-16,1,1
+CUST000523,Charlie,Johnson,Male,36,35-44,66,80k-120k,Bronze,Affiliate,2022-06-03,0,0
+CUST000524,Leo,Baker,Male,27,25-34,56,Under 50k,Gold,In-store QR,2024-08-31,1,0
+CUST000525,Oscar,Smith,Male,22,18-24,85,Under 50k,Bronze,Email Campaign,2022-02-27,1,1
+CUST000526,William,Allen,Male,37,35-44,85,50k-80k,Silver,Social Media,2023-10-09,1,1
+CUST000527,Henry,Kaur,Male,33,25-34,14,Under 50k,Gold,Organic Search,2024-02-04,1,0
+CUST000528,Levi,Lee,Male,24,18-24,52,80k-120k,Bronze,Paid Search,2022-02-11,1,1
+CUST000529,Levi,Allen,Male,24,18-24,16,50k-80k,Bronze,Marketplace,2022-06-17,1,1
+CUST000530,Olivia,Roberts,Female,42,35-44,85,50k-80k,Platinum,Paid Search,2025-05-05,1,1
+CUST000531,Sarah,Green,Female,38,35-44,75,50k-80k,Gold,Marketplace,2021-07-22,1,0
+CUST000532,Charlotte,Wong,Female,43,35-44,21,160k+,Bronze,Email Campaign,2023-11-10,1,1
+CUST000533,Sophie,Hall,Female,46,45-54,79,80k-120k,Bronze,Marketplace,2024-10-03,1,0
+CUST000534,Ethan,Tran,Male,64,55+,1,Under 50k,Silver,Affiliate,2023-08-19,1,1
+CUST000535,Sarah,Thompson,Female,37,35-44,21,50k-80k,Bronze,Paid Search,2024-09-27,1,1
+CUST000536,Mason,Tran,Male,30,25-34,89,50k-80k,Silver,Social Media,2025-09-26,1,1
+CUST000537,Benjamin,Anderson,Male,55,55+,84,50k-80k,Silver,Referral,2021-03-21,1,0
+CUST000538,Oliver,Thompson,Male,63,55+,33,50k-80k,Bronze,Affiliate,2023-09-28,1,0
+CUST000539,Isla,Patel,Female,43,35-44,68,Under 50k,Gold,Marketplace,2023-02-13,0,1
+CUST000540,Charlotte,Scott,Female,46,45-54,21,50k-80k,Bronze,Paid Search,2021-06-07,1,0
+CUST000541,Liam,Brown,Male,48,45-54,20,80k-120k,Bronze,Affiliate,2024-09-07,0,1
+CUST000542,Amelia,Allen,Female,34,25-34,71,120k-160k,Bronze,Affiliate,2022-08-22,1,0
+CUST000543,Theodore,Taylor,Male,30,25-34,11,120k-160k,Silver,Organic Search,2023-07-12,1,1
+CUST000544,Theodore,Hall,Male,47,45-54,41,160k+,Gold,In-store QR,2021-12-13,1,1
+CUST000545,Harrison,Nguyen,Male,40,35-44,22,Under 50k,Bronze,Paid Search,2023-02-13,1,1
+CUST000546,Ruby,Hall,Female,54,45-54,73,50k-80k,Bronze,Referral,2021-01-05,1,1
+CUST000547,Lucy,Green,Female,51,45-54,59,160k+,Bronze,Social Media,2025-12-21,1,1
+CUST000548,Archie,Davis,Male,23,18-24,33,120k-160k,Gold,Affiliate,2022-10-09,1,0
+CUST000549,Mason,Wilson,Male,33,25-34,17,80k-120k,Bronze,Paid Search,2025-11-05,1,1
+CUST000550,Ella,King,Female,52,45-54,64,50k-80k,Bronze,Social Media,2026-03-27,1,1
+CUST000551,Charlotte,Wilson,Female,18,18-24,82,50k-80k,Bronze,Social Media,2023-05-12,1,1
+CUST000552,Isla,Taylor,Female,60,55+,10,120k-160k,Bronze,Organic Search,2023-06-18,0,0
+CUST000553,Thomas,Taylor,Male,30,25-34,22,120k-160k,Gold,Marketplace,2021-01-27,1,1
+CUST000554,Matilda,Williams,Female,18,18-24,62,Under 50k,Bronze,Organic Search,2024-02-04,0,0
+CUST000555,Evie,Young,Female,48,45-54,51,80k-120k,Bronze,Affiliate,2021-04-10,1,0
+CUST000556,Harrison,Young,Male,32,25-34,9,Under 50k,Gold,Marketplace,2022-11-19,1,0
+CUST000557,Abigail,Thompson,Female,43,35-44,42,160k+,Bronze,In-store QR,2023-08-06,1,0
+CUST000558,Max,Davis,Male,21,18-24,10,80k-120k,Bronze,Referral,2025-03-31,1,1
+CUST000559,Benjamin,Patel,Male,31,25-34,85,50k-80k,Silver,Marketplace,2022-04-20,1,1
+CUST000560,Isla,Singh,Female,45,45-54,86,80k-120k,Bronze,Referral,2023-08-01,1,0
+CUST000561,Ava,Chen,Female,55,55+,71,50k-80k,Gold,Social Media,2025-09-07,1,1
+CUST000562,Jessica,Lee,Prefer not to say,31,25-34,11,80k-120k,Silver,Organic Search,2025-04-19,1,0
+CUST000563,Olivia,Kaur,Female,52,45-54,76,80k-120k,Gold,In-store QR,2025-10-20,1,1
+CUST000564,Emma,Wilson,Female,40,35-44,66,50k-80k,Gold,In-store QR,2021-12-26,1,0
+CUST000565,Samuel,Davis,Male,25,25-34,64,80k-120k,Gold,Paid Search,2026-05-11,1,1
+CUST000566,William,Wong,Male,41,35-44,19,80k-120k,Gold,Email Campaign,2023-05-04,1,1
+CUST000567,Jessica,Kaur,Female,25,25-34,81,Under 50k,Bronze,Paid Search,2025-07-11,1,0
+CUST000568,Emma,Johnson,Female,22,18-24,54,Under 50k,Gold,In-store QR,2025-11-14,1,0
+CUST000569,Max,Anderson,Male,18,18-24,65,80k-120k,Silver,Paid Search,2022-09-27,1,0
+CUST000570,Jessica,Baker,Female,39,35-44,70,80k-120k,Bronze,Affiliate,2022-04-27,1,0
+CUST000571,William,Taylor,Male,44,35-44,61,50k-80k,Bronze,Organic Search,2025-07-18,1,0
+CUST000572,Matilda,Tran,Prefer not to say,57,55+,8,120k-160k,Silver,Referral,2022-02-17,1,0
+CUST000573,Hudson,Baker,Male,18,18-24,76,50k-80k,Bronze,Referral,2021-05-19,1,0
+CUST000574,Chloe,Young,Female,50,45-54,18,120k-160k,Silver,Referral,2021-04-13,1,1
+CUST000575,Samuel,Lee,Male,49,45-54,39,50k-80k,Bronze,Referral,2024-10-23,1,0
+CUST000576,Evie,Johnson,Female,24,18-24,11,50k-80k,Silver,Social Media,2026-04-14,0,1
+CUST000577,Charlie,White,Male,35,35-44,21,120k-160k,Bronze,Social Media,2024-05-23,1,0
+CUST000578,Emma,King,Female,19,18-24,33,Under 50k,Gold,Paid Search,2025-12-14,1,0
+CUST000579,Charlie,Kaur,Male,44,35-44,42,50k-80k,Platinum,Marketplace,2025-12-17,1,0
+CUST000580,Emma,Chen,Female,32,25-34,22,50k-80k,Silver,Affiliate,2022-10-14,1,1
+CUST000581,Emily,King,Prefer not to say,45,45-54,38,120k-160k,Bronze,Referral,2022-01-28,1,1
+CUST000582,Olivia,Miller,Female,35,35-44,17,Under 50k,Silver,Marketplace,2021-11-23,1,1
+CUST000583,Sophie,Miller,Non-binary,26,25-34,67,50k-80k,Gold,In-store QR,2022-12-05,1,1
+CUST000584,Zoe,Walker,Female,31,25-34,88,50k-80k,Bronze,In-store QR,2021-08-30,1,1
+CUST000585,Amelia,Brown,Female,51,45-54,76,50k-80k,Silver,Paid Search,2023-12-30,1,1
+CUST000586,Abigail,Martin,Female,54,45-54,70,50k-80k,Bronze,In-store QR,2025-08-17,0,0
+CUST000587,Jessica,Wilson,Female,41,35-44,83,120k-160k,Silver,Social Media,2025-09-15,1,0
+CUST000588,Henry,Miller,Male,41,35-44,88,Under 50k,Gold,Organic Search,2025-09-08,0,1
+CUST000589,Isla,Thompson,Female,34,25-34,9,80k-120k,Bronze,Marketplace,2024-03-30,1,0
+CUST000590,James,Young,Male,54,45-54,17,Under 50k,Gold,Paid Search,2023-12-21,1,1
+CUST000591,William,Smith,Male,35,35-44,31,Under 50k,Bronze,Organic Search,2021-07-20,1,0
+CUST000592,Abigail,Walker,Female,24,18-24,15,80k-120k,Bronze,Marketplace,2022-07-10,1,1
+CUST000593,Sarah,Davis,Female,18,18-24,83,50k-80k,Bronze,Social Media,2023-10-03,1,1
+CUST000594,Theodore,Brown,Male,24,18-24,35,Under 50k,Bronze,Email Campaign,2024-03-21,1,1
+CUST000595,Cooper,Allen,Male,29,25-34,18,50k-80k,Bronze,Paid Search,2024-10-19,0,1
+CUST000596,Zoe,Scott,Female,43,35-44,9,Under 50k,Bronze,Organic Search,2024-02-18,1,1
+CUST000597,Mason,Lee,Male,20,18-24,11,Under 50k,Bronze,Social Media,2022-04-08,1,1
+CUST000598,Levi,Walker,Male,18,18-24,74,50k-80k,Bronze,Paid Search,2021-05-05,1,0
+CUST000599,Amelia,Roberts,Female,41,35-44,91,120k-160k,Silver,Affiliate,2023-09-30,0,1
+CUST000600,Maddison,Singh,Female,32,25-34,72,120k-160k,Bronze,Social Media,2021-09-19,1,1
+CUST000601,Lucy,Lee,Female,54,45-54,88,Under 50k,Bronze,In-store QR,2024-06-24,1,0
+CUST000602,Mason,Green,Male,48,45-54,11,80k-120k,Bronze,Marketplace,2025-10-29,1,1
+CUST000603,Archie,Roberts,Non-binary,52,45-54,23,160k+,Bronze,Email Campaign,2021-04-29,1,1
+CUST000604,Isla,Young,Female,31,25-34,67,Under 50k,Bronze,In-store QR,2022-04-25,1,0
+CUST000605,Jessica,Baker,Female,50,45-54,35,50k-80k,Bronze,Marketplace,2021-04-30,1,0
+CUST000606,Samuel,Green,Male,38,35-44,9,80k-120k,Silver,In-store QR,2026-03-11,0,0
+CUST000607,Ava,Young,Female,35,35-44,88,80k-120k,Silver,Social Media,2023-03-27,1,0
+CUST000608,Henry,Jones,Male,46,45-54,88,120k-160k,Silver,Social Media,2021-03-05,1,1
+CUST000609,Grace,White,Female,43,35-44,10,50k-80k,Gold,Referral,2021-11-25,1,0
+CUST000610,Max,King,Non-binary,30,25-34,52,50k-80k,Silver,Organic Search,2026-05-04,1,1
+CUST000611,Ethan,Young,Male,38,35-44,35,50k-80k,Silver,Organic Search,2021-11-01,1,0
+CUST000612,Cooper,Taylor,Non-binary,35,35-44,2,50k-80k,Silver,In-store QR,2023-02-10,1,0
+CUST000613,Jessica,Kaur,Female,54,45-54,17,50k-80k,Silver,Marketplace,2025-05-16,1,1
+CUST000614,Jack,Davis,Male,22,18-24,9,Under 50k,Bronze,Marketplace,2025-03-03,1,0
+CUST000615,Xavier,Scott,Male,28,25-34,65,50k-80k,Bronze,Email Campaign,2024-08-10,1,1
+CUST000616,Archie,White,Male,49,45-54,46,50k-80k,Gold,Paid Search,2021-07-17,1,1
+CUST000617,Amelia,Brown,Female,26,25-34,84,80k-120k,Silver,Marketplace,2024-12-16,1,1
+CUST000618,Oscar,Hall,Male,42,35-44,29,120k-160k,Bronze,Paid Search,2025-05-09,1,1
+CUST000619,Benjamin,King,Male,56,55+,30,120k-160k,Platinum,Organic Search,2026-04-03,1,0
+CUST000620,Oliver,Jones,Male,39,35-44,48,80k-120k,Silver,Organic Search,2025-12-24,1,1
+CUST000621,Matilda,Wilson,Female,35,35-44,22,160k+,Gold,Social Media,2023-01-08,1,1
+CUST000622,Olivia,Williams,Female,20,18-24,62,160k+,Bronze,Affiliate,2021-12-30,1,1
+CUST000623,Samuel,Young,Male,20,18-24,61,50k-80k,Bronze,Referral,2026-04-09,0,0
+CUST000624,Samuel,Johnson,Male,18,18-24,61,80k-120k,Silver,In-store QR,2026-04-04,0,1
+CUST000625,Isla,Baker,Female,52,45-54,86,Under 50k,Bronze,In-store QR,2024-04-14,1,1
+CUST000626,Harrison,Tran,Male,18,18-24,79,50k-80k,Bronze,Marketplace,2022-08-09,1,0
+CUST000627,Benjamin,Miller,Male,32,25-34,19,50k-80k,Silver,In-store QR,2023-08-06,0,1
+CUST000628,Lucas,Johnson,Male,46,45-54,13,Under 50k,Silver,Referral,2025-07-01,0,1
+CUST000629,Hannah,King,Female,35,35-44,72,Under 50k,Silver,Social Media,2024-10-17,1,1
+CUST000630,Emma,Miller,Female,35,35-44,79,120k-160k,Silver,Organic Search,2023-02-13,1,0
+CUST000631,Ava,Walker,Female,29,25-34,62,50k-80k,Silver,Email Campaign,2025-07-24,1,0
+CUST000632,Ruby,Miller,Female,23,18-24,11,80k-120k,Gold,In-store QR,2021-09-16,1,1
+CUST000633,Oscar,Davis,Male,18,18-24,67,Under 50k,Bronze,Organic Search,2021-10-17,1,0
+CUST000634,Emily,Patel,Female,38,35-44,30,Under 50k,Bronze,Affiliate,2022-12-09,1,0
+CUST000635,Abigail,Young,Non-binary,65,55+,42,120k-160k,Silver,In-store QR,2026-01-09,1,1
+CUST000636,Levi,Brown,Male,52,45-54,38,80k-120k,Gold,Social Media,2021-02-19,0,0
+CUST000637,Charlie,Patel,Male,46,45-54,22,80k-120k,Bronze,Marketplace,2023-03-21,0,0
+CUST000638,Max,King,Male,43,35-44,11,50k-80k,Bronze,Marketplace,2023-02-24,1,1
+CUST000639,Lucas,Scott,Male,50,45-54,77,Under 50k,Silver,Paid Search,2025-08-19,1,1
+CUST000640,Harrison,Tran,Male,29,25-34,72,120k-160k,Gold,In-store QR,2023-04-26,0,0
+CUST000641,Olivia,White,Female,42,35-44,39,Under 50k,Silver,Referral,2023-02-01,1,0
+CUST000642,Leo,Green,Male,47,45-54,15,160k+,Bronze,Email Campaign,2023-10-03,1,0
+CUST000643,Cooper,Chen,Male,34,25-34,32,50k-80k,Bronze,Organic Search,2022-11-24,1,1
+CUST000644,Samuel,Kaur,Male,36,35-44,9,50k-80k,Silver,Referral,2024-08-19,1,0
+CUST000645,Ella,White,Female,34,25-34,74,50k-80k,Silver,Paid Search,2021-02-03,0,0
+CUST000646,Emma,Baker,Female,44,35-44,32,50k-80k,Silver,In-store QR,2023-02-26,1,1
+CUST000647,Charlie,Roberts,Male,18,18-24,19,50k-80k,Bronze,Affiliate,2022-09-07,1,1
+CUST000648,Ethan,Young,Male,43,35-44,77,80k-120k,Silver,Affiliate,2023-08-08,0,1
+CUST000649,Charlotte,Nguyen,Female,22,18-24,42,50k-80k,Silver,Referral,2023-11-12,1,1
+CUST000650,Chloe,Wilson,Female,30,25-34,50,120k-160k,Bronze,Affiliate,2025-05-21,1,0
+CUST000651,Xavier,Scott,Male,41,35-44,48,Under 50k,Bronze,Social Media,2023-08-05,1,1
+CUST000652,Ethan,Singh,Male,18,18-24,37,Under 50k,Bronze,Paid Search,2024-10-13,1,1
+CUST000653,Leo,Brown,Male,47,45-54,39,160k+,Gold,In-store QR,2025-11-01,1,0
+CUST000654,Henry,Patel,Male,26,25-34,15,50k-80k,Platinum,Affiliate,2024-07-11,1,1
+CUST000655,Grace,Smith,Female,67,55+,80,80k-120k,Bronze,Affiliate,2023-12-12,0,1
+CUST000656,Ava,Smith,Female,55,55+,16,50k-80k,Bronze,In-store QR,2021-07-19,1,0
+CUST000657,Oliver,White,Male,58,55+,68,50k-80k,Bronze,Social Media,2023-09-12,1,0
+CUST000658,Oliver,Hall,Male,40,35-44,63,Under 50k,Bronze,Email Campaign,2022-03-12,1,0
+CUST000659,Lucas,Wong,Male,18,18-24,40,80k-120k,Silver,Paid Search,2024-07-02,0,1
+CUST000660,Levi,Johnson,Male,24,18-24,13,120k-160k,Bronze,Referral,2022-11-10,1,0
+CUST000661,Thomas,Johnson,Male,36,35-44,74,50k-80k,Bronze,Marketplace,2022-05-02,1,0
+CUST000662,Sophie,Brown,Female,46,45-54,72,80k-120k,Bronze,Social Media,2022-08-23,1,0
+CUST000663,Ethan,Miller,Male,40,35-44,65,50k-80k,Gold,Referral,2022-04-26,1,1
+CUST000664,Ethan,Green,Male,18,18-24,41,50k-80k,Bronze,Email Campaign,2025-09-26,1,1
+CUST000665,Jessica,Davis,Female,50,45-54,70,120k-160k,Gold,Marketplace,2022-01-04,1,1
+CUST000666,William,Hall,Prefer not to say,33,25-34,78,120k-160k,Platinum,Organic Search,2021-11-02,1,0
+CUST000667,Sophie,Smith,Female,39,35-44,70,80k-120k,Bronze,Organic Search,2026-02-15,1,1
+CUST000668,Levi,Wong,Male,49,45-54,34,120k-160k,Bronze,Organic Search,2022-10-28,0,1
+CUST000669,William,Taylor,Male,38,35-44,48,160k+,Gold,Organic Search,2022-01-22,1,1
+CUST000670,Liam,Miller,Male,29,25-34,19,80k-120k,Bronze,Paid Search,2024-01-03,1,1
+CUST000671,Olivia,Wilson,Female,38,35-44,13,120k-160k,Bronze,Referral,2026-03-01,1,1
+CUST000672,Isla,Patel,Female,19,18-24,80,Under 50k,Bronze,Affiliate,2025-10-17,1,1
+CUST000673,Sarah,Patel,Female,18,18-24,35,50k-80k,Platinum,Marketplace,2025-06-08,0,0
+CUST000674,Amelia,Jones,Female,30,25-34,10,50k-80k,Bronze,Organic Search,2025-09-14,1,1
+CUST000675,Mia,Davis,Female,64,55+,48,50k-80k,Bronze,Affiliate,2022-03-11,1,0
+CUST000676,Jessica,Patel,Female,56,55+,42,120k-160k,Silver,Organic Search,2025-04-10,1,1
+CUST000677,Henry,Patel,Male,22,18-24,59,50k-80k,Bronze,Paid Search,2021-06-08,0,1
+CUST000678,Zoe,Taylor,Female,39,35-44,75,50k-80k,Bronze,Affiliate,2024-10-03,1,0
+CUST000679,Hannah,Johnson,Female,32,25-34,38,120k-160k,Bronze,Referral,2024-03-07,1,1
+CUST000680,Georgia,Tran,Female,58,55+,7,80k-120k,Bronze,Organic Search,2024-02-10,1,0
+CUST000681,Benjamin,Davis,Male,22,18-24,18,80k-120k,Silver,Marketplace,2023-05-03,1,1
+CUST000682,Max,Anderson,Male,31,25-34,15,50k-80k,Gold,Referral,2024-07-31,0,1
+CUST000683,Matilda,Young,Female,63,55+,62,80k-120k,Silver,Paid Search,2024-01-02,1,0
+CUST000684,Ruby,Anderson,Female,53,45-54,15,160k+,Silver,Email Campaign,2024-09-21,0,1
+CUST000685,Olivia,Allen,Female,36,35-44,71,50k-80k,Bronze,Email Campaign,2022-03-17,0,0
+CUST000686,Lucy,Williams,Female,28,25-34,71,80k-120k,Bronze,In-store QR,2023-08-24,1,0
+CUST000687,Levi,Brown,Male,51,45-54,71,Under 50k,Silver,Organic Search,2025-05-20,1,0
+CUST000688,William,Wong,Male,42,35-44,65,80k-120k,Silver,Affiliate,2023-01-24,1,1
+CUST000689,Chloe,Young,Female,44,35-44,8,50k-80k,Bronze,Organic Search,2021-11-03,1,0
+CUST000690,Thomas,Anderson,Male,18,18-24,15,50k-80k,Bronze,Referral,2021-10-21,1,0
+CUST000691,Grace,Davis,Female,33,25-34,18,80k-120k,Bronze,Social Media,2024-11-24,1,0
+CUST000692,Archie,Wilson,Male,44,35-44,34,Under 50k,Silver,In-store QR,2024-03-17,1,1
+CUST000693,Benjamin,Wilson,Male,56,55+,10,160k+,Silver,Organic Search,2024-02-19,1,1
+CUST000694,Henry,Walker,Male,32,25-34,62,Under 50k,Bronze,Affiliate,2022-08-20,1,1
+CUST000695,Liam,Martin,Male,18,18-24,85,Under 50k,Silver,Referral,2023-04-22,1,1
+CUST000696,Archie,Kaur,Male,65,55+,22,50k-80k,Bronze,Organic Search,2025-09-30,1,0
+CUST000697,Chloe,Wong,Prefer not to say,44,35-44,21,50k-80k,Bronze,Organic Search,2025-02-19,1,1
+CUST000698,Ruby,Jones,Female,18,18-24,70,120k-160k,Gold,Organic Search,2026-03-11,1,0
+CUST000699,Emily,Scott,Female,54,45-54,36,120k-160k,Bronze,In-store QR,2022-04-22,1,0
+CUST000700,Matilda,Green,Female,26,25-34,43,80k-120k,Silver,Marketplace,2021-03-31,1,1
+CUST000701,Emma,Young,Female,31,25-34,74,160k+,Silver,Referral,2023-06-26,1,1
+CUST000702,Lucy,Smith,Female,40,35-44,15,50k-80k,Bronze,Referral,2021-06-19,0,1
+CUST000703,Matilda,Kaur,Female,38,35-44,71,50k-80k,Bronze,Marketplace,2021-10-26,1,1
+CUST000704,Samuel,Wilson,Male,53,45-54,66,80k-120k,Bronze,Paid Search,2025-09-12,0,1
+CUST000705,Grace,Wong,Female,45,45-54,19,80k-120k,Bronze,Organic Search,2024-10-29,1,0
+CUST000706,Matilda,Nguyen,Female,18,18-24,64,50k-80k,Bronze,Paid Search,2025-06-24,1,1
+CUST000707,Lily,Anderson,Prefer not to say,28,25-34,79,120k-160k,Silver,Paid Search,2021-01-31,1,0
+CUST000708,Theodore,Brown,Male,41,35-44,66,120k-160k,Silver,Referral,2025-08-21,1,1
+CUST000709,Lily,Patel,Female,56,55+,33,80k-120k,Bronze,Affiliate,2022-03-16,1,1
+CUST000710,Ava,Martin,Female,42,35-44,21,80k-120k,Silver,Affiliate,2024-07-27,0,1
+CUST000711,Lucas,Hall,Male,55,55+,39,50k-80k,Silver,Email Campaign,2024-04-09,1,0
+CUST000712,Ella,Young,Female,29,25-34,69,Under 50k,Bronze,Paid Search,2022-02-13,1,0
+CUST000713,Max,Brown,Male,59,55+,71,80k-120k,Gold,In-store QR,2021-03-03,1,0
+CUST000714,Thomas,Scott,Male,55,55+,70,50k-80k,Silver,Email Campaign,2023-09-26,1,1
+CUST000715,Harrison,Allen,Male,54,45-54,78,80k-120k,Silver,Affiliate,2022-12-05,1,1
+CUST000716,Lucy,Scott,Female,57,55+,67,50k-80k,Silver,Affiliate,2022-12-27,0,0
+CUST000717,Sophie,Patel,Female,38,35-44,38,120k-160k,Gold,In-store QR,2024-02-09,1,0
+CUST000718,Max,Brown,Male,39,35-44,20,80k-120k,Bronze,Organic Search,2023-07-31,1,0
+CUST000719,Thomas,Kaur,Male,50,45-54,14,Under 50k,Bronze,Affiliate,2021-12-30,0,0
+CUST000720,Lucas,King,Male,45,45-54,45,50k-80k,Silver,In-store QR,2024-09-28,0,1
+CUST000721,Grace,Thompson,Female,40,35-44,35,50k-80k,Bronze,Marketplace,2023-06-03,1,1
+CUST000722,Abigail,Miller,Female,45,45-54,77,Under 50k,Gold,Marketplace,2025-04-14,0,0
+CUST000723,Emily,Miller,Female,49,45-54,38,Under 50k,Silver,Marketplace,2024-09-28,1,1
+CUST000724,Levi,King,Male,44,35-44,40,80k-120k,Bronze,Affiliate,2021-03-21,1,1
+CUST000725,Samuel,Davis,Male,29,25-34,37,80k-120k,Silver,Paid Search,2023-03-08,1,1
+CUST000726,Isla,Wong,Female,35,35-44,11,120k-160k,Silver,Organic Search,2024-04-26,1,0
+CUST000727,Lily,Baker,Female,35,35-44,43,80k-120k,Bronze,Marketplace,2026-03-12,1,0
+CUST000728,Theodore,Johnson,Male,28,25-34,19,Under 50k,Bronze,Organic Search,2025-04-21,1,1
+CUST000729,Maddison,Kaur,Female,49,45-54,53,80k-120k,Bronze,Referral,2023-11-15,1,1
+CUST000730,Amelia,Wong,Female,32,25-34,37,80k-120k,Bronze,Social Media,2024-02-17,1,1
+CUST000731,Hannah,Hall,Female,50,45-54,74,50k-80k,Silver,Organic Search,2021-11-17,1,1
+CUST000732,Matilda,Walker,Female,18,18-24,37,50k-80k,Bronze,Paid Search,2023-05-15,1,0
+CUST000733,Ruby,Scott,Female,36,35-44,89,80k-120k,Silver,Organic Search,2024-12-07,1,0
+CUST000734,Leo,Tran,Male,29,25-34,69,50k-80k,Silver,Referral,2023-02-07,1,1
+CUST000735,Henry,Thompson,Male,59,55+,66,50k-80k,Bronze,Marketplace,2021-02-02,1,1
+CUST000736,Thomas,Taylor,Male,35,35-44,35,50k-80k,Bronze,Paid Search,2025-02-24,1,0
+CUST000737,Olivia,Miller,Female,32,25-34,42,50k-80k,Bronze,Paid Search,2024-05-02,1,1
+CUST000738,Lily,Williams,Female,61,55+,26,50k-80k,Bronze,Referral,2022-07-24,1,0
+CUST000739,Liam,Roberts,Male,42,35-44,15,120k-160k,Bronze,Paid Search,2021-06-10,0,0
+CUST000740,Jessica,Martin,Female,48,45-54,17,160k+,Silver,Paid Search,2023-11-24,1,1
+CUST000741,Xavier,Martin,Male,18,18-24,79,Under 50k,Bronze,Referral,2023-08-23,1,1
+CUST000742,Jessica,Johnson,Female,45,45-54,76,50k-80k,Gold,Affiliate,2026-05-08,1,1
+CUST000743,Noah,Jones,Male,41,35-44,66,Under 50k,Silver,Organic Search,2022-01-03,0,0
+CUST000744,Emily,Tran,Female,25,25-34,40,Under 50k,Bronze,Email Campaign,2026-03-23,1,0
+CUST000745,Cooper,Taylor,Male,49,45-54,70,80k-120k,Platinum,Organic Search,2022-08-17,1,0
+CUST000746,Archie,Wilson,Male,37,35-44,63,50k-80k,Bronze,Referral,2024-02-06,1,1
+CUST000747,Archie,Johnson,Male,61,55+,60,Under 50k,Bronze,Organic Search,2021-03-05,1,1
+CUST000748,Liam,Wong,Male,37,35-44,44,80k-120k,Gold,Organic Search,2023-11-01,1,1
+CUST000749,Lucy,Lee,Female,19,18-24,18,Under 50k,Silver,Referral,2023-09-03,0,1
+CUST000750,Georgia,Baker,Female,37,35-44,91,50k-80k,Silver,Affiliate,2025-06-23,1,1
+CUST000751,Max,Kaur,Male,46,45-54,31,80k-120k,Bronze,Organic Search,2025-05-20,1,0
+CUST000752,Charlie,Chen,Male,68,55+,64,80k-120k,Gold,Referral,2024-04-02,1,0
+CUST000753,Archie,Jones,Male,40,35-44,14,50k-80k,Silver,In-store QR,2024-12-22,1,1
+CUST000754,Oliver,Singh,Male,37,35-44,22,50k-80k,Silver,Paid Search,2021-11-28,1,1
+CUST000755,Theodore,Miller,Male,26,25-34,90,50k-80k,Bronze,Organic Search,2021-03-04,1,1
+CUST000756,Amelia,Johnson,Female,29,25-34,44,50k-80k,Bronze,Email Campaign,2023-04-16,1,1
+CUST000757,Emily,Thompson,Female,36,35-44,81,50k-80k,Silver,Email Campaign,2024-06-11,0,0
+CUST000758,Henry,White,Male,31,25-34,47,50k-80k,Bronze,Referral,2024-11-03,1,0
+CUST000759,Charlie,Martin,Male,24,18-24,8,50k-80k,Bronze,Social Media,2022-11-13,1,1
+CUST000760,Max,Singh,Male,31,25-34,74,Under 50k,Silver,Organic Search,2023-02-13,1,1
+CUST000761,Leo,Davis,Male,25,25-34,86,50k-80k,Bronze,Social Media,2024-06-19,1,1
+CUST000762,Cooper,Davis,Male,41,35-44,17,120k-160k,Bronze,Affiliate,2025-10-27,1,0
+CUST000763,Benjamin,King,Non-binary,22,18-24,31,80k-120k,Bronze,In-store QR,2022-01-15,1,0
+CUST000764,Amelia,Brown,Female,46,45-54,74,Under 50k,Silver,Paid Search,2023-03-09,1,1
+CUST000765,Charlotte,Smith,Female,27,25-34,47,50k-80k,Gold,Paid Search,2021-04-10,1,0
+CUST000766,Harrison,Davis,Male,29,25-34,90,Under 50k,Gold,Organic Search,2021-03-22,1,0
+CUST000767,Archie,Baker,Male,45,45-54,8,120k-160k,Gold,Referral,2026-05-08,1,1
+CUST000768,Lily,Lee,Female,18,18-24,8,50k-80k,Bronze,Email Campaign,2024-08-15,1,1
+CUST000769,Charlie,Young,Male,43,35-44,81,80k-120k,Bronze,Referral,2021-05-21,1,1
+CUST000770,Olivia,Young,Female,30,25-34,13,80k-120k,Silver,Affiliate,2022-03-29,0,0
+CUST000771,Matilda,Green,Female,49,45-54,70,80k-120k,Silver,Affiliate,2024-07-11,1,1
+CUST000772,Lily,Lee,Female,38,35-44,74,120k-160k,Silver,Referral,2021-11-18,1,1
+CUST000773,Leo,Young,Male,63,55+,45,Under 50k,Gold,In-store QR,2023-11-08,0,1
+CUST000774,Grace,Thompson,Female,54,45-54,29,80k-120k,Bronze,Referral,2022-07-14,0,1
+CUST000775,Liam,Jones,Male,18,18-24,14,50k-80k,Bronze,Affiliate,2022-03-22,1,0
+CUST000776,Samuel,Johnson,Male,18,18-24,77,Under 50k,Bronze,Email Campaign,2024-04-10,0,1
+CUST000777,Isla,Davis,Female,27,25-34,20,120k-160k,Bronze,In-store QR,2022-05-04,1,0
+CUST000778,Zoe,Baker,Female,52,45-54,39,50k-80k,Bronze,Organic Search,2026-04-16,1,1
+CUST000779,Grace,Davis,Female,46,45-54,12,50k-80k,Silver,In-store QR,2022-03-25,1,1
+CUST000780,Samuel,Hall,Male,37,35-44,15,80k-120k,Bronze,Affiliate,2025-12-24,0,0
+CUST000781,Samuel,Wilson,Male,32,25-34,11,50k-80k,Bronze,Referral,2024-04-04,1,1
+CUST000782,Mason,Davis,Male,21,18-24,16,Under 50k,Bronze,In-store QR,2026-04-09,1,0
+CUST000783,Grace,Roberts,Female,30,25-34,65,50k-80k,Silver,Social Media,2022-08-23,1,1
+CUST000784,Benjamin,Green,Male,46,45-54,43,50k-80k,Gold,Social Media,2022-03-20,1,1
+CUST000785,Jack,Williams,Prefer not to say,27,25-34,21,Under 50k,Silver,Marketplace,2025-12-30,1,1
+CUST000786,Ethan,Scott,Male,38,35-44,87,160k+,Silver,In-store QR,2021-11-15,1,0
+CUST000787,Georgia,Brown,Female,51,45-54,64,80k-120k,Silver,In-store QR,2024-10-27,1,0
+CUST000788,Georgia,Chen,Female,29,25-34,79,120k-160k,Gold,Email Campaign,2026-01-31,1,1
+CUST000789,Xavier,Allen,Male,28,25-34,3,80k-120k,Bronze,Social Media,2021-08-05,1,1
+CUST000790,Matilda,Tran,Female,44,35-44,89,160k+,Silver,Referral,2023-06-18,1,1
+CUST000791,Maddison,Young,Female,26,25-34,36,Under 50k,Silver,Social Media,2023-07-16,1,1
+CUST000792,William,Taylor,Male,37,35-44,32,80k-120k,Silver,Referral,2026-05-12,1,1
+CUST000793,Jessica,Taylor,Female,35,35-44,43,120k-160k,Bronze,Paid Search,2022-08-09,1,0
+CUST000794,Thomas,King,Male,27,25-34,86,120k-160k,Gold,In-store QR,2021-04-20,0,0
+CUST000795,Theodore,Smith,Male,36,35-44,42,80k-120k,Silver,Organic Search,2025-02-13,1,1
+CUST000796,Liam,Smith,Prefer not to say,35,35-44,11,120k-160k,Bronze,Email Campaign,2026-03-30,1,0
+CUST000797,James,Allen,Male,36,35-44,33,80k-120k,Bronze,In-store QR,2024-04-26,1,0
+CUST000798,Jessica,Wong,Female,28,25-34,14,120k-160k,Silver,Organic Search,2025-12-07,0,1
+CUST000799,Charlie,Williams,Male,43,35-44,30,80k-120k,Bronze,Email Campaign,2023-01-26,1,1
+CUST000800,Thomas,Brown,Prefer not to say,40,35-44,84,50k-80k,Platinum,Organic Search,2022-10-10,1,0
+CUST000801,Max,Green,Male,38,35-44,84,50k-80k,Silver,In-store QR,2022-04-13,1,1
+CUST000802,Ruby,Baker,Female,18,18-24,72,50k-80k,Bronze,Social Media,2022-04-16,1,0
+CUST000803,Mia,Roberts,Female,39,35-44,40,Under 50k,Bronze,Paid Search,2025-12-22,1,0
+CUST000804,Leo,Green,Male,51,45-54,14,Under 50k,Bronze,Marketplace,2026-01-13,1,1
+CUST000805,Abigail,Wong,Female,47,45-54,47,80k-120k,Bronze,Paid Search,2022-12-05,0,0
+CUST000806,Liam,Miller,Male,32,25-34,83,80k-120k,Bronze,Affiliate,2024-05-17,0,0
+CUST000807,Hudson,Baker,Male,29,25-34,78,Under 50k,Bronze,Paid Search,2022-02-06,1,0
+CUST000808,Zoe,Williams,Female,41,35-44,10,50k-80k,Gold,Marketplace,2022-11-30,1,0
+CUST000809,Olivia,Wong,Female,30,25-34,42,50k-80k,Gold,Paid Search,2021-12-31,1,1
+CUST000810,Harrison,Wong,Male,35,35-44,45,50k-80k,Bronze,Paid Search,2023-02-28,1,0
+CUST000811,Levi,Jones,Male,47,45-54,44,Under 50k,Bronze,Organic Search,2025-11-01,0,1
+CUST000812,Amelia,King,Female,42,35-44,63,Under 50k,Bronze,Paid Search,2021-06-27,1,1
+CUST000813,Mia,Anderson,Female,40,35-44,21,Under 50k,Silver,Email Campaign,2025-07-23,1,1
+CUST000814,Oscar,Kaur,Male,30,25-34,78,160k+,Bronze,Referral,2025-05-18,1,0
+CUST000815,Henry,Lee,Male,49,45-54,85,50k-80k,Silver,Email Campaign,2026-04-13,1,1
+CUST000816,Leo,Williams,Male,55,55+,40,Under 50k,Bronze,Social Media,2021-08-21,1,1
+CUST000817,Chloe,Smith,Female,18,18-24,39,Under 50k,Bronze,Organic Search,2022-05-28,1,1
+CUST000818,Georgia,Jones,Female,34,25-34,73,50k-80k,Gold,Social Media,2023-01-23,1,0
+CUST000819,Mason,Scott,Male,31,25-34,9,80k-120k,Gold,Email Campaign,2021-04-07,1,1
+CUST000820,Max,King,Male,54,45-54,21,50k-80k,Silver,Paid Search,2024-11-12,0,1
+CUST000821,Sarah,Walker,Female,40,35-44,12,Under 50k,Bronze,Affiliate,2022-03-30,1,0
+CUST000822,Abigail,Thompson,Female,46,45-54,31,160k+,Gold,Paid Search,2021-10-05,1,0
+CUST000823,Zoe,Allen,Non-binary,18,18-24,49,Under 50k,Silver,Marketplace,2022-07-24,1,1
+CUST000824,Oscar,Martin,Male,52,45-54,67,80k-120k,Bronze,Email Campaign,2021-11-21,1,0
+CUST000825,Olivia,Kaur,Female,41,35-44,38,120k-160k,Silver,In-store QR,2025-05-21,1,1
+CUST000826,Jessica,Thompson,Female,18,18-24,19,Under 50k,Silver,Social Media,2026-01-28,1,0
+CUST000827,Ruby,Johnson,Female,57,55+,8,80k-120k,Bronze,Marketplace,2021-12-28,1,1
+CUST000828,Oliver,Johnson,Male,63,55+,10,Under 50k,Silver,Social Media,2024-09-05,1,0
+CUST000829,Mason,Johnson,Male,48,45-54,10,50k-80k,Silver,Marketplace,2023-06-10,0,0
+CUST000830,Amelia,Nguyen,Female,23,18-24,87,120k-160k,Bronze,Email Campaign,2024-11-08,0,0
+CUST000831,Noah,Davis,Male,38,35-44,17,50k-80k,Bronze,In-store QR,2022-01-08,0,0
+CUST000832,Levi,Anderson,Male,18,18-24,30,80k-120k,Gold,Organic Search,2025-03-07,1,0
+CUST000833,Leo,Wilson,Male,38,35-44,10,Under 50k,Bronze,Email Campaign,2022-11-25,1,0
+CUST000834,James,Chen,Male,63,55+,37,80k-120k,Bronze,Referral,2022-01-03,1,1
+CUST000835,Ava,White,Female,38,35-44,32,Under 50k,Silver,In-store QR,2021-03-21,1,1
+CUST000836,Levi,Nguyen,Male,50,45-54,90,50k-80k,Bronze,Affiliate,2026-03-07,0,0
+CUST000837,Charlie,Young,Male,33,25-34,42,80k-120k,Bronze,In-store QR,2026-03-11,1,1
+CUST000838,Grace,Singh,Non-binary,57,55+,79,50k-80k,Bronze,Affiliate,2025-05-12,1,1
+CUST000839,Archie,Nguyen,Male,18,18-24,81,50k-80k,Bronze,Referral,2026-05-09,1,1
+CUST000840,Leo,Green,Male,51,45-54,14,50k-80k,Bronze,Referral,2021-09-03,1,1
+CUST000841,Hannah,Williams,Female,31,25-34,18,50k-80k,Silver,Organic Search,2025-02-13,1,1
+CUST000842,Mia,Scott,Female,38,35-44,11,50k-80k,Gold,Organic Search,2024-09-03,1,0
+CUST000843,Theodore,King,Male,37,35-44,36,50k-80k,Silver,Referral,2023-12-16,0,0
+CUST000844,Henry,Wilson,Male,26,25-34,20,50k-80k,Gold,Paid Search,2024-11-30,1,1
+CUST000845,Max,Taylor,Male,34,25-34,10,50k-80k,Silver,Affiliate,2021-10-29,1,1
+CUST000846,Emily,Tran,Female,23,18-24,35,Under 50k,Bronze,Paid Search,2024-02-09,1,0
+CUST000847,Chloe,Miller,Prefer not to say,18,18-24,8,Under 50k,Silver,Paid Search,2025-04-15,1,0
+CUST000848,Evie,Patel,Female,40,35-44,41,Under 50k,Bronze,Affiliate,2025-08-12,1,0
+CUST000849,Max,Walker,Male,18,18-24,69,Under 50k,Bronze,Referral,2025-03-12,0,1
+CUST000850,Noah,Taylor,Male,56,55+,48,160k+,Bronze,Email Campaign,2024-10-13,0,1
+CUST000851,Zoe,Roberts,Female,23,18-24,10,Under 50k,Platinum,Affiliate,2025-11-09,1,0
+CUST000852,Isla,Thompson,Female,34,25-34,40,80k-120k,Bronze,Email Campaign,2023-04-14,0,0
+CUST000853,Samuel,Miller,Male,30,25-34,19,160k+,Platinum,Paid Search,2025-07-28,1,0
+CUST000854,Zoe,Hall,Female,53,45-54,47,50k-80k,Bronze,Email Campaign,2023-11-23,1,1
+CUST000855,Chloe,Williams,Female,38,35-44,11,120k-160k,Silver,Email Campaign,2024-05-24,0,0
+CUST000856,Olivia,Young,Female,44,35-44,11,Under 50k,Bronze,Affiliate,2022-03-26,1,1
+CUST000857,Theodore,King,Male,47,45-54,35,80k-120k,Bronze,Affiliate,2025-02-09,1,1
+CUST000858,Ruby,White,Female,54,45-54,83,50k-80k,Gold,Email Campaign,2024-05-24,1,1
+CUST000859,Jessica,Hall,Female,26,25-34,56,120k-160k,Silver,Email Campaign,2023-07-24,1,1
+CUST000860,Maddison,Nguyen,Female,43,35-44,75,80k-120k,Silver,Marketplace,2022-12-31,1,0
+CUST000861,Leo,Nguyen,Male,55,55+,87,Under 50k,Gold,In-store QR,2021-09-17,1,1
+CUST000862,Emily,Martin,Female,29,25-34,11,50k-80k,Silver,Email Campaign,2023-04-01,1,0
+CUST000863,Lucas,Smith,Male,43,35-44,36,80k-120k,Bronze,Email Campaign,2021-02-02,0,1
+CUST000864,Lily,Davis,Female,48,45-54,34,80k-120k,Gold,Social Media,2022-12-24,0,1
+CUST000865,Benjamin,Walker,Male,40,35-44,41,Under 50k,Bronze,Affiliate,2022-06-12,1,1
+CUST000866,Max,Jones,Male,35,35-44,32,120k-160k,Bronze,Paid Search,2024-07-31,1,1
+CUST000867,Xavier,Chen,Male,24,18-24,64,Under 50k,Bronze,Referral,2021-05-02,1,1
+CUST000868,Theodore,Smith,Male,19,18-24,51,Under 50k,Platinum,Marketplace,2024-10-03,0,0
+CUST000869,Liam,Miller,Male,30,25-34,34,50k-80k,Gold,In-store QR,2026-02-03,1,1
+CUST000870,Hudson,Johnson,Male,27,25-34,22,80k-120k,Bronze,Marketplace,2022-07-17,0,1
+CUST000871,Olivia,Scott,Female,27,25-34,37,Under 50k,Silver,Marketplace,2022-07-16,1,0
+CUST000872,Emma,Williams,Female,48,45-54,32,120k-160k,Silver,Marketplace,2022-01-02,1,1
+CUST000873,Jack,Young,Male,41,35-44,13,80k-120k,Bronze,Paid Search,2025-04-21,1,1
+CUST000874,Thomas,Smith,Male,36,35-44,16,50k-80k,Bronze,Marketplace,2026-03-23,0,1
+CUST000875,Emily,Martin,Female,57,55+,68,Under 50k,Bronze,Referral,2022-01-13,1,0
+CUST000876,Hannah,Scott,Female,42,35-44,86,Under 50k,Gold,Paid Search,2024-08-25,1,1
+CUST000877,Emma,Miller,Female,35,35-44,9,160k+,Bronze,Marketplace,2024-02-12,1,1
+CUST000878,Lucas,Allen,Male,41,35-44,14,50k-80k,Bronze,Email Campaign,2024-09-08,0,1
+CUST000879,Max,Scott,Male,29,25-34,68,80k-120k,Bronze,Social Media,2021-10-10,0,0
+CUST000880,Jessica,Tran,Female,37,35-44,22,80k-120k,Bronze,Social Media,2021-01-04,1,0
+CUST000881,Thomas,Green,Male,18,18-24,84,50k-80k,Bronze,Referral,2025-05-19,1,1
+CUST000882,Archie,Tran,Male,51,45-54,18,80k-120k,Silver,Organic Search,2024-02-04,1,1
+CUST000883,Zoe,Tran,Female,41,35-44,64,50k-80k,Silver,Referral,2022-10-19,1,1
+CUST000884,Olivia,Taylor,Female,42,35-44,41,Under 50k,Bronze,Referral,2025-01-20,1,0
+CUST000885,Lily,Singh,Female,57,55+,89,50k-80k,Gold,Referral,2025-07-17,1,1
+CUST000886,Max,Walker,Male,38,35-44,15,80k-120k,Bronze,Email Campaign,2023-09-09,1,1
+CUST000887,Zoe,Smith,Female,29,25-34,32,50k-80k,Silver,Marketplace,2025-10-20,0,1
+CUST000888,Emma,Brown,Female,52,45-54,77,50k-80k,Bronze,Organic Search,2021-10-11,1,1
+CUST000889,Chloe,Walker,Female,41,35-44,66,80k-120k,Silver,Referral,2024-04-08,1,0
+CUST000890,Theodore,Chen,Male,26,25-34,45,Under 50k,Silver,In-store QR,2022-10-24,1,1
+CUST000891,Abigail,Anderson,Female,34,25-34,64,120k-160k,Bronze,Email Campaign,2023-11-17,1,0
+CUST000892,Charlie,Anderson,Prefer not to say,51,45-54,12,120k-160k,Silver,Email Campaign,2024-11-17,0,0
+CUST000893,Matilda,Davis,Female,39,35-44,77,160k+,Bronze,Marketplace,2023-03-14,1,1
+CUST000894,Georgia,Thompson,Female,32,25-34,33,Under 50k,Silver,Marketplace,2023-08-05,1,1
+CUST000895,James,White,Male,60,55+,17,Under 50k,Bronze,Paid Search,2022-11-10,0,0
+CUST000896,Emma,Miller,Female,44,35-44,9,50k-80k,Bronze,Social Media,2023-08-30,1,1
+CUST000897,Oliver,Green,Male,43,35-44,64,120k-160k,Silver,Social Media,2024-12-24,1,1
+CUST000898,Maddison,King,Female,45,45-54,5,Under 50k,Bronze,Affiliate,2021-11-07,1,1
+CUST000899,Ruby,Smith,Female,42,35-44,63,Under 50k,Silver,Paid Search,2025-09-30,1,1
+CUST000900,Samuel,Brown,Male,18,18-24,40,50k-80k,Bronze,Marketplace,2024-01-03,1,1
+CUST000901,Benjamin,Nguyen,Male,58,55+,38,80k-120k,Bronze,Email Campaign,2025-08-01,1,1
+CUST000902,Max,Allen,Male,32,25-34,40,50k-80k,Bronze,Organic Search,2023-03-01,1,1
+CUST000903,Amelia,Kaur,Female,41,35-44,84,50k-80k,Bronze,Paid Search,2023-01-23,1,0
+CUST000904,Harrison,Anderson,Male,57,55+,22,50k-80k,Bronze,Social Media,2024-11-07,1,1
+CUST000905,Charlotte,Singh,Female,45,45-54,14,50k-80k,Silver,In-store QR,2021-08-01,1,1
+CUST000906,Mason,Tran,Male,38,35-44,70,50k-80k,Bronze,Marketplace,2025-10-07,1,1
+CUST000907,Georgia,Johnson,Female,59,55+,52,Under 50k,Bronze,Paid Search,2024-12-11,1,0
+CUST000908,Leo,Allen,Male,29,25-34,21,120k-160k,Bronze,Organic Search,2024-09-28,1,1
+CUST000909,Sophie,Scott,Female,48,45-54,72,50k-80k,Gold,Organic Search,2021-07-25,0,0
+CUST000910,Abigail,Johnson,Female,18,18-24,53,80k-120k,Bronze,Email Campaign,2023-04-13,1,1
+CUST000911,Max,Hall,Male,70,55+,42,80k-120k,Bronze,In-store QR,2023-08-15,1,1
+CUST000912,Georgia,Anderson,Female,31,25-34,58,50k-80k,Bronze,Marketplace,2023-06-21,1,1
+CUST000913,Evie,White,Female,53,45-54,21,120k-160k,Silver,Paid Search,2025-07-17,1,0
+CUST000914,Sophie,Brown,Female,54,45-54,19,50k-80k,Bronze,Marketplace,2024-09-17,1,0
+CUST000915,Hannah,Green,Non-binary,36,35-44,13,50k-80k,Bronze,Social Media,2022-01-08,1,0
+CUST000916,Samuel,Wilson,Male,46,45-54,39,80k-120k,Bronze,Referral,2023-12-13,0,1
+CUST000917,Olivia,Smith,Female,23,18-24,18,50k-80k,Silver,Social Media,2025-10-01,1,0
+CUST000918,Georgia,Lee,Female,27,25-34,65,50k-80k,Bronze,Paid Search,2022-08-30,1,0
+CUST000919,Hudson,Walker,Male,18,18-24,8,Under 50k,Bronze,Organic Search,2024-08-12,0,1
+CUST000920,Georgia,Baker,Female,43,35-44,72,50k-80k,Silver,Referral,2025-12-12,1,0
+CUST000921,Charlotte,Thompson,Female,40,35-44,74,Under 50k,Silver,Affiliate,2021-06-28,1,1
+CUST000922,Grace,Allen,Female,34,25-34,91,50k-80k,Silver,Paid Search,2021-07-11,1,1
+CUST000923,Harrison,Patel,Male,28,25-34,14,50k-80k,Silver,Organic Search,2024-06-27,1,1
+CUST000924,Charlie,Smith,Male,41,35-44,35,Under 50k,Bronze,Affiliate,2024-04-13,1,1
+CUST000925,Ella,Miller,Female,49,45-54,88,80k-120k,Bronze,Email Campaign,2021-06-30,1,0
+CUST000926,Ella,Anderson,Female,30,25-34,61,50k-80k,Bronze,Paid Search,2025-10-07,1,0
+CUST000927,Hannah,Green,Female,66,55+,16,Under 50k,Silver,Organic Search,2025-11-07,1,0
+CUST000928,Noah,Kaur,Male,21,18-24,38,80k-120k,Bronze,Organic Search,2025-06-17,1,0
+CUST000929,Sarah,Thompson,Female,18,18-24,18,50k-80k,Bronze,Social Media,2024-10-23,1,0
+CUST000930,Jessica,White,Female,43,35-44,9,80k-120k,Gold,Affiliate,2026-01-28,1,1
+CUST000931,Emily,Young,Female,41,35-44,78,120k-160k,Bronze,Referral,2021-03-02,1,1
+CUST000932,Charlie,Allen,Male,40,35-44,13,120k-160k,Gold,In-store QR,2026-03-05,1,1
+CUST000933,Oliver,Brown,Male,18,18-24,45,Under 50k,Bronze,Marketplace,2023-01-01,1,1
+CUST000934,Ruby,Wilson,Female,46,45-54,34,Under 50k,Gold,Organic Search,2025-11-18,0,1
+CUST000935,Matilda,Tran,Female,29,25-34,41,120k-160k,Gold,Referral,2024-02-24,1,1
+CUST000936,Harrison,Jones,Male,39,35-44,82,Under 50k,Silver,Paid Search,2023-12-27,1,0
+CUST000937,Sarah,Chen,Female,36,35-44,76,Under 50k,Bronze,Email Campaign,2025-12-19,1,0
+CUST000938,Benjamin,King,Male,37,35-44,20,50k-80k,Silver,Email Campaign,2025-11-08,1,1
+CUST000939,Hudson,Tran,Male,37,35-44,63,80k-120k,Silver,Affiliate,2026-02-17,1,1
+CUST000940,Thomas,Williams,Male,50,45-54,43,120k-160k,Bronze,Referral,2022-12-13,1,1
+CUST000941,James,Lee,Male,30,25-34,75,120k-160k,Silver,In-store QR,2026-05-14,1,1
+CUST000942,Jack,Singh,Male,49,45-54,20,120k-160k,Silver,Social Media,2024-08-07,1,1
+CUST000943,Evie,Williams,Female,21,18-24,14,50k-80k,Bronze,Email Campaign,2021-11-02,0,1
+CUST000944,Emma,Hall,Female,22,18-24,20,Under 50k,Silver,Referral,2022-04-03,1,0
+CUST000945,Lily,Green,Female,27,25-34,68,80k-120k,Bronze,Marketplace,2024-05-17,1,0
+CUST000946,Leo,Taylor,Male,35,35-44,30,120k-160k,Platinum,Marketplace,2026-04-02,1,1
+CUST000947,Georgia,Jones,Female,50,45-54,87,80k-120k,Silver,Paid Search,2023-06-18,1,0
+CUST000948,Mason,Wong,Male,63,55+,36,80k-120k,Bronze,Paid Search,2026-03-07,0,0
+CUST000949,Ava,Allen,Female,30,25-34,69,Under 50k,Silver,Affiliate,2021-03-25,1,0
+CUST000950,Harrison,Hall,Male,32,25-34,13,50k-80k,Silver,Paid Search,2024-05-16,1,1
+CUST000951,Thomas,White,Male,28,25-34,9,80k-120k,Silver,Referral,2024-01-12,1,1
+CUST000952,Olivia,Taylor,Female,21,18-24,78,50k-80k,Silver,Referral,2024-02-28,1,1
+CUST000953,Leo,Lee,Male,69,55+,34,80k-120k,Bronze,In-store QR,2024-07-21,1,0
+CUST000954,Charlotte,Hall,Female,31,25-34,78,50k-80k,Gold,Organic Search,2025-09-21,0,1
+CUST000955,Olivia,Tran,Female,41,35-44,39,50k-80k,Bronze,In-store QR,2025-04-17,0,1
+CUST000956,Jack,Nguyen,Male,24,18-24,73,50k-80k,Platinum,In-store QR,2025-04-04,0,0
+CUST000957,Mia,Chen,Female,29,25-34,73,80k-120k,Platinum,Affiliate,2026-02-20,1,1
+CUST000958,Olivia,Young,Prefer not to say,32,25-34,52,50k-80k,Bronze,Referral,2022-03-26,1,1
+CUST000959,Chloe,Nguyen,Female,45,45-54,67,80k-120k,Gold,Affiliate,2023-09-12,1,1
+CUST000960,Oscar,Davis,Male,38,35-44,77,Under 50k,Gold,Affiliate,2022-03-20,1,1
+CUST000961,Chloe,Young,Female,28,25-34,77,120k-160k,Silver,Paid Search,2025-01-06,1,1
+CUST000962,Lily,Nguyen,Female,36,35-44,48,160k+,Platinum,Paid Search,2021-12-11,1,0
+CUST000963,Lily,Nguyen,Female,19,18-24,77,Under 50k,Gold,Referral,2023-03-21,1,1
+CUST000964,Jessica,King,Female,38,35-44,77,120k-160k,Silver,Referral,2026-04-14,0,1
+CUST000965,Samuel,Allen,Male,58,55+,42,80k-120k,Bronze,Marketplace,2025-09-15,1,1
+CUST000966,Henry,Anderson,Male,34,25-34,29,Under 50k,Silver,Marketplace,2023-10-16,1,0
+CUST000967,Amelia,King,Female,30,25-34,68,120k-160k,Silver,Email Campaign,2026-02-03,1,0
+CUST000968,Isla,Jones,Female,43,35-44,68,Under 50k,Silver,Social Media,2023-02-14,1,1
+CUST000969,Hannah,Young,Female,30,25-34,12,120k-160k,Silver,In-store QR,2022-09-22,1,1
+CUST000970,Harrison,Lee,Prefer not to say,43,35-44,42,Under 50k,Silver,In-store QR,2022-11-09,0,1
+CUST000971,Charlotte,Lee,Female,26,25-34,79,120k-160k,Bronze,Paid Search,2024-10-17,1,0
+CUST000972,Liam,Johnson,Male,45,45-54,35,80k-120k,Bronze,Paid Search,2023-12-26,0,1
+CUST000973,Grace,Young,Female,36,35-44,45,50k-80k,Bronze,Organic Search,2024-05-15,0,0
+CUST000974,Ava,Johnson,Female,33,25-34,19,80k-120k,Bronze,Affiliate,2024-05-23,0,1
+CUST000975,William,Nguyen,Male,36,35-44,73,80k-120k,Silver,Marketplace,2022-06-18,1,1
+CUST000976,Lily,Patel,Female,38,35-44,50,50k-80k,Silver,Marketplace,2023-08-21,1,0
+CUST000977,Xavier,Singh,Male,50,45-54,76,50k-80k,Gold,Affiliate,2021-06-10,1,0
+CUST000978,Maddison,Thompson,Female,46,45-54,19,120k-160k,Bronze,In-store QR,2023-12-14,1,1
+CUST000979,Oliver,Green,Male,37,35-44,33,50k-80k,Bronze,Marketplace,2022-03-07,1,1
+CUST000980,Mia,White,Female,31,25-34,19,80k-120k,Bronze,Email Campaign,2025-01-07,1,1
+CUST000981,Chloe,Green,Female,53,45-54,67,80k-120k,Silver,Organic Search,2026-01-13,0,1
+CUST000982,Max,Allen,Male,61,55+,15,50k-80k,Bronze,Organic Search,2024-12-05,0,1
+CUST000983,Ethan,Singh,Male,41,35-44,11,80k-120k,Gold,Organic Search,2021-09-30,1,1
+CUST000984,Sarah,Baker,Female,46,45-54,54,120k-160k,Silver,Social Media,2024-01-27,0,0
+CUST000985,Lucas,Young,Male,41,35-44,88,80k-120k,Silver,Organic Search,2025-03-26,0,1
+CUST000986,Emma,Walker,Female,18,18-24,75,Under 50k,Silver,Organic Search,2026-05-13,1,1
+CUST000987,Thomas,Roberts,Male,34,25-34,88,50k-80k,Gold,Marketplace,2021-10-21,1,0
+CUST000988,Henry,King,Male,39,35-44,12,50k-80k,Bronze,Email Campaign,2023-05-13,1,1
+CUST000989,Mason,Baker,Male,57,55+,76,50k-80k,Silver,Affiliate,2023-12-01,1,1
+CUST000990,Chloe,Singh,Female,30,25-34,34,120k-160k,Bronze,Affiliate,2021-04-11,1,1
+CUST000991,Ella,White,Female,31,25-34,16,80k-120k,Bronze,Marketplace,2021-05-09,0,1
+CUST000992,Mason,Smith,Male,21,18-24,76,50k-80k,Bronze,Referral,2024-05-26,0,0
+CUST000993,Jessica,Smith,Female,34,25-34,32,50k-80k,Bronze,Email Campaign,2022-10-04,1,0
+CUST000994,Georgia,Allen,Female,36,35-44,80,50k-80k,Bronze,Marketplace,2023-06-04,1,1
+CUST000995,Mason,Scott,Male,52,45-54,22,50k-80k,Silver,In-store QR,2025-10-21,0,0
+CUST000996,Henry,Roberts,Male,18,18-24,29,Under 50k,Bronze,Organic Search,2025-06-19,1,1
+CUST000997,Isla,Walker,Female,28,25-34,14,50k-80k,Bronze,Email Campaign,2025-12-16,1,1
+CUST000998,Ava,Johnson,Female,32,25-34,18,50k-80k,Gold,Paid Search,2022-03-09,1,0
+CUST000999,Leo,Kaur,Male,31,25-34,15,80k-120k,Bronze,Referral,2023-11-28,1,0
+CUST001000,Emma,Tran,Female,54,45-54,21,Under 50k,Silver,Affiliate,2024-05-09,0,1
+CUST001001,Sarah,Johnson,Female,47,45-54,69,120k-160k,Silver,Social Media,2026-05-04,0,0
+CUST001002,Isla,Nguyen,Female,20,18-24,64,Under 50k,Bronze,Paid Search,2025-02-23,1,1
+CUST001003,William,Green,Male,18,18-24,75,50k-80k,Gold,Paid Search,2024-06-26,1,0
+CUST001004,Lily,Young,Female,18,18-24,42,50k-80k,Silver,In-store QR,2024-11-15,1,0
+CUST001005,Maddison,Nguyen,Female,58,55+,86,Under 50k,Gold,Social Media,2021-03-02,1,0
+CUST001006,Zoe,Nguyen,Female,18,18-24,17,Under 50k,Bronze,Referral,2021-10-04,0,1
+CUST001007,Hannah,Williams,Female,34,25-34,41,80k-120k,Bronze,In-store QR,2023-07-23,1,1
+CUST001008,Thomas,Hall,Male,46,45-54,48,50k-80k,Silver,Marketplace,2023-12-19,0,0
+CUST001009,Hannah,Williams,Female,18,18-24,48,Under 50k,Gold,Paid Search,2024-08-06,1,1
+CUST001010,Isla,Green,Female,45,45-54,68,120k-160k,Bronze,In-store QR,2025-10-26,1,0
+CUST001011,Sophie,Nguyen,Female,48,45-54,11,50k-80k,Gold,Marketplace,2021-07-25,1,0
+CUST001012,Jack,Patel,Male,55,55+,53,50k-80k,Bronze,Affiliate,2025-01-14,1,1
+CUST001013,Maddison,Wilson,Female,30,25-34,38,50k-80k,Platinum,Organic Search,2023-09-12,1,0
+CUST001014,William,Allen,Male,59,55+,7,50k-80k,Bronze,Marketplace,2021-02-27,1,1
+CUST001015,Samuel,Hall,Male,42,35-44,73,80k-120k,Bronze,Referral,2024-01-23,1,1
+CUST001016,Sarah,Williams,Female,61,55+,41,120k-160k,Bronze,Social Media,2022-07-09,0,0
+CUST001017,Emma,Brown,Female,40,35-44,38,120k-160k,Gold,Organic Search,2023-09-14,1,1
+CUST001018,Harrison,Miller,Male,29,25-34,76,Under 50k,Bronze,Marketplace,2023-05-27,1,1
+CUST001019,Mason,Allen,Male,37,35-44,88,50k-80k,Bronze,Paid Search,2022-09-02,1,0
+CUST001020,Lucy,Thompson,Female,34,25-34,21,120k-160k,Bronze,Social Media,2021-11-02,1,0
+CUST001021,Jessica,Anderson,Female,27,25-34,10,50k-80k,Silver,Referral,2021-11-16,1,0
+CUST001022,Matilda,King,Female,46,45-54,15,120k-160k,Bronze,Social Media,2022-02-20,1,0
+CUST001023,Jack,Baker,Male,22,18-24,42,80k-120k,Bronze,Marketplace,2022-05-17,1,1
+CUST001024,Henry,Baker,Male,20,18-24,66,50k-80k,Silver,Email Campaign,2021-11-10,1,1
+CUST001025,Evie,Young,Female,39,35-44,79,50k-80k,Silver,Affiliate,2026-01-13,1,0
+CUST001026,Samuel,Patel,Male,19,18-24,50,50k-80k,Bronze,Affiliate,2023-09-23,1,1
+CUST001027,Sophie,Wilson,Female,43,35-44,18,50k-80k,Silver,Social Media,2025-10-17,1,0
+CUST001028,Hannah,Brown,Female,27,25-34,19,120k-160k,Bronze,Paid Search,2025-08-17,1,1
+CUST001029,Zoe,Smith,Female,43,35-44,14,50k-80k,Bronze,Social Media,2024-03-03,1,1
+CUST001030,Xavier,King,Male,34,25-34,72,80k-120k,Gold,Marketplace,2023-11-22,1,1
+CUST001031,Liam,Williams,Male,77,55+,9,80k-120k,Gold,Marketplace,2021-08-15,1,0
+CUST001032,William,Anderson,Male,52,45-54,30,Under 50k,Bronze,Affiliate,2024-03-18,1,0
+CUST001033,Chloe,Jones,Female,18,18-24,12,Under 50k,Bronze,Affiliate,2022-02-13,1,0
+CUST001034,Samuel,Johnson,Non-binary,19,18-24,10,Under 50k,Gold,Paid Search,2022-04-06,1,0
+CUST001035,Evie,White,Female,30,25-34,35,80k-120k,Silver,Marketplace,2021-09-05,1,0
+CUST001036,Lily,Green,Female,22,18-24,73,80k-120k,Bronze,Organic Search,2026-04-29,1,0
+CUST001037,Georgia,Walker,Female,46,45-54,14,Under 50k,Bronze,In-store QR,2023-08-26,1,0
+CUST001038,Jessica,Lee,Female,25,25-34,14,50k-80k,Gold,Affiliate,2026-02-01,0,1
+CUST001039,Henry,Johnson,Male,53,45-54,49,50k-80k,Gold,Referral,2026-02-21,1,0
+CUST001040,Thomas,Lee,Non-binary,43,35-44,13,160k+,Bronze,Referral,2024-05-13,0,1
+CUST001041,Oliver,Scott,Male,55,55+,68,50k-80k,Silver,Affiliate,2021-12-07,1,1
+CUST001042,Ethan,Smith,Male,38,35-44,69,80k-120k,Bronze,Marketplace,2023-05-08,0,1
+CUST001043,Abigail,Young,Female,51,45-54,11,Under 50k,Bronze,In-store QR,2024-12-17,1,1
+CUST001044,Olivia,Hall,Female,18,18-24,14,50k-80k,Silver,Social Media,2024-09-12,0,1
+CUST001045,Hudson,Smith,Male,34,25-34,70,50k-80k,Bronze,In-store QR,2021-05-08,1,0
+CUST001046,William,Baker,Male,32,25-34,71,80k-120k,Bronze,Email Campaign,2023-07-26,0,0
+CUST001047,Oliver,Taylor,Male,34,25-34,40,Under 50k,Silver,Referral,2022-10-29,1,0
+CUST001048,Ava,Miller,Female,18,18-24,81,Under 50k,Bronze,Marketplace,2022-04-01,1,0
+CUST001049,James,Patel,Male,45,45-54,11,80k-120k,Bronze,Marketplace,2022-06-16,1,1
+CUST001050,Hannah,Wilson,Female,55,55+,20,120k-160k,Bronze,Paid Search,2024-01-30,1,0
+CUST001051,Henry,Green,Male,39,35-44,15,160k+,Bronze,In-store QR,2025-12-17,0,1
+CUST001052,Charlotte,Nguyen,Female,50,45-54,58,160k+,Platinum,In-store QR,2021-01-02,1,1
+CUST001053,Matilda,Patel,Female,38,35-44,66,50k-80k,Silver,Affiliate,2024-10-22,1,1
+CUST001054,Mia,Anderson,Female,34,25-34,31,50k-80k,Bronze,Organic Search,2021-06-23,1,0
+CUST001055,Thomas,Walker,Male,48,45-54,15,80k-120k,Bronze,Organic Search,2021-05-21,1,0
+CUST001056,Cooper,Smith,Prefer not to say,32,25-34,33,80k-120k,Gold,Organic Search,2021-04-25,1,0
+CUST001057,Jessica,Nguyen,Female,33,25-34,62,80k-120k,Bronze,Organic Search,2021-07-20,1,0
+CUST001058,Charlie,Roberts,Male,38,35-44,21,80k-120k,Silver,Affiliate,2024-02-23,1,0
+CUST001059,Xavier,Chen,Male,31,25-34,15,120k-160k,Silver,Marketplace,2021-01-05,1,0
+CUST001060,Ava,White,Female,43,35-44,11,80k-120k,Gold,Social Media,2021-09-24,1,1
+CUST001061,Abigail,King,Female,33,25-34,22,50k-80k,Gold,Marketplace,2021-02-08,1,1
+CUST001062,Mason,Jones,Male,21,18-24,62,50k-80k,Bronze,Marketplace,2024-12-25,1,1
+CUST001063,Harrison,Johnson,Male,18,18-24,77,50k-80k,Silver,Referral,2021-08-12,1,0
+CUST001064,Mason,Roberts,Male,47,45-54,29,Under 50k,Bronze,In-store QR,2023-02-10,1,0
+CUST001065,Noah,Wong,Male,18,18-24,18,50k-80k,Bronze,Organic Search,2025-08-18,1,1
+CUST001066,Ruby,King,Female,45,45-54,36,80k-120k,Bronze,Email Campaign,2022-08-12,1,0
+CUST001067,Oscar,Chen,Male,31,25-34,12,50k-80k,Silver,Organic Search,2023-07-31,1,1
+CUST001068,Jack,Johnson,Male,54,45-54,14,50k-80k,Bronze,Organic Search,2023-06-04,1,1
+CUST001069,Charlie,Martin,Male,34,25-34,21,Under 50k,Gold,Referral,2023-08-16,0,0
+CUST001070,Liam,Baker,Male,50,45-54,19,50k-80k,Silver,Email Campaign,2021-02-12,1,1
+CUST001071,Cooper,Miller,Male,36,35-44,79,Under 50k,Gold,Referral,2025-09-17,0,0
+CUST001072,Cooper,Patel,Male,42,35-44,15,50k-80k,Bronze,Email Campaign,2021-08-13,1,0
+CUST001073,Emily,Lee,Female,25,25-34,19,80k-120k,Bronze,Referral,2023-07-22,1,1
+CUST001074,Leo,Walker,Male,71,55+,31,120k-160k,Silver,Organic Search,2021-06-08,1,0
+CUST001075,Emily,Scott,Female,53,45-54,8,120k-160k,Bronze,Referral,2023-01-13,1,1
+CUST001076,Mason,Martin,Male,37,35-44,39,Under 50k,Gold,Marketplace,2025-08-27,1,1
+CUST001077,Theodore,Lee,Male,50,45-54,34,50k-80k,Bronze,Organic Search,2023-05-26,1,0
+CUST001078,Cooper,Lee,Male,50,45-54,74,50k-80k,Bronze,Marketplace,2022-08-07,1,0
+CUST001079,Harrison,Thompson,Male,27,25-34,60,80k-120k,Silver,In-store QR,2021-08-06,1,0
+CUST001080,Thomas,Hall,Male,23,18-24,22,50k-80k,Bronze,Marketplace,2022-07-07,1,0
+CUST001081,Mia,Thompson,Prefer not to say,43,35-44,33,80k-120k,Bronze,Marketplace,2024-04-21,1,0
+CUST001082,Evie,Roberts,Female,23,18-24,31,120k-160k,Bronze,Organic Search,2022-11-23,1,1
+CUST001083,Chloe,Davis,Female,39,35-44,72,80k-120k,Bronze,In-store QR,2025-07-02,0,1
+CUST001084,William,Miller,Male,73,55+,72,50k-80k,Silver,In-store QR,2025-03-13,1,0
+CUST001085,Levi,Smith,Male,46,45-54,10,50k-80k,Bronze,Paid Search,2022-04-18,1,1
+CUST001086,Jessica,Wong,Female,52,45-54,29,80k-120k,Gold,Paid Search,2023-06-18,0,1
+CUST001087,Ava,Tran,Female,41,35-44,36,50k-80k,Bronze,Referral,2026-05-21,0,0
+CUST001088,Abigail,Roberts,Female,31,25-34,32,80k-120k,Silver,Referral,2023-11-30,1,1
+CUST001089,Thomas,Singh,Male,43,35-44,71,Under 50k,Gold,Affiliate,2024-11-26,1,0
+CUST001090,Evie,Smith,Female,58,55+,29,80k-120k,Bronze,Organic Search,2023-12-27,1,1
+CUST001091,Hudson,Kaur,Non-binary,18,18-24,32,50k-80k,Bronze,Email Campaign,2025-08-06,1,0
+CUST001092,Oscar,Anderson,Male,47,45-54,15,80k-120k,Gold,Paid Search,2022-05-30,1,1
+CUST001093,Ethan,Tran,Male,57,55+,43,160k+,Bronze,Paid Search,2023-10-31,1,1
+CUST001094,Jack,Young,Male,18,18-24,33,50k-80k,Silver,In-store QR,2024-05-16,1,1
+CUST001095,Maddison,Smith,Female,31,25-34,90,50k-80k,Bronze,Marketplace,2022-03-24,1,0
+CUST001096,Ruby,Smith,Female,46,45-54,42,120k-160k,Bronze,Email Campaign,2025-05-01,1,1
+CUST001097,Ruby,Walker,Female,23,18-24,35,50k-80k,Bronze,Referral,2022-05-27,1,1
+CUST001098,Emily,King,Female,35,35-44,64,80k-120k,Silver,Affiliate,2026-05-09,1,0
+CUST001099,Maddison,Baker,Female,54,45-54,50,160k+,Bronze,Social Media,2024-01-10,1,0
+CUST001100,Abigail,Wilson,Female,21,18-24,75,50k-80k,Silver,Affiliate,2024-05-04,1,0
+CUST001101,Zoe,Lee,Female,26,25-34,71,50k-80k,Bronze,Affiliate,2024-06-22,1,0
+CUST001102,Levi,Jones,Male,35,35-44,79,80k-120k,Bronze,Marketplace,2025-02-21,0,1
+CUST001103,Lucas,Roberts,Male,40,35-44,44,80k-120k,Silver,Affiliate,2024-12-16,1,1
+CUST001104,Abigail,Singh,Female,37,35-44,62,80k-120k,Silver,Marketplace,2022-02-19,1,1
+CUST001105,Maddison,Baker,Female,41,35-44,31,80k-120k,Bronze,Affiliate,2021-08-22,1,0
+CUST001106,Lily,Baker,Female,37,35-44,3,50k-80k,Silver,Paid Search,2021-10-08,1,0
+CUST001107,Charlie,Thompson,Male,40,35-44,73,50k-80k,Silver,Affiliate,2023-04-23,0,1
+CUST001108,Henry,Scott,Prefer not to say,60,55+,70,80k-120k,Bronze,Organic Search,2025-01-15,1,1
+CUST001109,Maddison,Singh,Female,36,35-44,65,160k+,Platinum,Social Media,2024-10-12,1,0
+CUST001110,Amelia,Nguyen,Female,34,25-34,75,80k-120k,Bronze,Marketplace,2021-03-29,1,1
+CUST001111,Levi,Anderson,Male,38,35-44,71,80k-120k,Silver,Marketplace,2026-04-23,1,1
+CUST001112,Cooper,Kaur,Male,62,55+,41,80k-120k,Bronze,Organic Search,2024-06-19,1,1
+CUST001113,Jessica,Nguyen,Female,21,18-24,31,Under 50k,Bronze,Marketplace,2025-12-30,1,0
+CUST001114,Xavier,Tran,Male,38,35-44,78,50k-80k,Silver,Email Campaign,2025-04-12,1,0
+CUST001115,Charlotte,White,Female,41,35-44,87,80k-120k,Bronze,Affiliate,2022-06-12,1,1
+CUST001116,Ruby,Singh,Female,34,25-34,77,Under 50k,Bronze,Social Media,2026-03-24,1,1
+CUST001117,Hudson,Chen,Male,34,25-34,63,160k+,Silver,In-store QR,2025-07-22,1,0
+CUST001118,Archie,Tran,Male,23,18-24,79,Under 50k,Gold,In-store QR,2023-02-15,1,1
+CUST001119,Zoe,Allen,Prefer not to say,27,25-34,12,Under 50k,Gold,Referral,2022-09-17,1,1
+CUST001120,Harrison,Brown,Male,18,18-24,32,Under 50k,Bronze,Referral,2021-02-26,0,0
+CUST001121,Theodore,Hall,Non-binary,36,35-44,18,120k-160k,Bronze,Marketplace,2022-01-10,1,0
+CUST001122,Sophie,Williams,Female,54,45-54,20,50k-80k,Gold,Email Campaign,2022-07-11,1,1
+CUST001123,Xavier,Kaur,Male,54,45-54,80,80k-120k,Silver,Marketplace,2022-12-29,1,1
+CUST001124,Mia,Taylor,Female,49,45-54,64,50k-80k,Bronze,Social Media,2025-11-22,1,1
+CUST001125,Lucas,Walker,Male,27,25-34,15,80k-120k,Gold,Affiliate,2023-10-23,1,0
+CUST001126,Sophie,Green,Female,41,35-44,8,50k-80k,Bronze,Social Media,2021-09-16,0,1
+CUST001127,Jessica,King,Female,63,55+,12,Under 50k,Bronze,Organic Search,2025-12-30,1,0
+CUST001128,James,Kaur,Male,36,35-44,32,80k-120k,Bronze,Marketplace,2026-05-28,1,1
+CUST001129,Matilda,Lee,Female,24,18-24,30,50k-80k,Bronze,Email Campaign,2022-03-23,1,0
+CUST001130,Lily,Smith,Female,38,35-44,41,80k-120k,Silver,Affiliate,2021-03-12,1,0
+CUST001131,Zoe,Young,Female,32,25-34,27,80k-120k,Bronze,Referral,2022-03-06,1,1
+CUST001132,Harrison,Tran,Male,43,35-44,9,50k-80k,Gold,Social Media,2026-01-05,1,1
+CUST001133,Grace,Johnson,Female,25,25-34,76,50k-80k,Silver,Affiliate,2025-08-29,1,1
+CUST001134,Sophie,Smith,Female,38,35-44,5,80k-120k,Bronze,Email Campaign,2022-01-05,1,1
+CUST001135,Theodore,Singh,Male,34,25-34,34,Under 50k,Bronze,Paid Search,2025-07-27,1,1
+CUST001136,Harrison,Smith,Male,40,35-44,35,80k-120k,Bronze,Social Media,2022-03-01,1,0
+CUST001137,Matilda,White,Female,42,35-44,13,50k-80k,Gold,Paid Search,2023-06-07,1,1
+CUST001138,Hannah,Nguyen,Female,39,35-44,40,Under 50k,Silver,In-store QR,2021-06-06,1,0
+CUST001139,Evie,King,Female,38,35-44,76,80k-120k,Gold,Paid Search,2022-02-08,1,0
+CUST001140,Leo,Singh,Male,21,18-24,85,120k-160k,Bronze,Referral,2023-11-21,0,1
+CUST001141,Charlie,Chen,Male,46,45-54,20,50k-80k,Bronze,Email Campaign,2022-12-30,0,1
+CUST001142,Mia,Johnson,Female,40,35-44,86,80k-120k,Bronze,Affiliate,2022-01-18,0,0
+CUST001143,Grace,Chen,Female,55,55+,7,50k-80k,Bronze,Paid Search,2024-05-22,1,0
+CUST001144,Emma,King,Female,30,25-34,62,50k-80k,Gold,Referral,2024-12-22,0,0
+CUST001145,Xavier,Kaur,Non-binary,55,55+,41,120k-160k,Bronze,Email Campaign,2025-07-22,0,1
+CUST001146,William,Chen,Male,33,25-34,29,160k+,Gold,Email Campaign,2022-10-03,1,0
+CUST001147,Emma,Wong,Female,46,45-54,18,120k-160k,Bronze,Affiliate,2022-08-07,1,1
+CUST001148,Zoe,Young,Female,33,25-34,89,50k-80k,Bronze,In-store QR,2026-03-18,1,1
+CUST001149,Oliver,Lee,Male,44,35-44,34,80k-120k,Silver,Marketplace,2025-11-27,1,1
+CUST001150,William,Miller,Male,44,35-44,12,50k-80k,Silver,Paid Search,2024-05-30,1,0
+CUST001151,Max,Jones,Male,37,35-44,37,80k-120k,Bronze,Affiliate,2022-11-09,1,0
+CUST001152,Ava,Thompson,Female,29,25-34,74,120k-160k,Silver,In-store QR,2025-11-18,0,1
+CUST001153,Hudson,Young,Male,35,35-44,70,50k-80k,Bronze,Social Media,2023-10-17,0,0
+CUST001154,Sophie,Green,Female,28,25-34,51,50k-80k,Bronze,Social Media,2024-07-13,1,1
+CUST001155,Evie,Williams,Female,37,35-44,30,120k-160k,Bronze,Referral,2022-05-26,0,0
+CUST001156,Charlotte,Hall,Female,23,18-24,74,50k-80k,Silver,Paid Search,2021-01-08,1,1
+CUST001157,Evie,Wong,Prefer not to say,64,55+,76,Under 50k,Bronze,Marketplace,2021-05-27,0,1
+CUST001158,Samuel,Singh,Male,51,45-54,71,50k-80k,Gold,Social Media,2026-05-28,1,0
+CUST001159,Olivia,Davis,Female,30,25-34,8,Under 50k,Bronze,In-store QR,2022-01-04,0,1
+CUST001160,Chloe,Brown,Female,34,25-34,82,Under 50k,Silver,Email Campaign,2022-01-09,1,1
+CUST001161,Liam,Chen,Male,18,18-24,13,120k-160k,Bronze,Email Campaign,2023-04-11,1,0
+CUST001162,Lucas,Chen,Male,53,45-54,91,Under 50k,Silver,Referral,2023-10-20,0,0
+CUST001163,William,Thompson,Prefer not to say,18,18-24,88,Under 50k,Bronze,In-store QR,2025-03-06,0,1
+CUST001164,Hannah,Baker,Female,41,35-44,62,50k-80k,Gold,Organic Search,2021-12-12,1,1
+CUST001165,Charlotte,Allen,Female,30,25-34,11,120k-160k,Silver,Marketplace,2026-01-31,1,0
+CUST001166,Charlie,King,Male,27,25-34,18,50k-80k,Bronze,Email Campaign,2024-01-16,1,0
+CUST001167,Mason,King,Male,53,45-54,20,120k-160k,Bronze,In-store QR,2025-10-24,1,0
+CUST001168,Leo,Johnson,Male,53,45-54,32,Under 50k,Bronze,Affiliate,2023-08-14,1,1
+CUST001169,Henry,Kaur,Male,18,18-24,79,Under 50k,Silver,Affiliate,2022-02-25,1,1
+CUST001170,Sarah,Miller,Female,48,45-54,65,Under 50k,Gold,Email Campaign,2022-12-01,1,0
+CUST001171,Charlie,Smith,Male,47,45-54,76,50k-80k,Bronze,Paid Search,2026-04-18,1,1
+CUST001172,Charlie,Jones,Male,18,18-24,15,80k-120k,Bronze,Affiliate,2023-10-13,1,0
+CUST001173,Liam,Wilson,Male,40,35-44,51,50k-80k,Bronze,Paid Search,2021-01-07,1,1
+CUST001174,Oscar,Jones,Male,29,25-34,67,120k-160k,Bronze,Organic Search,2023-09-06,1,1
+CUST001175,Chloe,Singh,Female,26,25-34,33,50k-80k,Bronze,Affiliate,2021-10-14,0,0
+CUST001176,Hannah,Patel,Female,43,35-44,62,Under 50k,Silver,Social Media,2024-01-06,0,0
+CUST001177,Xavier,Williams,Male,48,45-54,76,Under 50k,Gold,Organic Search,2022-10-28,1,1
+CUST001178,Ethan,White,Male,44,35-44,90,50k-80k,Bronze,Referral,2021-03-22,1,0
+CUST001179,Oliver,Patel,Male,43,35-44,19,120k-160k,Silver,In-store QR,2025-09-20,0,0
+CUST001180,Matilda,Wong,Female,33,25-34,19,Under 50k,Bronze,Social Media,2022-01-05,1,1
+CUST001181,Xavier,Roberts,Male,23,18-24,11,50k-80k,Bronze,Paid Search,2021-12-30,0,1
+CUST001182,Grace,Martin,Female,45,45-54,90,50k-80k,Bronze,In-store QR,2021-07-26,1,1
+CUST001183,Ella,Singh,Female,35,35-44,22,Under 50k,Bronze,Social Media,2025-03-28,1,0
+CUST001184,Georgia,Johnson,Female,32,25-34,70,80k-120k,Bronze,Affiliate,2021-09-26,0,0
+CUST001185,Mia,Thompson,Female,48,45-54,82,Under 50k,Bronze,Referral,2021-01-08,1,1
+CUST001186,Mason,Thompson,Male,30,25-34,35,Under 50k,Platinum,Organic Search,2026-02-11,0,1
+CUST001187,Henry,Smith,Male,44,35-44,44,50k-80k,Gold,In-store QR,2024-06-02,0,1
+CUST001188,Liam,Allen,Male,29,25-34,63,Under 50k,Bronze,Affiliate,2023-11-29,1,0
+CUST001189,Ruby,Patel,Female,18,18-24,38,50k-80k,Bronze,Organic Search,2021-08-08,1,1
+CUST001190,Max,Hall,Male,43,35-44,19,80k-120k,Gold,Email Campaign,2024-05-12,1,1
+CUST001191,Xavier,Kaur,Male,44,35-44,38,80k-120k,Bronze,In-store QR,2024-02-13,1,0
+CUST001192,Samuel,Walker,Male,29,25-34,18,50k-80k,Bronze,Affiliate,2024-08-27,1,0
+CUST001193,Lily,Singh,Female,51,45-54,72,120k-160k,Silver,Social Media,2024-12-26,0,1
+CUST001194,Liam,Allen,Male,24,18-24,83,80k-120k,Gold,Social Media,2022-09-13,0,0
+CUST001195,Charlotte,Green,Female,42,35-44,79,80k-120k,Bronze,In-store QR,2021-07-04,0,1
+CUST001196,Evie,Baker,Female,26,25-34,77,50k-80k,Gold,Affiliate,2021-01-03,1,0
+CUST001197,Leo,Williams,Male,50,45-54,66,50k-80k,Bronze,Organic Search,2025-04-05,1,1
+CUST001198,Henry,Tran,Male,42,35-44,22,50k-80k,Silver,In-store QR,2022-06-20,1,0
+CUST001199,Xavier,Patel,Male,32,25-34,66,80k-120k,Bronze,Affiliate,2022-08-15,1,0
+CUST001200,Charlotte,Chen,Female,38,35-44,83,50k-80k,Bronze,Referral,2023-02-14,1,1
+CUST001201,Charlie,Walker,Male,38,35-44,69,80k-120k,Gold,Social Media,2025-07-12,0,0
+CUST001202,Levi,Miller,Non-binary,26,25-34,63,Under 50k,Platinum,Affiliate,2025-08-26,1,0
+CUST001203,Leo,White,Male,36,35-44,29,80k-120k,Bronze,In-store QR,2021-09-03,0,1
+CUST001204,Oscar,Thompson,Male,23,18-24,8,Under 50k,Bronze,Social Media,2022-11-12,1,0
+CUST001205,Sophie,Miller,Female,18,18-24,81,Under 50k,Silver,Organic Search,2024-06-25,1,0
+CUST001206,Cooper,Davis,Male,22,18-24,81,120k-160k,Bronze,Email Campaign,2025-09-27,1,0
+CUST001207,Grace,Smith,Female,18,18-24,58,50k-80k,Silver,Organic Search,2024-10-28,1,0
+CUST001208,Lucas,Kaur,Prefer not to say,49,45-54,71,50k-80k,Silver,Social Media,2021-11-18,0,0
+CUST001209,Emma,Tran,Female,40,35-44,41,80k-120k,Silver,Paid Search,2021-02-18,0,0
+CUST001210,Thomas,Anderson,Male,39,35-44,51,50k-80k,Silver,Marketplace,2024-07-31,1,0
+CUST001211,Lucas,King,Male,20,18-24,12,Under 50k,Silver,Email Campaign,2022-05-14,1,0
+CUST001212,Hannah,Brown,Female,51,45-54,10,50k-80k,Gold,Organic Search,2025-07-24,1,1
+CUST001213,Ella,Williams,Female,63,55+,81,50k-80k,Bronze,Email Campaign,2023-05-24,1,1
+CUST001214,Sophie,Walker,Female,48,45-54,20,Under 50k,Silver,Paid Search,2025-07-03,1,1
+CUST001215,Amelia,Jones,Female,59,55+,67,50k-80k,Silver,Affiliate,2024-11-28,1,0
+CUST001216,Oliver,Johnson,Male,23,18-24,64,80k-120k,Platinum,Affiliate,2021-04-16,0,0
+CUST001217,Evie,Allen,Female,19,18-24,18,50k-80k,Bronze,Marketplace,2021-12-10,1,0
+CUST001218,Jessica,Anderson,Female,42,35-44,36,50k-80k,Bronze,Paid Search,2022-09-21,1,0
+CUST001219,Harrison,Tran,Male,44,35-44,68,50k-80k,Platinum,In-store QR,2021-12-16,1,0
+CUST001220,Sarah,Baker,Prefer not to say,18,18-24,17,50k-80k,Bronze,Referral,2026-03-01,1,1
+CUST001221,Benjamin,Walker,Male,39,35-44,21,80k-120k,Silver,Referral,2025-03-12,1,0
+CUST001222,Jessica,Roberts,Female,18,18-24,12,50k-80k,Bronze,In-store QR,2021-07-21,1,0
+CUST001223,Grace,Green,Female,36,35-44,63,50k-80k,Silver,Referral,2025-01-27,0,0
+CUST001224,Ava,Nguyen,Female,43,35-44,21,80k-120k,Silver,Referral,2023-02-11,1,0
+CUST001225,Ethan,Patel,Male,34,25-34,33,80k-120k,Platinum,Email Campaign,2024-04-01,1,0
+CUST001226,Lily,Johnson,Female,39,35-44,35,120k-160k,Bronze,Email Campaign,2024-07-15,1,1
+CUST001227,Harrison,Singh,Non-binary,24,18-24,7,50k-80k,Silver,Email Campaign,2021-06-11,1,1
+CUST001228,Hudson,Brown,Male,40,35-44,63,120k-160k,Silver,Marketplace,2026-04-16,1,1
+CUST001229,Harrison,Singh,Male,44,35-44,17,50k-80k,Bronze,In-store QR,2023-12-25,1,0
+CUST001230,Max,Scott,Male,18,18-24,16,80k-120k,Gold,In-store QR,2025-02-13,0,1
+CUST001231,Amelia,Scott,Female,28,25-34,17,120k-160k,Bronze,Social Media,2024-07-31,1,0
+CUST001232,Ruby,Scott,Non-binary,18,18-24,49,80k-120k,Platinum,Social Media,2024-01-15,1,0
+CUST001233,Matilda,Patel,Female,51,45-54,18,50k-80k,Bronze,In-store QR,2023-06-03,0,1
+CUST001234,Ruby,Anderson,Female,26,25-34,81,Under 50k,Bronze,Marketplace,2021-03-01,0,1
+CUST001235,Archie,Baker,Male,53,45-54,87,80k-120k,Silver,Organic Search,2022-11-01,1,1
+CUST001236,Grace,Kaur,Female,33,25-34,42,120k-160k,Bronze,Affiliate,2025-11-08,0,0
+CUST001237,Oliver,Wong,Male,44,35-44,8,50k-80k,Platinum,In-store QR,2025-10-20,0,1
+CUST001238,Oscar,Roberts,Male,23,18-24,8,Under 50k,Bronze,Organic Search,2024-04-16,1,1
+CUST001239,Jack,Anderson,Male,50,45-54,76,80k-120k,Bronze,Organic Search,2021-09-29,1,0
+CUST001240,Benjamin,White,Male,33,25-34,83,50k-80k,Silver,Paid Search,2021-07-25,0,0
+CUST001241,Oliver,Young,Male,32,25-34,14,120k-160k,Bronze,Marketplace,2024-08-19,0,0
+CUST001242,Zoe,Singh,Female,35,35-44,8,80k-120k,Gold,Social Media,2022-01-24,1,0
+CUST001243,Amelia,Johnson,Female,29,25-34,29,80k-120k,Bronze,Email Campaign,2023-02-07,0,1
+CUST001244,Emma,Hall,Female,65,55+,8,80k-120k,Gold,Marketplace,2025-01-31,1,0
+CUST001245,Samuel,Davis,Male,37,35-44,42,50k-80k,Silver,Social Media,2024-06-21,1,0
+CUST001246,Charlotte,Roberts,Female,46,45-54,37,160k+,Bronze,Marketplace,2021-03-15,1,1
+CUST001247,Mia,Taylor,Female,31,25-34,71,80k-120k,Silver,Affiliate,2021-04-18,1,0
+CUST001248,James,Wong,Male,35,35-44,22,120k-160k,Silver,Marketplace,2021-05-09,1,0
+CUST001249,Emma,Jones,Female,53,45-54,63,80k-120k,Silver,Email Campaign,2023-05-20,1,0
+CUST001250,Sophie,Singh,Female,26,25-34,89,50k-80k,Silver,Social Media,2025-07-25,1,0
+CUST001251,Xavier,Baker,Male,36,35-44,90,80k-120k,Bronze,Paid Search,2025-01-27,0,0
+CUST001252,William,Singh,Male,43,35-44,44,50k-80k,Silver,Affiliate,2024-07-21,1,0
+CUST001253,Samuel,Young,Male,45,45-54,79,50k-80k,Gold,Paid Search,2025-01-10,1,0
+CUST001254,Jessica,Johnson,Female,47,45-54,21,Under 50k,Silver,In-store QR,2025-03-08,0,1
+CUST001255,Hudson,Miller,Male,51,45-54,30,Under 50k,Bronze,In-store QR,2021-12-26,1,1
+CUST001256,Amelia,Thompson,Female,40,35-44,75,120k-160k,Bronze,Social Media,2024-10-26,1,1
+CUST001257,Harrison,Singh,Male,32,25-34,13,80k-120k,Bronze,Affiliate,2024-09-12,1,0
+CUST001258,Lucas,Young,Male,56,55+,72,120k-160k,Bronze,Paid Search,2022-05-03,1,0
+CUST001259,Xavier,Wong,Male,32,25-34,72,80k-120k,Gold,Affiliate,2021-10-10,1,0
+CUST001260,Mia,Smith,Female,58,55+,9,Under 50k,Bronze,Paid Search,2022-08-05,1,1
+CUST001261,Maddison,Thompson,Female,18,18-24,90,50k-80k,Bronze,In-store QR,2025-10-23,1,1
+CUST001262,Harrison,Young,Male,34,25-34,19,80k-120k,Silver,Affiliate,2025-05-04,1,1
+CUST001263,Xavier,White,Male,44,35-44,62,80k-120k,Bronze,Email Campaign,2023-09-28,1,1
+CUST001264,Emma,Jones,Female,23,18-24,13,80k-120k,Silver,Affiliate,2023-10-19,0,1
+CUST001265,Isla,Nguyen,Female,19,18-24,90,Under 50k,Bronze,Affiliate,2022-10-20,1,1
+CUST001266,Abigail,Hall,Female,57,55+,36,Under 50k,Bronze,Marketplace,2024-03-08,1,0
+CUST001267,Jessica,Green,Female,43,35-44,15,50k-80k,Bronze,Paid Search,2024-10-12,1,1
+CUST001268,Jessica,Taylor,Female,40,35-44,8,50k-80k,Platinum,Organic Search,2024-10-07,0,0
+CUST001269,Emily,Miller,Female,33,25-34,72,160k+,Bronze,Social Media,2025-06-25,1,1
+CUST001270,Oscar,Green,Male,27,25-34,38,50k-80k,Silver,Social Media,2024-04-12,0,0
+CUST001271,Lily,King,Female,54,45-54,64,80k-120k,Silver,Marketplace,2021-07-05,1,1
+CUST001272,Charlotte,Williams,Female,18,18-24,32,Under 50k,Silver,Social Media,2025-07-05,1,0
+CUST001273,Harrison,Davis,Male,42,35-44,67,160k+,Bronze,Organic Search,2023-11-21,1,1
+CUST001274,William,Martin,Male,33,25-34,42,50k-80k,Silver,Affiliate,2021-12-15,1,0
+CUST001275,Charlotte,Johnson,Female,45,45-54,83,Under 50k,Gold,Affiliate,2022-02-17,1,0
+CUST001276,Xavier,Johnson,Male,20,18-24,6,Under 50k,Bronze,Social Media,2023-01-28,0,0
+CUST001277,Olivia,Taylor,Female,34,25-34,57,80k-120k,Bronze,Affiliate,2021-09-21,1,0
+CUST001278,Xavier,Singh,Male,45,45-54,8,80k-120k,Bronze,Marketplace,2021-02-17,1,0
+CUST001279,Oscar,Smith,Male,47,45-54,8,Under 50k,Silver,Organic Search,2025-07-15,0,1
+CUST001280,Oliver,Tran,Male,57,55+,10,50k-80k,Gold,Organic Search,2022-10-06,1,1
+CUST001281,Liam,Nguyen,Male,59,55+,22,120k-160k,Silver,Social Media,2022-09-23,1,1
+CUST001282,William,Scott,Male,40,35-44,30,80k-120k,Silver,Affiliate,2025-04-19,1,1
+CUST001283,Ella,Scott,Female,69,55+,64,50k-80k,Bronze,Organic Search,2021-10-24,1,0
+CUST001284,Isla,Baker,Female,22,18-24,36,Under 50k,Bronze,Referral,2024-06-14,1,0
+CUST001285,Hannah,Martin,Female,20,18-24,66,Under 50k,Gold,Email Campaign,2026-01-07,1,1
+CUST001286,Lucas,King,Male,22,18-24,3,50k-80k,Silver,Email Campaign,2023-02-18,1,1
+CUST001287,Oscar,Patel,Male,37,35-44,42,80k-120k,Silver,Social Media,2021-07-24,1,1
+CUST001288,Benjamin,Baker,Male,34,25-34,73,120k-160k,Silver,Email Campaign,2022-04-09,1,0
+CUST001289,Emma,Young,Female,66,55+,70,80k-120k,Silver,Email Campaign,2023-01-09,1,1
+CUST001290,Max,Young,Male,43,35-44,20,80k-120k,Bronze,In-store QR,2022-11-25,0,0
+CUST001291,Oscar,Kaur,Male,41,35-44,71,Under 50k,Platinum,Marketplace,2021-11-20,1,0
+CUST001292,Chloe,Green,Female,34,25-34,78,80k-120k,Bronze,Social Media,2022-08-04,1,1
+CUST001293,Ethan,Chen,Male,34,25-34,29,80k-120k,Bronze,Email Campaign,2023-06-25,1,1
+CUST001294,Isla,Johnson,Female,26,25-34,73,160k+,Bronze,Referral,2022-03-28,1,1
+CUST001295,Leo,Wilson,Male,42,35-44,68,120k-160k,Silver,Email Campaign,2022-12-08,1,1
+CUST001296,Noah,Roberts,Male,31,25-34,15,160k+,Bronze,Email Campaign,2026-05-19,1,0
+CUST001297,William,Wong,Male,38,35-44,19,Under 50k,Bronze,Paid Search,2025-12-24,1,1
+CUST001298,Evie,Roberts,Female,30,25-34,40,50k-80k,Bronze,Email Campaign,2025-06-17,1,1
+CUST001299,Cooper,Davis,Male,41,35-44,26,50k-80k,Silver,Social Media,2024-01-14,0,0
+CUST001300,William,Wilson,Male,39,35-44,19,80k-120k,Bronze,Marketplace,2024-05-23,1,1
+CUST001301,Benjamin,Chen,Non-binary,47,45-54,63,120k-160k,Silver,Affiliate,2022-04-25,1,0
+CUST001302,Sophie,Hall,Female,52,45-54,67,80k-120k,Silver,Marketplace,2023-08-31,0,0
+CUST001303,Henry,Wong,Male,64,55+,17,80k-120k,Bronze,Organic Search,2022-03-02,1,0
+CUST001304,Sarah,Martin,Female,27,25-34,11,80k-120k,Gold,Affiliate,2025-11-08,1,1
+CUST001305,Sophie,Williams,Female,18,18-24,41,Under 50k,Bronze,Paid Search,2021-12-22,1,0
+CUST001306,Leo,Tran,Non-binary,44,35-44,22,80k-120k,Silver,Organic Search,2022-03-06,0,0
+CUST001307,Lily,Kaur,Female,29,25-34,11,50k-80k,Bronze,Paid Search,2022-07-30,1,0
+CUST001308,William,Miller,Male,31,25-34,16,80k-120k,Platinum,Organic Search,2021-09-07,1,0
+CUST001309,Isla,Johnson,Female,35,35-44,22,50k-80k,Gold,In-store QR,2021-11-05,1,1
+CUST001310,Zoe,Jones,Female,31,25-34,65,80k-120k,Silver,Email Campaign,2025-04-08,1,1
+CUST001311,Liam,Roberts,Male,66,55+,74,50k-80k,Bronze,Paid Search,2024-10-18,1,1
+CUST001312,Xavier,Tran,Male,48,45-54,16,50k-80k,Silver,Marketplace,2023-06-18,0,0
+CUST001313,Noah,Patel,Male,38,35-44,72,Under 50k,Bronze,Referral,2025-09-30,1,0
+CUST001314,Charlotte,Nguyen,Female,31,25-34,13,80k-120k,Bronze,Marketplace,2024-08-21,0,1
+CUST001315,Theodore,Brown,Male,50,45-54,69,160k+,Bronze,Social Media,2022-12-22,1,0
+CUST001316,Samuel,Walker,Male,33,25-34,4,Under 50k,Bronze,In-store QR,2023-01-09,1,1
+CUST001317,Jessica,King,Female,33,25-34,73,Under 50k,Bronze,Organic Search,2022-09-21,1,1
+CUST001318,Charlie,Scott,Non-binary,40,35-44,66,80k-120k,Bronze,In-store QR,2022-06-18,1,1
+CUST001319,Sophie,Allen,Female,28,25-34,62,50k-80k,Platinum,Organic Search,2025-02-11,1,0
+CUST001320,Liam,Hall,Male,22,18-24,9,50k-80k,Silver,Organic Search,2021-07-15,1,1
+CUST001321,Samuel,Baker,Male,46,45-54,70,50k-80k,Silver,Social Media,2024-06-06,1,1
+CUST001322,Cooper,Hall,Male,43,35-44,81,120k-160k,Silver,In-store QR,2022-11-04,0,1
+CUST001323,Leo,King,Male,46,45-54,72,50k-80k,Bronze,In-store QR,2024-03-06,1,1
+CUST001324,Liam,Lee,Male,60,55+,31,80k-120k,Bronze,Email Campaign,2021-01-27,1,0
+CUST001325,Sophie,Chen,Female,53,45-54,14,Under 50k,Silver,Referral,2022-06-07,1,0
+CUST001326,Amelia,Roberts,Female,35,35-44,39,50k-80k,Silver,Email Campaign,2025-07-07,1,1
+CUST001327,Harrison,Davis,Male,67,55+,76,80k-120k,Bronze,Email Campaign,2023-12-09,1,1
+CUST001328,Evie,White,Female,54,45-54,41,50k-80k,Gold,Marketplace,2023-03-26,1,0
+CUST001329,Sophie,Williams,Non-binary,56,55+,75,Under 50k,Bronze,In-store QR,2026-04-24,1,0
+CUST001330,Levi,Walker,Male,36,35-44,71,50k-80k,Bronze,Marketplace,2025-07-19,1,0
+CUST001331,Xavier,Scott,Male,26,25-34,16,Under 50k,Platinum,Social Media,2021-02-02,1,0
+CUST001332,Grace,Davis,Female,50,45-54,22,80k-120k,Gold,Referral,2023-09-16,1,0
+CUST001333,Abigail,Kaur,Non-binary,46,45-54,31,Under 50k,Bronze,Marketplace,2023-06-29,1,0
+CUST001334,Lucas,Patel,Male,39,35-44,72,Under 50k,Gold,Social Media,2026-05-27,1,1
+CUST001335,Henry,Thompson,Prefer not to say,29,25-34,38,160k+,Bronze,Email Campaign,2025-07-08,1,1
+CUST001336,Jessica,Nguyen,Female,34,25-34,9,50k-80k,Bronze,Social Media,2023-01-26,1,1
+CUST001337,Lucy,Johnson,Female,38,35-44,18,80k-120k,Bronze,Paid Search,2023-02-27,1,0
+CUST001338,Samuel,Thompson,Male,28,25-34,11,50k-80k,Bronze,Email Campaign,2023-05-09,0,1
+CUST001339,Jessica,Wong,Female,41,35-44,66,80k-120k,Bronze,In-store QR,2021-08-09,0,0
+CUST001340,Evie,Davis,Female,23,18-24,75,50k-80k,Bronze,In-store QR,2023-03-10,1,1
+CUST001341,Sophie,Jones,Female,45,45-54,48,Under 50k,Bronze,Email Campaign,2021-06-30,1,1
+CUST001342,Lucy,Chen,Female,29,25-34,48,Under 50k,Gold,Referral,2024-02-18,1,0
+CUST001343,Georgia,White,Female,36,35-44,75,120k-160k,Silver,Paid Search,2022-06-04,1,0
+CUST001344,Matilda,Singh,Female,21,18-24,62,50k-80k,Silver,Marketplace,2025-11-24,1,0
+CUST001345,Amelia,Taylor,Female,35,35-44,40,80k-120k,Bronze,Social Media,2024-10-03,1,1
+CUST001346,Harrison,Thompson,Male,24,18-24,20,120k-160k,Bronze,Marketplace,2024-08-26,1,1
+CUST001347,Ava,Wong,Female,75,55+,42,50k-80k,Gold,In-store QR,2025-10-03,1,0
+CUST001348,Theodore,Taylor,Male,66,55+,78,120k-160k,Bronze,Social Media,2022-06-30,1,0
+CUST001349,Henry,Scott,Male,27,25-34,8,80k-120k,Silver,Marketplace,2021-08-03,1,1
+CUST001350,Ava,Green,Female,40,35-44,12,50k-80k,Bronze,Marketplace,2025-01-30,1,0
+CUST001351,Samuel,Martin,Male,19,18-24,90,Under 50k,Silver,Marketplace,2024-09-27,1,0
+CUST001352,Emily,Jones,Female,51,45-54,29,50k-80k,Bronze,Organic Search,2023-08-05,0,0
+CUST001353,James,Wong,Male,53,45-54,33,Under 50k,Silver,In-store QR,2025-07-26,1,1
+CUST001354,Leo,White,Male,72,55+,11,80k-120k,Silver,Affiliate,2025-12-26,0,1
+CUST001355,Mason,Smith,Male,37,35-44,13,Under 50k,Gold,Paid Search,2025-08-03,0,0
+CUST001356,Lucy,Miller,Female,59,55+,36,50k-80k,Bronze,Affiliate,2023-10-31,1,0
+CUST001357,Oliver,Kaur,Male,46,45-54,9,50k-80k,Platinum,Affiliate,2022-12-13,1,1
+CUST001358,Cooper,Chen,Male,51,45-54,72,50k-80k,Silver,Email Campaign,2025-10-03,1,0
+CUST001359,Charlotte,Miller,Female,38,35-44,73,50k-80k,Silver,Marketplace,2023-09-30,1,1
+CUST001360,Samuel,Kaur,Male,56,55+,72,120k-160k,Bronze,Social Media,2023-01-15,1,0
+CUST001361,James,Patel,Male,56,55+,88,80k-120k,Bronze,Referral,2025-07-02,1,0
+CUST001362,Georgia,Baker,Female,20,18-24,63,50k-80k,Gold,Paid Search,2025-10-18,1,1
+CUST001363,Sarah,White,Female,51,45-54,63,80k-120k,Gold,Social Media,2021-04-08,1,0
+CUST001364,Henry,Davis,Male,18,18-24,66,Under 50k,Silver,Referral,2024-01-15,1,1
+CUST001365,Harrison,Kaur,Male,42,35-44,13,80k-120k,Bronze,Organic Search,2024-01-23,1,1
+CUST001366,Emma,Singh,Female,56,55+,42,80k-120k,Bronze,In-store QR,2025-01-30,1,0
+CUST001367,Olivia,White,Female,37,35-44,80,Under 50k,Bronze,Affiliate,2023-10-11,1,1
+CUST001368,Sophie,White,Female,35,35-44,71,Under 50k,Silver,Referral,2022-06-05,1,1
+CUST001369,Samuel,Singh,Male,35,35-44,8,Under 50k,Bronze,Paid Search,2022-07-10,1,1
+CUST001370,Abigail,Jones,Female,37,35-44,76,Under 50k,Silver,In-store QR,2025-12-23,1,0
+CUST001371,Olivia,King,Female,25,25-34,37,50k-80k,Bronze,Email Campaign,2025-06-16,0,1
+CUST001372,Sarah,Baker,Female,29,25-34,17,120k-160k,Silver,Referral,2021-11-05,1,1
+CUST001373,Evie,Hall,Female,40,35-44,50,80k-120k,Silver,In-store QR,2025-05-09,1,0
+CUST001374,Isla,Martin,Prefer not to say,36,35-44,15,120k-160k,Gold,Paid Search,2025-08-16,0,0
+CUST001375,Mia,Roberts,Female,48,45-54,19,50k-80k,Silver,Social Media,2024-12-27,1,1
+CUST001376,Evie,Anderson,Female,19,18-24,70,50k-80k,Gold,Marketplace,2025-03-16,1,0
+CUST001377,Max,Scott,Male,40,35-44,31,Under 50k,Silver,Referral,2022-10-06,1,0
+CUST001378,William,Taylor,Male,42,35-44,38,120k-160k,Platinum,Affiliate,2023-01-08,0,0
+CUST001379,Georgia,Walker,Female,20,18-24,13,50k-80k,Bronze,Social Media,2025-05-12,1,1
+CUST001380,James,Lee,Male,45,45-54,29,50k-80k,Silver,Referral,2025-10-22,1,1
+CUST001381,Sophie,Kaur,Female,34,25-34,84,Under 50k,Silver,Affiliate,2023-07-09,1,0
+CUST001382,Harrison,Young,Male,45,45-54,18,80k-120k,Bronze,Referral,2023-08-04,0,1
+CUST001383,Ava,Smith,Female,47,45-54,63,120k-160k,Silver,Email Campaign,2026-02-06,0,0
+CUST001384,Sarah,Hall,Female,34,25-34,15,50k-80k,Bronze,Paid Search,2024-05-02,1,1
+CUST001385,Georgia,Tran,Female,45,45-54,37,50k-80k,Bronze,Social Media,2021-11-06,1,0
+CUST001386,Ethan,Miller,Male,30,25-34,82,80k-120k,Bronze,Affiliate,2025-09-14,0,0
+CUST001387,Sarah,Allen,Female,51,45-54,88,120k-160k,Silver,In-store QR,2023-03-19,1,0
+CUST001388,Jessica,Martin,Female,32,25-34,13,160k+,Bronze,Marketplace,2021-01-15,0,0
+CUST001389,Ethan,Green,Male,44,35-44,63,50k-80k,Gold,Social Media,2023-08-17,1,1
+CUST001390,Xavier,Scott,Male,26,25-34,88,80k-120k,Bronze,Affiliate,2021-07-08,1,1
+CUST001391,Lucy,Johnson,Female,46,45-54,11,160k+,Bronze,In-store QR,2024-01-07,1,0
+CUST001392,Jack,Nguyen,Male,18,18-24,32,50k-80k,Gold,Affiliate,2023-07-15,1,1
+CUST001393,Amelia,Johnson,Female,47,45-54,62,120k-160k,Silver,Paid Search,2021-08-14,1,1
+CUST001394,Lily,King,Non-binary,24,18-24,85,Under 50k,Gold,Social Media,2025-11-04,1,0
+CUST001395,William,Patel,Male,33,25-34,53,80k-120k,Bronze,Email Campaign,2021-06-08,0,0
+CUST001396,Leo,Patel,Male,47,45-54,13,80k-120k,Bronze,Referral,2022-07-14,0,0
+CUST001397,Zoe,Davis,Female,32,25-34,38,50k-80k,Bronze,Marketplace,2024-01-04,1,1
+CUST001398,Charlie,Roberts,Male,22,18-24,72,50k-80k,Bronze,Organic Search,2025-09-08,1,0
+CUST001399,Ava,Smith,Female,52,45-54,6,120k-160k,Silver,Organic Search,2023-08-07,1,1
+CUST001400,Theodore,Lee,Male,39,35-44,9,80k-120k,Bronze,In-store QR,2022-09-25,1,0
+CUST001401,Lucy,Allen,Female,33,25-34,85,50k-80k,Bronze,Social Media,2023-09-03,1,0
+CUST001402,Ella,Walker,Female,29,25-34,57,160k+,Silver,Organic Search,2025-12-15,1,1
+CUST001403,Zoe,King,Female,68,55+,60,50k-80k,Silver,Referral,2022-04-20,0,1
+CUST001404,Ethan,Roberts,Male,50,45-54,11,80k-120k,Silver,Organic Search,2022-07-25,1,1
+CUST001405,Emma,King,Female,37,35-44,90,50k-80k,Bronze,Paid Search,2022-05-29,1,1
+CUST001406,Noah,Davis,Male,53,45-54,36,50k-80k,Silver,In-store QR,2021-03-13,1,0
+CUST001407,Cooper,Singh,Male,27,25-34,70,50k-80k,Bronze,Paid Search,2023-08-21,1,1
+CUST001408,Ethan,Miller,Male,34,25-34,84,Under 50k,Bronze,Referral,2024-08-04,1,0
+CUST001409,William,Taylor,Male,30,25-34,30,Under 50k,Bronze,Email Campaign,2021-12-18,0,0
+CUST001410,Oliver,Kaur,Male,52,45-54,10,160k+,Silver,Affiliate,2023-10-28,1,0
+CUST001411,Hudson,Jones,Male,71,55+,19,120k-160k,Silver,Email Campaign,2026-05-06,1,0
+CUST001412,Harrison,Jones,Male,24,18-24,63,Under 50k,Bronze,Email Campaign,2024-04-04,1,0
+CUST001413,Benjamin,Patel,Male,66,55+,40,50k-80k,Silver,In-store QR,2023-05-06,1,1
+CUST001414,Cooper,Davis,Male,40,35-44,36,80k-120k,Silver,Organic Search,2025-07-09,0,0
+CUST001415,Chloe,Nguyen,Female,31,25-34,30,80k-120k,Silver,Email Campaign,2025-06-04,1,1
+CUST001416,Ethan,Miller,Male,33,25-34,18,120k-160k,Silver,In-store QR,2022-09-08,1,1
+CUST001417,Isla,Jones,Female,42,35-44,76,50k-80k,Bronze,Social Media,2025-02-08,0,0
+CUST001418,Levi,Roberts,Male,24,18-24,36,Under 50k,Bronze,Social Media,2024-01-08,1,0
+CUST001419,Maddison,Walker,Female,42,35-44,82,80k-120k,Silver,Organic Search,2025-04-10,1,1
+CUST001420,Isla,Kaur,Female,46,45-54,20,Under 50k,Gold,Paid Search,2021-12-16,1,1
+CUST001421,Sarah,Wilson,Female,26,25-34,39,80k-120k,Bronze,Affiliate,2021-08-31,1,1
+CUST001422,Liam,Jones,Male,34,25-34,21,80k-120k,Bronze,Organic Search,2023-08-16,0,0
+CUST001423,Zoe,Roberts,Female,35,35-44,42,50k-80k,Bronze,Paid Search,2025-01-24,1,0
+CUST001424,Jessica,Young,Female,18,18-24,14,Under 50k,Bronze,In-store QR,2025-09-05,0,1
+CUST001425,Ava,Brown,Female,53,45-54,71,50k-80k,Bronze,Organic Search,2023-07-08,1,0
+CUST001426,Lucy,Miller,Female,32,25-34,22,50k-80k,Bronze,Affiliate,2026-04-01,1,0
+CUST001427,Oliver,Walker,Male,29,25-34,12,Under 50k,Silver,Referral,2025-08-28,1,0
+CUST001428,Mason,White,Male,53,45-54,72,50k-80k,Bronze,Social Media,2025-04-06,1,1
+CUST001429,Matilda,Tran,Female,39,35-44,15,50k-80k,Bronze,Social Media,2025-11-07,0,1
+CUST001430,Sarah,Nguyen,Female,32,25-34,11,80k-120k,Gold,In-store QR,2024-02-21,1,1
+CUST001431,Lucas,White,Male,35,35-44,89,120k-160k,Bronze,Social Media,2022-01-25,1,0
+CUST001432,Max,Nguyen,Prefer not to say,32,25-34,50,50k-80k,Bronze,Paid Search,2021-07-13,1,0
+CUST001433,Theodore,Singh,Male,32,25-34,40,120k-160k,Silver,Social Media,2025-07-23,0,0
+CUST001434,Archie,Anderson,Male,32,25-34,38,Under 50k,Bronze,Referral,2025-10-06,1,1
+CUST001435,Noah,Green,Male,28,25-34,21,120k-160k,Platinum,Social Media,2021-05-01,0,0
+CUST001436,Charlie,Nguyen,Male,30,25-34,65,160k+,Bronze,Email Campaign,2026-02-27,1,0
+CUST001437,Jack,Davis,Male,22,18-24,40,50k-80k,Bronze,Social Media,2025-02-10,1,1
+CUST001438,Archie,Davis,Male,56,55+,29,50k-80k,Bronze,Referral,2024-12-18,1,1
+CUST001439,Grace,Chen,Female,49,45-54,69,50k-80k,Bronze,Paid Search,2023-01-11,1,0
+CUST001440,Isla,Roberts,Female,37,35-44,19,Under 50k,Silver,Organic Search,2022-02-05,0,0
+CUST001441,Thomas,Jones,Male,39,35-44,50,80k-120k,Silver,Social Media,2025-04-03,1,1
+CUST001442,Benjamin,Young,Male,27,25-34,15,50k-80k,Silver,Marketplace,2022-02-02,1,0
+CUST001443,Cooper,Chen,Male,54,45-54,24,80k-120k,Gold,Referral,2024-11-21,1,1
+CUST001444,Chloe,Wong,Female,33,25-34,81,160k+,Silver,In-store QR,2023-01-03,1,0
+CUST001445,Xavier,Jones,Male,24,18-24,63,Under 50k,Bronze,Referral,2024-07-22,1,1
+CUST001446,Emma,Hall,Female,47,45-54,22,80k-120k,Gold,In-store QR,2021-09-26,1,1
+CUST001447,Mia,Thompson,Female,52,45-54,20,80k-120k,Gold,Referral,2025-12-31,1,1
+CUST001448,Jack,Roberts,Male,50,45-54,10,50k-80k,Platinum,Referral,2025-01-21,1,1
+CUST001449,Charlotte,Green,Female,38,35-44,29,80k-120k,Bronze,Referral,2025-01-05,1,1
+CUST001450,Georgia,Thompson,Female,23,18-24,76,50k-80k,Gold,Social Media,2022-10-13,1,1
+CUST001451,Mia,Johnson,Female,59,55+,21,Under 50k,Silver,Affiliate,2023-07-22,0,0
+CUST001452,Noah,Jones,Male,43,35-44,52,Under 50k,Platinum,Organic Search,2024-11-07,1,0
+CUST001453,Oscar,Lee,Male,18,18-24,31,Under 50k,Bronze,Social Media,2022-01-13,1,1
+CUST001454,Xavier,Scott,Male,48,45-54,50,160k+,Bronze,Affiliate,2024-06-04,1,0
+CUST001455,Oliver,Thompson,Male,25,25-34,30,50k-80k,Platinum,Marketplace,2021-05-21,1,1
+CUST001456,Lily,Thompson,Female,48,45-54,37,Under 50k,Platinum,Affiliate,2022-02-27,1,1
+CUST001457,Lily,Jones,Female,28,25-34,11,Under 50k,Bronze,Email Campaign,2023-08-24,1,0
+CUST001458,Xavier,Nguyen,Male,52,45-54,10,50k-80k,Bronze,Marketplace,2026-04-13,1,1
+CUST001459,Jack,Young,Male,41,35-44,11,Under 50k,Silver,Marketplace,2023-02-25,1,1
+CUST001460,Grace,Wilson,Female,46,45-54,80,160k+,Silver,Marketplace,2022-05-14,0,1
+CUST001461,Lucy,Lee,Female,26,25-34,73,80k-120k,Bronze,Referral,2022-08-13,0,1
+CUST001462,Evie,Roberts,Female,32,25-34,56,120k-160k,Bronze,Affiliate,2025-11-25,1,0
+CUST001463,Ella,Allen,Female,41,35-44,78,Under 50k,Gold,Paid Search,2024-12-27,0,0
+CUST001464,Samuel,Hall,Male,49,45-54,56,50k-80k,Bronze,Marketplace,2021-04-30,0,0
+CUST001465,Samuel,King,Male,29,25-34,73,160k+,Bronze,Organic Search,2025-04-23,1,0
+CUST001466,James,Chen,Male,18,18-24,17,50k-80k,Bronze,Paid Search,2022-11-17,1,0
+CUST001467,Cooper,Jones,Male,49,45-54,38,120k-160k,Bronze,Marketplace,2021-08-22,1,1
+CUST001468,Thomas,Thompson,Male,33,25-34,38,120k-160k,Gold,Affiliate,2026-04-02,1,0
+CUST001469,Maddison,Wong,Female,26,25-34,67,50k-80k,Bronze,Social Media,2024-06-22,1,0
+CUST001470,Benjamin,Williams,Male,38,35-44,18,Under 50k,Bronze,Social Media,2025-03-22,0,1
+CUST001471,Maddison,Walker,Female,51,45-54,15,50k-80k,Bronze,Organic Search,2022-07-06,1,0
+CUST001472,Cooper,Roberts,Male,34,25-34,55,Under 50k,Bronze,Email Campaign,2023-12-27,1,0
+CUST001473,Georgia,Walker,Female,18,18-24,16,Under 50k,Bronze,Affiliate,2021-04-06,1,0
+CUST001474,Max,Chen,Male,48,45-54,64,50k-80k,Bronze,Social Media,2023-12-29,0,1
+CUST001475,Ava,Kaur,Female,48,45-54,57,50k-80k,Silver,Paid Search,2025-12-21,1,0
+CUST001476,Abigail,Allen,Female,31,25-34,72,50k-80k,Bronze,Referral,2023-02-09,1,0
+CUST001477,Ruby,Wilson,Female,53,45-54,73,50k-80k,Silver,Marketplace,2022-08-03,1,0
+CUST001478,Samuel,Hall,Male,50,45-54,91,Under 50k,Bronze,Email Campaign,2024-12-12,0,0
+CUST001479,Emma,King,Female,38,35-44,37,80k-120k,Bronze,Affiliate,2025-04-23,1,1
+CUST001480,William,Johnson,Male,30,25-34,40,50k-80k,Bronze,Organic Search,2021-11-16,1,0
+CUST001481,Oliver,Chen,Male,46,45-54,70,120k-160k,Bronze,Referral,2024-06-15,1,1
+CUST001482,Charlie,Scott,Male,40,35-44,11,Under 50k,Bronze,Paid Search,2021-04-24,1,0
+CUST001483,Jack,Smith,Male,23,18-24,20,50k-80k,Silver,Affiliate,2023-11-19,1,1
+CUST001484,Noah,Singh,Male,54,45-54,64,120k-160k,Gold,Email Campaign,2022-09-27,1,1
+CUST001485,Lucas,Hall,Male,29,25-34,45,Under 50k,Gold,Social Media,2024-07-30,0,0
+CUST001486,Cooper,Singh,Male,44,35-44,36,50k-80k,Silver,Referral,2021-03-22,0,0
+CUST001487,Oliver,Chen,Male,54,45-54,72,Under 50k,Silver,In-store QR,2025-01-01,1,0
+CUST001488,William,Miller,Male,18,18-24,33,Under 50k,Bronze,In-store QR,2024-07-31,1,1
+CUST001489,Georgia,Tran,Prefer not to say,30,25-34,36,80k-120k,Silver,Social Media,2024-04-06,1,0
+CUST001490,Xavier,Taylor,Male,53,45-54,20,80k-120k,Silver,In-store QR,2025-08-09,1,1
+CUST001491,Theodore,Allen,Male,47,45-54,83,Under 50k,Silver,Social Media,2021-04-11,1,0
+CUST001492,Leo,Young,Male,19,18-24,31,Under 50k,Silver,Referral,2022-04-19,1,0
+CUST001493,Liam,King,Male,39,35-44,38,120k-160k,Platinum,Referral,2023-08-28,1,1
+CUST001494,Mason,Green,Male,39,35-44,10,Under 50k,Silver,Paid Search,2025-09-01,1,1
+CUST001495,Abigail,Wilson,Female,21,18-24,72,50k-80k,Gold,Social Media,2022-06-27,1,1
+CUST001496,Amelia,White,Female,26,25-34,16,160k+,Silver,In-store QR,2026-03-21,0,0
+CUST001497,Ethan,Kaur,Male,45,45-54,29,Under 50k,Gold,Marketplace,2025-04-13,1,1
+CUST001498,Lucas,Green,Male,44,35-44,9,80k-120k,Bronze,In-store QR,2025-05-24,1,0
+CUST001499,Mason,Tran,Male,27,25-34,49,160k+,Silver,Paid Search,2024-12-14,1,1
+CUST001500,Jessica,Wong,Female,32,25-34,79,50k-80k,Silver,Email Campaign,2025-01-05,1,1
+CUST001501,Samuel,Thompson,Non-binary,33,25-34,58,50k-80k,Bronze,Paid Search,2021-10-28,1,1
+CUST001502,Harrison,Jones,Male,37,35-44,9,50k-80k,Bronze,Referral,2023-04-25,1,0
+CUST001503,Charlie,Allen,Male,47,45-54,67,50k-80k,Bronze,In-store QR,2023-05-14,0,0
+CUST001504,Ava,Nguyen,Female,23,18-24,8,Under 50k,Silver,Referral,2023-11-08,1,0
+CUST001505,Matilda,Taylor,Female,39,35-44,65,Under 50k,Bronze,Referral,2023-11-29,1,1
+CUST001506,Levi,Miller,Male,43,35-44,12,160k+,Silver,Marketplace,2022-10-26,1,1
+CUST001507,Hudson,Young,Male,40,35-44,75,80k-120k,Silver,Organic Search,2023-08-11,1,0
+CUST001508,Abigail,Young,Female,34,25-34,65,80k-120k,Silver,Email Campaign,2025-02-11,1,0
+CUST001509,Zoe,Singh,Female,53,45-54,19,80k-120k,Gold,Marketplace,2025-06-23,0,1
+CUST001510,Isla,Taylor,Female,47,45-54,88,80k-120k,Silver,Paid Search,2023-03-22,1,1
+CUST001511,Noah,Wilson,Male,26,25-34,78,Under 50k,Bronze,Paid Search,2021-12-16,1,0
+CUST001512,Hannah,Jones,Female,30,25-34,69,50k-80k,Bronze,In-store QR,2023-06-29,0,0
+CUST001513,Ethan,Tran,Male,20,18-24,13,Under 50k,Silver,In-store QR,2023-04-28,1,1
+CUST001514,Grace,Kaur,Female,51,45-54,73,Under 50k,Silver,Referral,2026-04-23,1,1
+CUST001515,Charlotte,Brown,Female,46,45-54,89,80k-120k,Gold,Marketplace,2024-05-18,1,1
+CUST001516,Mason,Walker,Male,47,45-54,33,Under 50k,Bronze,Organic Search,2022-01-07,1,0
+CUST001517,Archie,Johnson,Male,21,18-24,68,Under 50k,Bronze,In-store QR,2025-07-07,1,1
+CUST001518,Georgia,Thompson,Female,23,18-24,83,50k-80k,Bronze,Social Media,2025-11-08,1,1
+CUST001519,Levi,Lee,Male,47,45-54,77,50k-80k,Bronze,Marketplace,2026-05-10,0,1
+CUST001520,Ava,Allen,Female,24,18-24,66,80k-120k,Platinum,Paid Search,2024-06-16,0,0
+CUST001521,Xavier,Tran,Male,33,25-34,32,80k-120k,Silver,In-store QR,2024-04-25,1,1
+CUST001522,Charlie,Davis,Male,47,45-54,36,80k-120k,Gold,Referral,2024-05-17,0,1
+CUST001523,Abigail,Young,Female,26,25-34,82,50k-80k,Bronze,Paid Search,2023-07-20,1,0
+CUST001524,Max,Walker,Male,40,35-44,79,50k-80k,Bronze,Affiliate,2023-03-06,0,1
+CUST001525,Oliver,Hall,Male,46,45-54,67,50k-80k,Bronze,Paid Search,2024-01-15,1,0
+CUST001526,Liam,Young,Male,38,35-44,79,80k-120k,Silver,Affiliate,2021-08-15,1,1
+CUST001527,Sophie,Walker,Female,59,55+,79,Under 50k,Gold,Paid Search,2025-01-20,1,0
+CUST001528,Xavier,Allen,Non-binary,54,45-54,81,Under 50k,Gold,Marketplace,2025-04-20,1,0
+CUST001529,Liam,Smith,Male,36,35-44,20,50k-80k,Bronze,In-store QR,2025-03-15,1,0
+CUST001530,Max,Baker,Male,65,55+,74,80k-120k,Bronze,Affiliate,2022-03-22,0,0
+CUST001531,Emma,White,Female,47,45-54,24,50k-80k,Bronze,Social Media,2023-03-04,1,1
+CUST001532,Mia,Miller,Female,18,18-24,30,50k-80k,Bronze,Paid Search,2023-11-06,0,1
+CUST001533,Ava,Young,Female,38,35-44,75,120k-160k,Bronze,Affiliate,2025-02-01,1,0
+CUST001534,Cooper,Thompson,Male,34,25-34,90,50k-80k,Bronze,Social Media,2023-12-11,1,0
+CUST001535,William,Thompson,Male,22,18-24,89,Under 50k,Bronze,Referral,2026-04-16,0,0
+CUST001536,Henry,Davis,Male,49,45-54,58,Under 50k,Silver,Marketplace,2024-08-03,0,1
+CUST001537,Oscar,Allen,Male,40,35-44,15,80k-120k,Silver,Marketplace,2021-01-24,1,1
+CUST001538,Jack,Singh,Male,41,35-44,15,120k-160k,Bronze,Marketplace,2021-03-30,1,0
+CUST001539,Noah,Thompson,Male,18,18-24,8,50k-80k,Platinum,Paid Search,2023-09-12,1,1
+CUST001540,James,Singh,Male,24,18-24,21,80k-120k,Bronze,Email Campaign,2022-11-01,1,1
+CUST001541,Abigail,Young,Female,39,35-44,16,80k-120k,Bronze,In-store QR,2025-02-17,1,1
+CUST001542,Sarah,Smith,Female,25,25-34,84,Under 50k,Gold,Referral,2023-07-24,1,1
+CUST001543,Amelia,Hall,Female,43,35-44,15,50k-80k,Platinum,Marketplace,2023-03-02,1,1
+CUST001544,Lucy,Walker,Female,23,18-24,20,50k-80k,Gold,Organic Search,2021-11-29,1,1
+CUST001545,Sarah,Kaur,Female,33,25-34,71,Under 50k,Silver,Referral,2026-02-22,1,1
+CUST001546,Emma,Lee,Female,45,45-54,10,Under 50k,Gold,Email Campaign,2024-07-22,1,1
+CUST001547,Georgia,Davis,Female,29,25-34,43,50k-80k,Bronze,Referral,2021-04-20,1,0
+CUST001548,Sarah,Roberts,Female,18,18-24,66,50k-80k,Silver,Affiliate,2024-11-19,1,0
+CUST001549,Emily,Tran,Female,19,18-24,33,50k-80k,Bronze,In-store QR,2025-07-24,1,0
+CUST001550,Liam,Green,Male,40,35-44,39,Under 50k,Gold,Organic Search,2022-02-04,1,1
+CUST001551,Xavier,Green,Male,40,35-44,10,50k-80k,Bronze,Social Media,2025-04-21,1,1
+CUST001552,Isla,Nguyen,Female,33,25-34,51,80k-120k,Silver,Paid Search,2021-04-20,1,0
+CUST001553,Samuel,Martin,Male,44,35-44,90,Under 50k,Silver,Email Campaign,2025-05-02,1,1
+CUST001554,Jessica,Wong,Female,42,35-44,78,50k-80k,Bronze,In-store QR,2023-12-05,1,0
+CUST001555,Evie,Kaur,Female,22,18-24,22,50k-80k,Bronze,Email Campaign,2022-04-16,1,1
+CUST001556,Mason,Anderson,Male,23,18-24,82,50k-80k,Bronze,Marketplace,2025-06-25,1,0
+CUST001557,Oscar,Hall,Male,38,35-44,84,50k-80k,Bronze,Referral,2024-09-22,0,1
+CUST001558,Lily,Johnson,Female,23,18-24,63,50k-80k,Silver,Organic Search,2024-01-19,1,0
+CUST001559,Olivia,Miller,Female,22,18-24,40,Under 50k,Bronze,In-store QR,2022-02-16,0,0
+CUST001560,Benjamin,Walker,Male,55,55+,20,80k-120k,Silver,In-store QR,2021-04-07,1,1
+CUST001561,Ethan,Green,Male,39,35-44,21,Under 50k,Bronze,Organic Search,2021-11-06,1,1
+CUST001562,Zoe,Miller,Female,42,35-44,37,Under 50k,Bronze,Affiliate,2022-05-28,1,1
+CUST001563,Zoe,Thompson,Female,34,25-34,20,50k-80k,Silver,In-store QR,2023-08-26,1,0
+CUST001564,Archie,Miller,Male,18,18-24,30,50k-80k,Gold,Email Campaign,2025-09-24,1,0
+CUST001565,Lucy,Wong,Female,20,18-24,30,Under 50k,Platinum,Paid Search,2023-07-26,1,0
+CUST001566,Maddison,Green,Female,42,35-44,17,50k-80k,Bronze,Social Media,2025-07-09,1,1
+CUST001567,William,Taylor,Male,24,18-24,11,120k-160k,Silver,Affiliate,2021-04-29,1,0
+CUST001568,Xavier,Williams,Male,18,18-24,74,50k-80k,Bronze,Affiliate,2022-05-18,1,0
+CUST001569,Noah,King,Male,35,35-44,13,80k-120k,Bronze,In-store QR,2026-05-23,1,1
+CUST001570,Theodore,Singh,Male,52,45-54,33,Under 50k,Bronze,Affiliate,2023-09-05,1,1
+CUST001571,Emily,Martin,Female,37,35-44,72,120k-160k,Gold,Organic Search,2021-03-14,1,1
+CUST001572,Sophie,White,Female,42,35-44,50,80k-120k,Bronze,Affiliate,2023-02-16,1,0
+CUST001573,Emily,Patel,Female,26,25-34,46,80k-120k,Silver,Paid Search,2023-08-12,1,1
+CUST001574,Isla,Lee,Female,34,25-34,59,120k-160k,Gold,In-store QR,2024-12-25,1,0
+CUST001575,Sophie,Smith,Female,30,25-34,72,50k-80k,Bronze,Organic Search,2025-03-04,0,1
+CUST001576,Theodore,Smith,Male,39,35-44,62,Under 50k,Silver,Paid Search,2025-10-06,1,0
+CUST001577,Mason,Brown,Male,29,25-34,79,80k-120k,Silver,Affiliate,2022-04-16,1,1
+CUST001578,Ruby,Brown,Female,28,25-34,16,Under 50k,Bronze,Social Media,2021-04-05,0,1
+CUST001579,Zoe,Walker,Female,34,25-34,37,80k-120k,Bronze,Referral,2021-07-20,1,1
+CUST001580,Matilda,Davis,Female,44,35-44,37,50k-80k,Bronze,Email Campaign,2021-06-13,1,1
+CUST001581,Chloe,Patel,Female,18,18-24,29,50k-80k,Bronze,Affiliate,2023-03-25,0,1
+CUST001582,Ruby,Hall,Female,37,35-44,20,50k-80k,Bronze,Referral,2025-03-21,0,1
+CUST001583,Ava,Williams,Female,37,35-44,77,80k-120k,Bronze,Organic Search,2022-10-11,0,1
+CUST001584,Ruby,Smith,Female,57,55+,17,120k-160k,Gold,Organic Search,2024-06-13,1,0
+CUST001585,Isla,Williams,Female,38,35-44,16,Under 50k,Gold,Affiliate,2023-07-09,0,0
+CUST001586,Charlotte,Young,Female,72,55+,22,50k-80k,Bronze,Affiliate,2025-07-04,1,1
+CUST001587,Oliver,Allen,Male,33,25-34,8,50k-80k,Bronze,Affiliate,2025-10-21,1,1
+CUST001588,Lucas,Taylor,Male,47,45-54,40,80k-120k,Silver,Organic Search,2022-12-21,1,1
+CUST001589,Amelia,Scott,Non-binary,23,18-24,21,80k-120k,Silver,Affiliate,2022-09-21,1,1
+CUST001590,Harrison,Miller,Male,18,18-24,47,50k-80k,Silver,Referral,2024-05-10,1,1
+CUST001591,Archie,Nguyen,Male,35,35-44,19,120k-160k,Gold,Referral,2021-07-11,1,0
+CUST001592,Mason,Kaur,Male,24,18-24,39,50k-80k,Silver,In-store QR,2023-03-29,1,0
+CUST001593,Chloe,Tran,Female,38,35-44,20,50k-80k,Bronze,In-store QR,2021-01-25,0,0
+CUST001594,Evie,Walker,Female,39,35-44,70,50k-80k,Gold,Paid Search,2025-11-06,1,1
+CUST001595,Archie,Miller,Male,41,35-44,30,80k-120k,Bronze,Affiliate,2023-06-30,1,0
+CUST001596,Ava,Martin,Female,50,45-54,17,50k-80k,Gold,Social Media,2022-10-20,1,1
+CUST001597,Oscar,Chen,Male,33,25-34,14,80k-120k,Platinum,Paid Search,2022-08-20,0,0
+CUST001598,Liam,Kaur,Male,39,35-44,10,50k-80k,Silver,Referral,2023-01-17,1,0
+CUST001599,Isla,Chen,Female,34,25-34,19,120k-160k,Silver,Marketplace,2025-03-30,1,1
+CUST001600,Mason,Brown,Male,40,35-44,22,120k-160k,Platinum,Social Media,2022-10-18,1,1
+CUST001601,Olivia,Tran,Female,54,45-54,79,80k-120k,Bronze,Email Campaign,2023-04-08,0,1
+CUST001602,Mia,Miller,Female,47,45-54,35,80k-120k,Bronze,Affiliate,2024-10-28,1,1
+CUST001603,Henry,Martin,Male,33,25-34,74,50k-80k,Gold,Affiliate,2025-06-14,1,1
+CUST001604,Mason,Davis,Male,30,25-34,86,120k-160k,Silver,Affiliate,2022-01-22,1,1
+CUST001605,Ava,Jones,Female,40,35-44,14,50k-80k,Platinum,Paid Search,2023-03-11,1,0
+CUST001606,Grace,Patel,Female,52,45-54,78,120k-160k,Gold,Referral,2024-01-06,1,0
+CUST001607,Cooper,Thompson,Male,31,25-34,22,Under 50k,Silver,Marketplace,2023-11-20,1,1
+CUST001608,Evie,Jones,Female,41,35-44,68,120k-160k,Bronze,Organic Search,2026-02-10,1,0
+CUST001609,Sophie,White,Female,40,35-44,78,80k-120k,Silver,Organic Search,2023-10-31,1,0
+CUST001610,Benjamin,Davis,Male,65,55+,80,Under 50k,Bronze,In-store QR,2022-07-20,0,0
+CUST001611,Max,Scott,Male,30,25-34,49,50k-80k,Silver,Organic Search,2021-03-21,0,0
+CUST001612,William,White,Male,29,25-34,80,Under 50k,Gold,Social Media,2025-12-16,1,0
+CUST001613,Hannah,Anderson,Female,33,25-34,73,120k-160k,Bronze,In-store QR,2022-05-15,1,0
+CUST001614,Isla,Davis,Female,23,18-24,8,Under 50k,Gold,Referral,2022-12-01,0,0
+CUST001615,Matilda,Young,Female,34,25-34,41,120k-160k,Bronze,Paid Search,2023-09-16,0,1
+CUST001616,Levi,Scott,Male,33,25-34,37,Under 50k,Bronze,In-store QR,2025-05-23,1,1
+CUST001617,Grace,Anderson,Female,50,45-54,15,80k-120k,Bronze,Organic Search,2022-09-20,1,0
+CUST001618,Emily,Lee,Female,47,45-54,74,50k-80k,Bronze,Paid Search,2024-12-15,1,1
+CUST001619,Georgia,Lee,Female,30,25-34,69,50k-80k,Silver,Social Media,2022-10-12,1,0
+CUST001620,Emma,Hall,Female,30,25-34,63,80k-120k,Bronze,Paid Search,2024-03-11,1,1
+CUST001621,Olivia,Jones,Female,18,18-24,69,Under 50k,Bronze,Email Campaign,2025-07-31,0,1
+CUST001622,Charlotte,Johnson,Female,36,35-44,20,50k-80k,Bronze,Organic Search,2023-12-17,0,0
+CUST001623,Chloe,Hall,Female,37,35-44,31,80k-120k,Platinum,Marketplace,2023-06-09,1,1
+CUST001624,Grace,Patel,Female,52,45-54,85,80k-120k,Silver,Marketplace,2025-12-10,1,1
+CUST001625,Hannah,Jones,Female,57,55+,20,120k-160k,Bronze,Organic Search,2025-09-10,1,1
+CUST001626,Ruby,Baker,Female,26,25-34,20,Under 50k,Silver,Referral,2021-03-16,1,0
+CUST001627,Mia,Anderson,Female,39,35-44,77,50k-80k,Bronze,Referral,2025-01-09,0,0
+CUST001628,Mia,Smith,Female,53,45-54,44,80k-120k,Gold,Marketplace,2021-06-23,1,1
+CUST001629,Matilda,Jones,Female,31,25-34,17,80k-120k,Bronze,Social Media,2023-05-05,1,1
+CUST001630,Ruby,Green,Female,34,25-34,83,80k-120k,Bronze,Social Media,2022-03-14,1,1
+CUST001631,Charlotte,Tran,Female,39,35-44,21,120k-160k,Silver,Email Campaign,2024-07-02,1,1
+CUST001632,Samuel,White,Male,38,35-44,24,80k-120k,Platinum,Marketplace,2022-08-25,1,0
+CUST001633,Mason,Allen,Male,18,18-24,22,80k-120k,Silver,Organic Search,2023-05-19,1,0
+CUST001634,Levi,Singh,Non-binary,24,18-24,49,50k-80k,Bronze,Affiliate,2021-10-08,1,1
+CUST001635,Zoe,King,Female,62,55+,18,50k-80k,Bronze,Organic Search,2022-03-05,1,1
+CUST001636,Jessica,Lee,Female,18,18-24,49,Under 50k,Bronze,Social Media,2026-05-18,0,0
+CUST001637,Benjamin,Smith,Male,27,25-34,73,120k-160k,Silver,Paid Search,2024-09-25,1,0
+CUST001638,Ava,Chen,Female,36,35-44,33,80k-120k,Bronze,Referral,2023-02-20,0,1
+CUST001639,Isla,Walker,Female,38,35-44,50,50k-80k,Silver,Paid Search,2024-07-27,0,0
+CUST001640,Xavier,Nguyen,Male,39,35-44,72,120k-160k,Bronze,Paid Search,2024-03-27,1,1
+CUST001641,Ethan,Young,Male,33,25-34,87,80k-120k,Silver,Email Campaign,2021-05-12,1,0
+CUST001642,James,Wilson,Prefer not to say,40,35-44,70,160k+,Platinum,Organic Search,2021-12-16,0,1
+CUST001643,Mason,Kaur,Male,46,45-54,66,120k-160k,Gold,In-store QR,2025-03-24,1,0
+CUST001644,Max,Davis,Male,43,35-44,21,80k-120k,Bronze,Social Media,2023-10-09,1,0
+CUST001645,Benjamin,Baker,Male,26,25-34,68,50k-80k,Bronze,Paid Search,2023-10-25,1,0
+CUST001646,Archie,White,Prefer not to say,40,35-44,66,50k-80k,Bronze,Organic Search,2024-03-14,1,0
+CUST001647,Isla,Tran,Female,31,25-34,88,Under 50k,Bronze,Affiliate,2024-02-25,1,1
+CUST001648,Ethan,Wong,Male,28,25-34,30,50k-80k,Silver,Marketplace,2023-08-21,0,0
+CUST001649,Sophie,King,Female,35,35-44,65,80k-120k,Silver,Organic Search,2022-01-23,1,0
+CUST001650,Xavier,Lee,Male,54,45-54,54,80k-120k,Silver,Organic Search,2022-11-05,1,0
+CUST001651,Lily,Walker,Female,20,18-24,4,50k-80k,Silver,Organic Search,2023-05-24,1,1
+CUST001652,Abigail,Hall,Female,52,45-54,15,80k-120k,Gold,Email Campaign,2025-07-14,1,0
+CUST001653,Olivia,Brown,Female,18,18-24,36,50k-80k,Bronze,Email Campaign,2025-08-27,0,1
+CUST001654,Henry,Johnson,Male,18,18-24,87,Under 50k,Silver,In-store QR,2021-01-26,1,1
+CUST001655,Levi,Williams,Male,66,55+,8,120k-160k,Gold,Social Media,2023-12-04,1,0
+CUST001656,Georgia,Davis,Female,18,18-24,21,Under 50k,Bronze,Social Media,2021-05-24,1,0
+CUST001657,Abigail,Nguyen,Female,39,35-44,33,Under 50k,Platinum,Organic Search,2025-08-28,1,1
+CUST001658,Emily,Taylor,Female,43,35-44,68,160k+,Bronze,In-store QR,2024-03-26,1,0
+CUST001659,Archie,Hall,Male,38,35-44,13,80k-120k,Silver,Organic Search,2021-04-02,1,0
+CUST001660,Sophie,Wilson,Female,46,45-54,16,Under 50k,Silver,Organic Search,2023-06-02,0,0
+CUST001661,Georgia,Chen,Female,38,35-44,31,50k-80k,Gold,Paid Search,2025-07-17,1,1
+CUST001662,William,Walker,Male,26,25-34,9,120k-160k,Silver,Paid Search,2026-03-14,1,0
+CUST001663,William,Wilson,Male,33,25-34,21,120k-160k,Silver,Social Media,2025-05-13,1,1
+CUST001664,Charlotte,Young,Prefer not to say,44,35-44,76,Under 50k,Bronze,Marketplace,2021-01-29,1,1
+CUST001665,Ruby,Chen,Female,30,25-34,72,50k-80k,Bronze,In-store QR,2023-11-28,1,1
+CUST001666,Liam,Baker,Male,40,35-44,33,50k-80k,Gold,Affiliate,2021-07-07,1,0
+CUST001667,Maddison,Allen,Female,26,25-34,42,50k-80k,Bronze,Organic Search,2023-09-28,0,1
+CUST001668,Chloe,Taylor,Female,63,55+,76,50k-80k,Silver,Organic Search,2022-11-18,1,1
+CUST001669,Henry,Brown,Male,34,25-34,78,50k-80k,Bronze,Organic Search,2023-03-04,1,0
+CUST001670,Samuel,Allen,Male,37,35-44,68,50k-80k,Bronze,Marketplace,2022-03-29,1,0
+CUST001671,Cooper,Miller,Male,33,25-34,66,80k-120k,Bronze,Social Media,2025-01-08,1,0
+CUST001672,Cooper,Lee,Male,27,25-34,8,80k-120k,Bronze,Email Campaign,2024-10-17,1,0
+CUST001673,Harrison,Martin,Male,45,45-54,64,Under 50k,Silver,Referral,2023-04-18,1,0
+CUST001674,Chloe,Roberts,Female,21,18-24,15,50k-80k,Bronze,Marketplace,2025-02-08,1,1
+CUST001675,Ava,Chen,Female,23,18-24,14,Under 50k,Silver,Referral,2021-02-24,1,1
+CUST001676,Grace,Walker,Female,51,45-54,63,50k-80k,Silver,Paid Search,2024-07-11,0,1
+CUST001677,Zoe,Kaur,Female,48,45-54,88,120k-160k,Gold,Organic Search,2024-10-18,1,1
+CUST001678,Ruby,Taylor,Female,38,35-44,14,80k-120k,Bronze,Affiliate,2025-03-30,1,1
+CUST001679,Abigail,Chen,Female,31,25-34,12,80k-120k,Bronze,Social Media,2021-05-26,1,1
+CUST001680,Leo,Brown,Male,42,35-44,70,50k-80k,Gold,Social Media,2021-08-15,1,1
+CUST001681,Ethan,Green,Male,52,45-54,22,120k-160k,Silver,Affiliate,2021-08-31,1,1
+CUST001682,Sophie,Miller,Female,47,45-54,37,120k-160k,Bronze,Email Campaign,2021-08-19,0,1
+CUST001683,Evie,Martin,Female,43,35-44,65,80k-120k,Silver,Marketplace,2026-05-06,1,1
+CUST001684,Abigail,White,Female,59,55+,68,120k-160k,Bronze,Paid Search,2021-02-06,0,0
+CUST001685,Olivia,Singh,Female,36,35-44,68,Under 50k,Silver,Paid Search,2022-01-24,1,1
+CUST001686,Evie,Walker,Female,58,55+,16,80k-120k,Bronze,Paid Search,2023-12-03,0,1
+CUST001687,Georgia,Young,Female,45,45-54,35,160k+,Bronze,Marketplace,2024-01-19,1,1
+CUST001688,Hannah,Taylor,Female,22,18-24,40,80k-120k,Silver,Referral,2025-01-11,1,0
+CUST001689,Archie,Green,Male,22,18-24,29,50k-80k,Silver,Marketplace,2021-09-13,1,0
+CUST001690,Mason,White,Male,39,35-44,50,Under 50k,Silver,Organic Search,2024-11-12,1,1
+CUST001691,William,Williams,Male,35,35-44,40,80k-120k,Bronze,Email Campaign,2022-01-11,1,0
+CUST001692,James,Kaur,Male,40,35-44,38,50k-80k,Gold,In-store QR,2022-09-15,0,0
+CUST001693,Xavier,Martin,Male,25,25-34,33,80k-120k,Bronze,Email Campaign,2022-01-21,0,1
+CUST001694,Georgia,Wong,Female,36,35-44,72,Under 50k,Silver,Social Media,2024-07-26,1,1
+CUST001695,Mia,Wilson,Female,26,25-34,83,Under 50k,Platinum,Email Campaign,2023-12-05,1,1
+CUST001696,Jessica,Kaur,Female,47,45-54,36,50k-80k,Silver,Marketplace,2024-07-17,0,1
+CUST001697,Charlotte,Wilson,Female,31,25-34,53,Under 50k,Bronze,Paid Search,2025-02-23,0,0
+CUST001698,Max,Green,Male,18,18-24,20,80k-120k,Bronze,Marketplace,2021-06-20,1,1
+CUST001699,Oliver,Johnson,Male,29,25-34,10,80k-120k,Bronze,Organic Search,2024-08-11,0,1
+CUST001700,Matilda,Hall,Female,18,18-24,63,50k-80k,Bronze,Organic Search,2021-04-07,1,0
+CUST001701,Lucy,Allen,Female,40,35-44,88,Under 50k,Silver,Affiliate,2025-07-14,1,0
+CUST001702,Mason,Thompson,Male,25,25-34,9,50k-80k,Bronze,In-store QR,2022-04-05,1,1
+CUST001703,Cooper,Baker,Male,19,18-24,42,Under 50k,Gold,Paid Search,2023-04-14,1,0
+CUST001704,Xavier,Taylor,Prefer not to say,21,18-24,34,50k-80k,Bronze,Referral,2024-03-18,1,1
+CUST001705,Isla,Chen,Female,46,45-54,13,80k-120k,Bronze,Marketplace,2025-03-06,0,1
+CUST001706,Ruby,Kaur,Female,18,18-24,63,120k-160k,Bronze,Referral,2024-06-01,0,1
+CUST001707,Hannah,Chen,Female,31,25-34,10,50k-80k,Bronze,Social Media,2022-10-09,1,1
+CUST001708,Amelia,Roberts,Female,31,25-34,17,160k+,Bronze,Marketplace,2025-01-16,0,1
+CUST001709,Grace,King,Female,35,35-44,9,50k-80k,Silver,Organic Search,2022-12-19,1,1
+CUST001710,Grace,Baker,Female,42,35-44,67,80k-120k,Silver,Paid Search,2023-11-29,1,1
+CUST001711,Charlie,Singh,Male,66,55+,21,120k-160k,Bronze,Paid Search,2022-10-04,1,0
+CUST001712,Lucas,Walker,Male,34,25-34,82,80k-120k,Bronze,Referral,2025-06-30,0,1
+CUST001713,Xavier,Allen,Male,49,45-54,38,120k-160k,Silver,Social Media,2024-08-20,1,1
+CUST001714,Charlie,Green,Male,45,45-54,33,50k-80k,Silver,Affiliate,2026-03-22,1,0
+CUST001715,Hudson,Roberts,Male,40,35-44,79,80k-120k,Gold,Marketplace,2026-04-19,1,0
+CUST001716,Xavier,Williams,Male,39,35-44,29,Under 50k,Platinum,Email Campaign,2024-05-15,0,0
+CUST001717,Ava,Davis,Female,38,35-44,16,50k-80k,Bronze,In-store QR,2024-12-25,0,0
+CUST001718,Jessica,Lee,Female,20,18-24,48,Under 50k,Silver,In-store QR,2023-08-21,1,0
+CUST001719,Levi,Scott,Male,26,25-34,78,80k-120k,Silver,Social Media,2024-02-19,0,1
+CUST001720,Harrison,Johnson,Male,43,35-44,82,80k-120k,Bronze,Referral,2023-01-01,0,0
+CUST001721,Mia,Thompson,Female,33,25-34,66,160k+,Bronze,Social Media,2021-01-11,1,0
+CUST001722,Max,Baker,Male,29,25-34,88,Under 50k,Bronze,Paid Search,2022-10-18,1,0
+CUST001723,William,Taylor,Male,43,35-44,33,Under 50k,Silver,Affiliate,2023-12-14,1,1
+CUST001724,Noah,Green,Male,33,25-34,82,120k-160k,Silver,Affiliate,2022-01-10,1,1
+CUST001725,Abigail,Anderson,Female,59,55+,15,50k-80k,Silver,Paid Search,2022-12-19,1,0
+CUST001726,Ethan,Wilson,Male,34,25-34,74,120k-160k,Platinum,Social Media,2022-10-13,1,1
+CUST001727,Isla,Taylor,Female,43,35-44,42,80k-120k,Bronze,Referral,2024-11-10,1,1
+CUST001728,Jack,Kaur,Male,18,18-24,29,80k-120k,Bronze,In-store QR,2024-09-27,0,0
+CUST001729,Emily,Williams,Female,27,25-34,41,120k-160k,Bronze,Marketplace,2021-05-05,1,0
+CUST001730,Maddison,Taylor,Female,32,25-34,32,50k-80k,Silver,Email Campaign,2022-10-06,1,0
+CUST001731,Emma,Roberts,Female,31,25-34,40,50k-80k,Bronze,Organic Search,2025-05-07,1,1
+CUST001732,Archie,White,Male,35,35-44,18,Under 50k,Silver,Social Media,2022-09-24,1,0
+CUST001733,Ella,Wilson,Female,43,35-44,74,120k-160k,Bronze,Email Campaign,2025-09-28,1,1
+CUST001734,Charlotte,Thompson,Female,49,45-54,35,50k-80k,Gold,Affiliate,2025-09-14,1,1
+CUST001735,Liam,Wilson,Male,38,35-44,16,50k-80k,Bronze,Affiliate,2022-08-12,1,1
+CUST001736,Ruby,Davis,Female,19,18-24,91,50k-80k,Silver,Organic Search,2021-11-18,1,0
+CUST001737,Harrison,Singh,Male,46,45-54,20,50k-80k,Bronze,Email Campaign,2024-02-01,1,1
+CUST001738,Amelia,Smith,Female,41,35-44,78,80k-120k,Bronze,Affiliate,2025-01-24,0,1
+CUST001739,Jack,Taylor,Male,23,18-24,64,50k-80k,Gold,Referral,2023-09-06,1,0
+CUST001740,Jessica,Patel,Female,44,35-44,71,50k-80k,Bronze,Email Campaign,2022-07-15,1,0
+CUST001741,Lucas,Wong,Male,42,35-44,73,Under 50k,Silver,In-store QR,2026-02-15,1,0
+CUST001742,Amelia,Baker,Female,45,45-54,52,50k-80k,Gold,Paid Search,2023-09-01,0,1
+CUST001743,Noah,Roberts,Male,39,35-44,71,Under 50k,Silver,Email Campaign,2025-09-15,1,0
+CUST001744,Emma,Singh,Female,33,25-34,43,50k-80k,Gold,Marketplace,2024-12-23,1,1
+CUST001745,Noah,Patel,Male,21,18-24,66,Under 50k,Bronze,Organic Search,2026-01-11,1,1
+CUST001746,Max,Davis,Male,55,55+,12,80k-120k,Bronze,Affiliate,2026-02-15,1,1
+CUST001747,Liam,Kaur,Male,50,45-54,11,50k-80k,Silver,Marketplace,2026-03-06,1,1
+CUST001748,Jessica,Allen,Female,56,55+,69,Under 50k,Bronze,Referral,2025-08-30,1,0
+CUST001749,Matilda,Johnson,Female,43,35-44,52,Under 50k,Silver,Organic Search,2023-07-06,1,0
+CUST001750,Noah,Anderson,Male,67,55+,62,50k-80k,Silver,Marketplace,2022-04-30,1,0
+CUST001751,Sophie,Baker,Female,42,35-44,34,Under 50k,Silver,Social Media,2025-11-06,0,1
+CUST001752,Isla,Kaur,Female,31,25-34,71,50k-80k,Bronze,Marketplace,2026-01-28,1,1
+CUST001753,Georgia,Wilson,Female,51,45-54,67,Under 50k,Platinum,In-store QR,2023-03-27,1,0
+CUST001754,Lily,Singh,Female,42,35-44,11,80k-120k,Bronze,Social Media,2025-01-31,1,0
+CUST001755,Oscar,Wong,Male,30,25-34,52,Under 50k,Silver,Marketplace,2025-04-29,1,1
+CUST001756,Matilda,Martin,Female,28,25-34,40,Under 50k,Gold,Affiliate,2024-11-08,1,0
+CUST001757,Lily,Taylor,Female,38,35-44,21,Under 50k,Silver,Affiliate,2021-04-30,1,0
+CUST001758,Jessica,Green,Female,50,45-54,17,50k-80k,Bronze,Marketplace,2025-10-30,1,1
+CUST001759,Sophie,Tran,Female,55,55+,38,80k-120k,Bronze,Email Campaign,2022-05-28,1,1
+CUST001760,Chloe,Walker,Female,18,18-24,64,50k-80k,Silver,Marketplace,2021-11-28,1,1
+CUST001761,Hannah,Taylor,Female,50,45-54,71,Under 50k,Bronze,Marketplace,2025-10-14,1,0
+CUST001762,James,Kaur,Male,48,45-54,38,50k-80k,Bronze,Paid Search,2024-11-29,1,0
+CUST001763,Liam,Kaur,Male,49,45-54,14,50k-80k,Bronze,Marketplace,2025-04-06,0,0
+CUST001764,Theodore,Taylor,Male,78,55+,32,50k-80k,Gold,Email Campaign,2024-03-01,0,1
+CUST001765,Olivia,Anderson,Female,45,45-54,55,50k-80k,Silver,Affiliate,2022-04-29,1,1
+CUST001766,Grace,Miller,Female,49,45-54,1,Under 50k,Gold,Paid Search,2023-07-09,0,1
+CUST001767,Mia,Williams,Non-binary,45,45-54,34,Under 50k,Bronze,Marketplace,2026-03-16,0,0
+CUST001768,Georgia,King,Female,43,35-44,16,50k-80k,Bronze,Paid Search,2022-12-07,1,1
+CUST001769,Ella,Baker,Female,46,45-54,85,120k-160k,Silver,Affiliate,2021-10-23,1,1
+CUST001770,Mason,Chen,Male,45,45-54,54,50k-80k,Bronze,Marketplace,2022-01-02,1,1
+CUST001771,Amelia,Thompson,Female,46,45-54,16,50k-80k,Silver,Referral,2023-12-05,1,0
+CUST001772,Zoe,Jones,Female,44,35-44,71,50k-80k,Silver,Email Campaign,2025-01-16,0,1
+CUST001773,Noah,Scott,Male,47,45-54,67,80k-120k,Silver,Organic Search,2022-02-15,1,1
+CUST001774,Oliver,Walker,Male,31,25-34,49,80k-120k,Bronze,Email Campaign,2024-10-10,1,0
+CUST001775,James,Brown,Male,37,35-44,77,80k-120k,Silver,Referral,2023-05-17,1,0
+CUST001776,Noah,Green,Male,48,45-54,8,50k-80k,Bronze,Affiliate,2022-07-10,0,1
+CUST001777,Lily,Miller,Female,44,35-44,68,80k-120k,Gold,Paid Search,2022-09-03,1,1
+CUST001778,Mia,Nguyen,Female,41,35-44,66,80k-120k,Bronze,Email Campaign,2023-01-14,0,0
+CUST001779,Xavier,Allen,Male,20,18-24,27,Under 50k,Bronze,Email Campaign,2023-07-07,0,0
+CUST001780,Isla,Roberts,Female,29,25-34,8,160k+,Bronze,Organic Search,2023-10-15,1,1
+CUST001781,Hannah,Martin,Non-binary,35,35-44,74,50k-80k,Bronze,Social Media,2023-11-28,1,0
+CUST001782,Ava,Singh,Female,22,18-24,13,50k-80k,Silver,Organic Search,2023-08-15,1,1
+CUST001783,Ethan,Tran,Male,18,18-24,15,50k-80k,Gold,Organic Search,2021-08-24,1,1
+CUST001784,Oscar,Patel,Male,64,55+,74,80k-120k,Bronze,Social Media,2022-08-23,1,0
+CUST001785,Grace,Thompson,Female,22,18-24,9,Under 50k,Bronze,Paid Search,2022-04-20,0,0
+CUST001786,Liam,Kaur,Non-binary,46,45-54,19,80k-120k,Silver,Marketplace,2025-05-19,1,1
+CUST001787,Leo,Wong,Male,53,45-54,8,80k-120k,Silver,Organic Search,2025-09-25,0,1
+CUST001788,Henry,Martin,Male,38,35-44,37,50k-80k,Bronze,Email Campaign,2023-06-30,1,0
+CUST001789,Mason,King,Male,30,25-34,70,120k-160k,Bronze,Referral,2025-08-11,1,0
+CUST001790,Archie,Thompson,Male,21,18-24,87,Under 50k,Bronze,Social Media,2025-08-07,0,0
+CUST001791,Ava,Wong,Female,42,35-44,8,120k-160k,Bronze,Social Media,2023-04-21,0,0
+CUST001792,Evie,Anderson,Female,61,55+,22,80k-120k,Bronze,Marketplace,2025-11-12,1,1
+CUST001793,Sarah,Davis,Female,35,35-44,69,80k-120k,Bronze,Marketplace,2023-08-12,1,0
+CUST001794,Liam,Baker,Male,44,35-44,64,120k-160k,Silver,Organic Search,2023-02-27,1,0
+CUST001795,Emily,Jones,Prefer not to say,49,45-54,51,50k-80k,Gold,Referral,2021-03-31,1,1
+CUST001796,Zoe,Chen,Female,50,45-54,82,80k-120k,Bronze,Organic Search,2023-03-13,1,1
+CUST001797,Sarah,Nguyen,Female,32,25-34,15,50k-80k,Silver,Marketplace,2024-06-10,1,1
+CUST001798,Mia,Wong,Female,18,18-24,73,120k-160k,Bronze,Organic Search,2026-03-02,1,1
+CUST001799,Ethan,Roberts,Male,18,18-24,15,50k-80k,Bronze,Paid Search,2024-03-09,0,0
+CUST001800,Lily,Kaur,Female,61,55+,19,120k-160k,Silver,In-store QR,2024-01-24,1,0
+CUST001801,Jack,White,Male,34,25-34,77,Under 50k,Silver,In-store QR,2023-12-20,0,0
+CUST001802,Harrison,Miller,Male,26,25-34,68,80k-120k,Bronze,Paid Search,2021-09-30,0,0
+CUST001803,Emily,White,Female,54,45-54,81,120k-160k,Gold,Referral,2024-03-24,1,0
+CUST001804,Cooper,Thompson,Male,39,35-44,22,80k-120k,Silver,Social Media,2024-04-26,1,0
+CUST001805,Levi,Wilson,Male,22,18-24,72,50k-80k,Bronze,Marketplace,2022-09-20,1,1
+CUST001806,Amelia,Taylor,Female,57,55+,77,80k-120k,Bronze,Organic Search,2025-06-22,1,1
+CUST001807,Emma,Tran,Female,27,25-34,37,Under 50k,Bronze,Organic Search,2023-01-25,1,1
+CUST001808,Harrison,Young,Male,26,25-34,14,120k-160k,Silver,Social Media,2025-08-03,1,1
+CUST001809,Zoe,Chen,Female,25,25-34,17,50k-80k,Silver,Paid Search,2024-04-07,1,0
+CUST001810,Mason,Wong,Male,44,35-44,17,50k-80k,Silver,Organic Search,2024-09-11,1,0
+CUST001811,Zoe,White,Female,40,35-44,14,120k-160k,Silver,Social Media,2022-12-03,1,1
+CUST001812,Oscar,Lee,Male,43,35-44,43,80k-120k,Gold,Affiliate,2021-07-16,1,1
+CUST001813,Lucas,Martin,Male,40,35-44,42,120k-160k,Bronze,Social Media,2023-03-13,0,0
+CUST001814,Mason,King,Male,22,18-24,22,Under 50k,Platinum,Affiliate,2026-02-25,1,1
+CUST001815,Oliver,Brown,Male,33,25-34,79,50k-80k,Bronze,Social Media,2022-08-10,1,1
+CUST001816,Ethan,Wilson,Non-binary,47,45-54,88,Under 50k,Silver,Organic Search,2021-07-31,1,1
+CUST001817,Ethan,Baker,Male,36,35-44,62,120k-160k,Bronze,Marketplace,2024-05-14,0,0
+CUST001818,Hudson,Chen,Male,49,45-54,42,Under 50k,Platinum,Email Campaign,2021-07-06,1,0
+CUST001819,Matilda,Brown,Female,37,35-44,90,50k-80k,Silver,Organic Search,2023-12-16,0,1
+CUST001820,Lucy,Anderson,Female,47,45-54,18,50k-80k,Bronze,Organic Search,2026-01-16,1,0
+CUST001821,Oscar,White,Male,42,35-44,29,50k-80k,Bronze,Marketplace,2023-06-13,1,0
+CUST001822,Emma,Kaur,Female,51,45-54,9,120k-160k,Gold,In-store QR,2024-01-12,0,0
+CUST001823,Henry,Singh,Male,41,35-44,68,Under 50k,Bronze,Affiliate,2024-11-07,1,0
+CUST001824,James,Wong,Male,18,18-24,48,Under 50k,Silver,Email Campaign,2024-07-05,1,1
+CUST001825,Ruby,King,Female,62,55+,13,50k-80k,Bronze,Marketplace,2022-04-21,1,1
+CUST001826,Henry,Nguyen,Male,47,45-54,29,50k-80k,Bronze,Social Media,2022-09-25,1,1
+CUST001827,Sophie,Scott,Female,24,18-24,19,Under 50k,Bronze,Paid Search,2023-12-25,1,1
+CUST001828,Emily,Young,Female,47,45-54,63,120k-160k,Bronze,Affiliate,2021-03-26,1,0
+CUST001829,Isla,Kaur,Female,55,55+,32,50k-80k,Silver,Organic Search,2021-08-06,1,1
+CUST001830,Lily,Davis,Female,20,18-24,33,50k-80k,Platinum,Paid Search,2022-11-23,1,0
+CUST001831,Archie,Smith,Male,23,18-24,33,Under 50k,Bronze,Paid Search,2021-11-23,1,0
+CUST001832,Matilda,Taylor,Female,26,25-34,21,Under 50k,Gold,In-store QR,2022-01-18,1,1
+CUST001833,Max,Anderson,Male,37,35-44,37,Under 50k,Bronze,Social Media,2023-03-21,1,0
+CUST001834,Ava,Miller,Female,37,35-44,9,160k+,Bronze,Social Media,2023-01-11,1,1
+CUST001835,Samuel,Singh,Prefer not to say,40,35-44,8,80k-120k,Bronze,Marketplace,2022-04-14,1,0
+CUST001836,Isla,Taylor,Female,47,45-54,17,Under 50k,Bronze,Referral,2021-10-05,0,1
+CUST001837,Henry,Hall,Male,23,18-24,37,Under 50k,Platinum,Social Media,2021-12-31,1,0
+CUST001838,Hannah,Miller,Female,19,18-24,30,80k-120k,Bronze,Social Media,2023-01-27,0,0
+CUST001839,Emma,Kaur,Female,33,25-34,77,80k-120k,Silver,Paid Search,2021-03-23,1,0
+CUST001840,Levi,Thompson,Male,22,18-24,77,50k-80k,Silver,In-store QR,2022-09-16,1,1
+CUST001841,Emily,King,Female,42,35-44,12,50k-80k,Bronze,Referral,2024-02-18,1,1
+CUST001842,Liam,Allen,Male,43,35-44,80,Under 50k,Bronze,In-store QR,2025-11-10,1,1
+CUST001843,Abigail,Green,Female,51,45-54,87,Under 50k,Silver,Paid Search,2025-02-12,1,1
+CUST001844,Theodore,Lee,Male,18,18-24,16,Under 50k,Platinum,Marketplace,2025-11-14,1,1
+CUST001845,Grace,Patel,Female,40,35-44,53,160k+,Gold,Social Media,2025-12-08,1,1
+CUST001846,Sophie,Jones,Prefer not to say,43,35-44,82,Under 50k,Bronze,Marketplace,2023-08-31,1,0
+CUST001847,Mason,Wilson,Male,40,35-44,22,50k-80k,Bronze,Email Campaign,2023-07-31,1,1
+CUST001848,Theodore,Williams,Male,26,25-34,76,80k-120k,Gold,Marketplace,2023-06-16,1,1
+CUST001849,Oliver,Wong,Male,21,18-24,16,50k-80k,Bronze,Referral,2025-10-06,0,0
+CUST001850,Liam,Miller,Male,36,35-44,72,50k-80k,Bronze,Referral,2023-05-02,1,0
+CUST001851,Mason,Wilson,Male,54,45-54,88,50k-80k,Silver,Affiliate,2024-04-16,1,1
+CUST001852,Lucy,Johnson,Female,21,18-24,63,Under 50k,Bronze,Email Campaign,2021-01-06,1,1
+CUST001853,Emily,Williams,Female,32,25-34,12,120k-160k,Silver,Marketplace,2023-05-21,1,1
+CUST001854,Sarah,Singh,Female,40,35-44,14,50k-80k,Silver,Referral,2022-07-28,0,1
+CUST001855,Liam,Patel,Male,50,45-54,75,160k+,Silver,In-store QR,2021-11-23,1,0
+CUST001856,Grace,Hall,Female,36,35-44,8,80k-120k,Bronze,Social Media,2023-10-02,1,0
+CUST001857,Archie,Brown,Male,33,25-34,8,80k-120k,Bronze,Affiliate,2023-08-14,1,0
+CUST001858,Xavier,Jones,Male,27,25-34,35,80k-120k,Bronze,Social Media,2023-04-05,0,1
+CUST001859,Mia,White,Female,43,35-44,73,80k-120k,Silver,Social Media,2022-03-16,0,1
+CUST001860,Evie,Wong,Female,22,18-24,38,50k-80k,Gold,Social Media,2026-01-17,0,1
+CUST001861,Leo,Roberts,Male,39,35-44,10,50k-80k,Bronze,Paid Search,2021-03-02,1,1
+CUST001862,Sarah,Brown,Female,22,18-24,22,120k-160k,Gold,Organic Search,2025-03-09,1,0
+CUST001863,Ethan,Green,Male,19,18-24,91,Under 50k,Silver,Organic Search,2023-07-25,1,1
+CUST001864,Xavier,Brown,Male,27,25-34,33,50k-80k,Silver,In-store QR,2026-03-05,1,0
+CUST001865,Jessica,Kaur,Female,34,25-34,77,50k-80k,Silver,Referral,2021-08-16,1,0
+CUST001866,Oscar,Baker,Male,32,25-34,8,Under 50k,Bronze,Paid Search,2024-10-21,1,1
+CUST001867,Charlotte,King,Female,46,45-54,91,160k+,Silver,Referral,2021-11-20,1,0
+CUST001868,Samuel,Davis,Male,60,55+,39,120k-160k,Bronze,Social Media,2023-03-30,1,1
+CUST001869,Samuel,Williams,Male,23,18-24,35,50k-80k,Bronze,Marketplace,2023-03-22,0,1
+CUST001870,Jack,Tran,Male,33,25-34,31,80k-120k,Platinum,Email Campaign,2025-10-21,1,1
+CUST001871,Mason,Lee,Male,47,45-54,69,80k-120k,Bronze,Organic Search,2024-11-06,1,1
+CUST001872,Benjamin,Scott,Male,38,35-44,76,80k-120k,Bronze,Email Campaign,2024-02-09,1,0
+CUST001873,Olivia,Tran,Female,38,35-44,18,80k-120k,Silver,Social Media,2022-02-14,1,1
+CUST001874,Jack,Kaur,Male,32,25-34,16,50k-80k,Bronze,Paid Search,2025-08-26,0,1
+CUST001875,Chloe,Smith,Female,34,25-34,79,50k-80k,Gold,In-store QR,2023-01-03,0,0
+CUST001876,Oscar,Hall,Male,33,25-34,40,160k+,Silver,Social Media,2024-03-02,0,0
+CUST001877,Grace,Roberts,Female,58,55+,16,Under 50k,Bronze,Email Campaign,2023-05-11,0,0
+CUST001878,Georgia,Singh,Female,28,25-34,11,80k-120k,Silver,Referral,2025-02-06,1,1
+CUST001879,Mason,Martin,Male,54,45-54,65,80k-120k,Platinum,Referral,2026-05-04,0,0
+CUST001880,Amelia,Johnson,Female,51,45-54,47,50k-80k,Bronze,Organic Search,2025-06-23,0,0
+CUST001881,Olivia,Nguyen,Female,54,45-54,22,80k-120k,Bronze,Paid Search,2025-09-10,1,1
+CUST001882,Ella,Jones,Female,30,25-34,51,80k-120k,Silver,Referral,2022-04-16,0,1
+CUST001883,Ava,Patel,Female,38,35-44,72,120k-160k,Bronze,Social Media,2022-06-27,1,1
+CUST001884,Xavier,Walker,Male,41,35-44,15,Under 50k,Bronze,Marketplace,2023-05-29,0,1
+CUST001885,Lucy,Thompson,Female,45,45-54,22,Under 50k,Bronze,Affiliate,2026-03-20,1,0
+CUST001886,Hannah,Jones,Female,23,18-24,38,50k-80k,Bronze,Marketplace,2024-10-29,1,1
+CUST001887,Cooper,Martin,Male,21,18-24,75,50k-80k,Bronze,Affiliate,2023-06-05,1,1
+CUST001888,Isla,Kaur,Female,43,35-44,19,80k-120k,Bronze,Organic Search,2025-07-17,1,1
+CUST001889,Thomas,Martin,Male,73,55+,65,80k-120k,Bronze,In-store QR,2024-12-13,1,1
+CUST001890,Charlotte,White,Female,34,25-34,85,80k-120k,Silver,Paid Search,2024-01-19,0,0
+CUST001891,Abigail,Scott,Female,24,18-24,9,50k-80k,Gold,Referral,2026-05-24,1,0
+CUST001892,Liam,Kaur,Male,26,25-34,20,80k-120k,Bronze,Affiliate,2025-09-15,0,0
+CUST001893,Mia,White,Female,28,25-34,19,80k-120k,Silver,Organic Search,2024-10-31,1,1
+CUST001894,Benjamin,Patel,Male,25,25-34,87,50k-80k,Bronze,Email Campaign,2026-05-06,0,0
+CUST001895,Grace,Scott,Female,50,45-54,32,80k-120k,Silver,In-store QR,2024-01-30,1,0
+CUST001896,Xavier,Young,Male,28,25-34,71,50k-80k,Bronze,Affiliate,2021-07-01,1,1
+CUST001897,Thomas,Chen,Male,44,35-44,76,Under 50k,Bronze,Email Campaign,2023-09-03,1,1
+CUST001898,Charlie,Johnson,Male,45,45-54,36,80k-120k,Silver,Referral,2023-05-30,1,0
+CUST001899,Noah,Miller,Male,42,35-44,19,80k-120k,Bronze,In-store QR,2022-11-10,1,1
+CUST001900,Noah,Brown,Male,34,25-34,34,160k+,Silver,Organic Search,2021-09-24,1,0
+CUST001901,Cooper,Brown,Male,28,25-34,83,160k+,Bronze,Organic Search,2024-10-17,0,1
+CUST001902,Ava,Thompson,Female,37,35-44,65,80k-120k,Platinum,Paid Search,2024-05-10,1,0
+CUST001903,Jack,Tran,Male,68,55+,33,80k-120k,Bronze,Organic Search,2022-10-25,1,1
+CUST001904,Theodore,Brown,Male,63,55+,29,120k-160k,Bronze,Email Campaign,2021-08-14,1,0
+CUST001905,Harrison,Allen,Male,56,55+,25,80k-120k,Bronze,Marketplace,2025-04-21,1,1
+CUST001906,Abigail,Singh,Female,51,45-54,68,50k-80k,Silver,Affiliate,2026-03-31,1,0
+CUST001907,Matilda,Singh,Female,37,35-44,9,Under 50k,Bronze,Marketplace,2023-01-09,1,0
+CUST001908,Mason,Baker,Non-binary,41,35-44,79,80k-120k,Silver,Organic Search,2024-03-03,1,0
+CUST001909,Ruby,Kaur,Female,27,25-34,79,80k-120k,Bronze,Organic Search,2021-12-21,1,1
+CUST001910,Abigail,Young,Female,75,55+,4,120k-160k,Bronze,Affiliate,2021-07-05,1,0
+CUST001911,Xavier,Williams,Male,45,45-54,10,Under 50k,Silver,Email Campaign,2026-05-27,0,0
+CUST001912,Cooper,Wong,Non-binary,28,25-34,57,120k-160k,Gold,Paid Search,2024-11-13,1,0
+CUST001913,Lily,Williams,Female,24,18-24,14,50k-80k,Bronze,Social Media,2022-02-14,1,0
+CUST001914,Liam,Scott,Male,51,45-54,19,120k-160k,Platinum,Social Media,2023-04-02,1,0
+CUST001915,Noah,Wong,Male,22,18-24,14,80k-120k,Bronze,Email Campaign,2025-09-11,1,0
+CUST001916,Jack,Williams,Male,44,35-44,10,120k-160k,Bronze,In-store QR,2025-01-09,1,0
+CUST001917,Olivia,Brown,Female,31,25-34,81,50k-80k,Bronze,Referral,2026-05-09,1,0
+CUST001918,Abigail,Roberts,Female,46,45-54,34,80k-120k,Bronze,Organic Search,2022-04-15,1,1
+CUST001919,Emma,White,Female,18,18-24,9,50k-80k,Bronze,Email Campaign,2022-01-21,0,0
+CUST001920,Harrison,Hall,Male,30,25-34,76,50k-80k,Silver,In-store QR,2023-02-02,1,0
+CUST001921,Max,Thompson,Male,23,18-24,60,50k-80k,Silver,Organic Search,2021-05-14,1,1
+CUST001922,Lucy,Lee,Female,45,45-54,76,120k-160k,Bronze,Social Media,2026-01-28,1,1
+CUST001923,Zoe,Green,Female,34,25-34,11,80k-120k,Platinum,Email Campaign,2023-03-31,0,1
+CUST001924,Chloe,Patel,Female,43,35-44,10,80k-120k,Bronze,Organic Search,2026-02-04,0,0
+CUST001925,Olivia,Roberts,Female,34,25-34,10,80k-120k,Bronze,Affiliate,2024-04-06,0,1
+CUST001926,Chloe,Wilson,Female,18,18-24,31,80k-120k,Gold,Affiliate,2023-07-29,1,1
+CUST001927,Sophie,Taylor,Female,53,45-54,64,50k-80k,Gold,In-store QR,2023-08-17,1,0
+CUST001928,Cooper,Scott,Male,40,35-44,79,Under 50k,Silver,Marketplace,2021-11-05,1,1
+CUST001929,Isla,Miller,Non-binary,25,25-34,89,50k-80k,Bronze,Paid Search,2025-08-22,1,1
+CUST001930,Hudson,Smith,Male,44,35-44,30,160k+,Bronze,Email Campaign,2022-04-18,1,0
+CUST001931,Cooper,Taylor,Male,37,35-44,79,Under 50k,Silver,Marketplace,2021-03-11,1,1
+CUST001932,Hannah,Taylor,Female,33,25-34,80,50k-80k,Gold,Social Media,2023-09-05,1,1
+CUST001933,Lucy,Allen,Prefer not to say,27,25-34,88,120k-160k,Bronze,Email Campaign,2023-10-14,1,0
+CUST001934,Oliver,Miller,Male,33,25-34,13,Under 50k,Silver,Social Media,2026-01-11,1,0
+CUST001935,Evie,Scott,Female,36,35-44,44,80k-120k,Bronze,Organic Search,2025-11-11,1,1
+CUST001936,Benjamin,Baker,Male,22,18-24,36,80k-120k,Bronze,Paid Search,2021-06-11,1,1
+CUST001937,Jessica,Walker,Female,47,45-54,63,160k+,Bronze,Organic Search,2023-09-23,0,0
+CUST001938,Ethan,Taylor,Non-binary,52,45-54,8,Under 50k,Silver,Marketplace,2025-10-27,1,1
+CUST001939,Archie,Young,Male,34,25-34,9,Under 50k,Silver,Marketplace,2022-12-25,1,1
+CUST001940,Archie,Smith,Prefer not to say,27,25-34,90,80k-120k,Silver,Email Campaign,2023-03-14,1,0
+CUST001941,Max,Kaur,Male,64,55+,22,Under 50k,Silver,Organic Search,2024-05-08,1,1
+CUST001942,Samuel,Patel,Male,31,25-34,66,50k-80k,Bronze,Social Media,2022-12-30,1,1
+CUST001943,Ella,Johnson,Female,39,35-44,64,80k-120k,Silver,Social Media,2024-03-16,1,0
+CUST001944,Emma,Miller,Female,51,45-54,45,160k+,Bronze,Paid Search,2025-02-20,1,1
+CUST001945,Chloe,Patel,Female,32,25-34,11,120k-160k,Bronze,In-store QR,2023-07-31,1,0
+CUST001946,Charlotte,Scott,Female,48,45-54,66,80k-120k,Silver,Marketplace,2025-02-21,1,1
+CUST001947,Benjamin,Miller,Male,35,35-44,19,80k-120k,Silver,Paid Search,2023-08-18,1,0
+CUST001948,Georgia,Taylor,Female,54,45-54,32,80k-120k,Bronze,In-store QR,2022-11-23,1,1
+CUST001949,Emma,Jones,Female,45,45-54,64,80k-120k,Bronze,Organic Search,2025-07-15,0,0
+CUST001950,Lucas,Wong,Prefer not to say,27,25-34,8,120k-160k,Bronze,Social Media,2025-08-29,1,0
+CUST001951,Abigail,Patel,Female,18,18-24,35,Under 50k,Silver,Affiliate,2021-08-06,0,0
+CUST001952,Lucas,Miller,Male,20,18-24,72,Under 50k,Silver,Social Media,2021-12-31,1,1
+CUST001953,James,Kaur,Male,38,35-44,30,50k-80k,Bronze,Organic Search,2025-05-21,1,0
+CUST001954,William,Anderson,Male,61,55+,52,Under 50k,Bronze,Organic Search,2024-06-18,1,0
+CUST001955,Matilda,Young,Female,37,35-44,15,80k-120k,Bronze,Paid Search,2022-05-07,0,0
+CUST001956,Liam,Walker,Male,52,45-54,65,Under 50k,Gold,Paid Search,2024-09-12,1,1
+CUST001957,Olivia,Allen,Female,47,45-54,15,50k-80k,Gold,Affiliate,2026-05-21,1,0
+CUST001958,Matilda,Smith,Female,29,25-34,75,80k-120k,Silver,Marketplace,2026-02-21,0,0
+CUST001959,Thomas,White,Male,50,45-54,35,80k-120k,Bronze,Marketplace,2023-09-20,1,1
+CUST001960,Charlotte,Hall,Female,31,25-34,67,80k-120k,Gold,Organic Search,2024-10-14,1,1
+CUST001961,Abigail,Thompson,Female,43,35-44,74,80k-120k,Bronze,Paid Search,2023-05-14,1,0
+CUST001962,Cooper,Jones,Male,43,35-44,59,Under 50k,Bronze,Affiliate,2021-08-17,1,1
+CUST001963,Ruby,Patel,Female,44,35-44,48,80k-120k,Silver,Paid Search,2021-10-22,1,1
+CUST001964,Sarah,Allen,Female,34,25-34,18,80k-120k,Silver,Affiliate,2024-12-31,0,1
+CUST001965,Charlie,Baker,Male,51,45-54,39,50k-80k,Silver,Email Campaign,2022-02-25,1,0
+CUST001966,Liam,Roberts,Male,40,35-44,68,50k-80k,Bronze,Referral,2024-03-27,0,1
+CUST001967,Georgia,Anderson,Prefer not to say,42,35-44,17,Under 50k,Platinum,Paid Search,2022-02-18,0,1
+CUST001968,Oliver,Allen,Male,35,35-44,14,120k-160k,Bronze,Organic Search,2021-03-04,1,0
+CUST001969,Levi,Smith,Male,26,25-34,18,120k-160k,Gold,In-store QR,2025-11-28,0,0
+CUST001970,Harrison,Kaur,Male,44,35-44,35,50k-80k,Silver,Marketplace,2022-03-02,1,1
+CUST001971,Oscar,Thompson,Male,33,25-34,75,Under 50k,Silver,Affiliate,2025-12-03,0,1
+CUST001972,Charlotte,Young,Female,55,55+,30,50k-80k,Bronze,Marketplace,2021-03-29,1,1
+CUST001973,Amelia,Singh,Female,18,18-24,38,Under 50k,Gold,Referral,2026-04-24,1,1
+CUST001974,Hudson,Singh,Male,43,35-44,39,Under 50k,Bronze,Paid Search,2021-01-13,1,0
+CUST001975,Ella,Hall,Female,28,25-34,11,Under 50k,Bronze,Paid Search,2025-10-13,0,0
+CUST001976,Isla,Miller,Female,45,45-54,77,120k-160k,Silver,Marketplace,2025-04-24,1,1
+CUST001977,Lucy,Baker,Female,33,25-34,41,80k-120k,Silver,Marketplace,2023-11-14,1,0
+CUST001978,Lucy,King,Female,25,25-34,65,Under 50k,Silver,Organic Search,2025-12-24,1,0
+CUST001979,Ruby,Green,Female,28,25-34,79,50k-80k,Gold,Organic Search,2025-05-04,1,0
+CUST001980,Amelia,King,Female,25,25-34,91,Under 50k,Bronze,Organic Search,2026-03-15,1,0
+CUST001981,Xavier,Brown,Male,44,35-44,14,80k-120k,Bronze,Paid Search,2024-10-05,1,0
+CUST001982,Mason,Baker,Male,26,25-34,19,120k-160k,Silver,Email Campaign,2022-10-19,1,0
+CUST001983,Leo,King,Male,43,35-44,72,80k-120k,Bronze,Organic Search,2023-07-01,0,0
+CUST001984,Ruby,Roberts,Female,25,25-34,52,50k-80k,Bronze,Email Campaign,2023-11-07,1,0
+CUST001985,Maddison,Wong,Female,30,25-34,77,50k-80k,Bronze,In-store QR,2021-12-09,0,1
+CUST001986,William,Martin,Male,40,35-44,76,50k-80k,Silver,Affiliate,2025-06-24,0,1
+CUST001987,Lily,Baker,Female,47,45-54,16,160k+,Silver,Email Campaign,2024-06-24,0,0
+CUST001988,Harrison,Tran,Male,25,25-34,8,Under 50k,Silver,In-store QR,2023-10-06,0,0
+CUST001989,Noah,Tran,Male,25,25-34,44,Under 50k,Silver,In-store QR,2021-08-20,1,1
+CUST001990,Levi,Singh,Male,39,35-44,11,Under 50k,Silver,Organic Search,2021-06-15,0,1
+CUST001991,James,Walker,Male,21,18-24,31,Under 50k,Bronze,In-store QR,2023-05-14,0,0
+CUST001992,Max,Chen,Non-binary,40,35-44,53,160k+,Silver,Social Media,2025-05-18,1,1
+CUST001993,Liam,Wilson,Male,19,18-24,40,Under 50k,Bronze,In-store QR,2021-03-01,1,0
+CUST001994,Lucy,Brown,Female,45,45-54,66,50k-80k,Silver,Referral,2024-05-04,1,1
+CUST001995,Ethan,Wong,Male,18,18-24,39,Under 50k,Silver,Marketplace,2022-12-07,0,0
+CUST001996,Benjamin,Johnson,Male,22,18-24,9,Under 50k,Gold,Social Media,2022-01-17,1,1
+CUST001997,Ava,Thompson,Female,32,25-34,90,50k-80k,Bronze,Marketplace,2021-05-29,1,1
+CUST001998,Jessica,Hall,Female,19,18-24,8,Under 50k,Gold,Marketplace,2021-02-25,1,0
+CUST001999,Cooper,Williams,Male,38,35-44,62,50k-80k,Bronze,In-store QR,2021-04-30,1,0
+CUST002000,Xavier,Hall,Male,66,55+,2,Under 50k,Silver,In-store QR,2023-07-19,1,0
