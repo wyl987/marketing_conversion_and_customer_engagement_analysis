@@ -156,11 +156,11 @@ The SQL scripts are saved in the `sql/` folder.
 
 ### Journey stage summary
 
-![Journey stage summary SQL preview](screenshots/sql_vw_journey_stage_summary.png)
+![Journey stage summary SQL preview](screenshots/sql_vw_journey_stage_summary_preview.png)
 
 ### Engagement channel summary
 
-![Engagement channel summary SQL preview](screenshots/sql_vw_engagement_channel_summary.png)
+![Engagement channel summary SQL preview](screenshots/sql_vw_engagement_channel_summary_preview.png)
 
 ## Current SQL view notes
 
