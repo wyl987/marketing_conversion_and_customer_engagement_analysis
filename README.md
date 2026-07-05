@@ -237,7 +237,7 @@ nam-nam-australia-marketing-analytics/
 ├── README.md
 ├── data/
 │   ├── customer_journey.csv
-│   ├──  customer_reviews.csv
+│   ├── customer_reviews.csv
 │   ├── customers.csv
 │   ├── engagement_data.csv
 │   ├── geography.csv
