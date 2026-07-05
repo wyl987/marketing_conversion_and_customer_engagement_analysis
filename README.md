@@ -235,6 +235,13 @@ The Power BI report is planned to include these pages.
 ```text
 nam-nam-australia-marketing-analytics/
 ├── README.md
+├── data/
+│   ├── customer_journey.csv
+│   ├──  customer_reviews.csv
+│   ├── customers.csv
+│   ├── engagement_data.csv
+│   ├── geography.csv
+│   └── products.csv
 ├── docs/
 │   ├── data_model_design.md
 │   └── powerbi_dashboard_plan.md
