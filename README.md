@@ -1,4 +1,4 @@
-# Nam Nam Australia Marketing Conversion & Customer Engagement Analytics
+# Nam Nam Australia Marketing Conversion & Customer Engagement Analysis
 
 ## Project status
 
@@ -163,33 +163,6 @@ sql/04_validate_analytical_views.sql
 
 ![Engagement channel summary SQL preview](screenshots/sql_vw_engagement_channel_summary.png)
 
-## Planned Power BI model
-
-The Power BI model will be built as a star schema.
-
-| Model table | Type | Grain |
-|---|---|---|
-| `DimCustomer` | Dimension | One row per customer |
-| `DimProduct` | Dimension | One row per product |
-| `DimDate` | Dimension | One row per calendar date |
-| `FactJourney` | Fact | One row per journey interaction event |
-| `FactEngagement` | Fact | One row per campaign engagement event |
-| `FactReviews` | Fact | One row per customer review |
-
-The two analytical summary views may also be loaded into Power BI for reference tables or SQL summary visuals, but the main interactive model should use the fact and dimension views.
-
-## Planned dashboard pages
-
-The Power BI report is planned to include these pages:
-
-| Page | Purpose |
-|---|---|
-| Executive Summary | High-level KPIs and main findings |
-| Journey & Touchpoint Analysis | Journey stage, touchpoint, purchase outcome and no-action analysis |
-| Campaign Engagement | Channel, campaign type, engagement score, conversion and unsubscribe analysis |
-| Product & Review Performance | Product/category review performance and feedback issues |
-| Customer Segmentation | Customer performance by age group, membership tier, income band, acquisition channel and geography |
-
 ## Current SQL view notes
 
 ### `vw_journey_stage_summary`
@@ -231,6 +204,33 @@ Current columns include:
 
 The `engagement_event_share_rate` column uses a SQL window function to compare each channel's engagement events with the total engagement events across all channels.
 
+## Planned Power BI model
+
+The Power BI model will be built as a star schema.
+
+| Model table | Type | Grain |
+|---|---|---|
+| `DimCustomer` | Dimension | One row per customer |
+| `DimProduct` | Dimension | One row per product |
+| `DimDate` | Dimension | One row per calendar date |
+| `FactJourney` | Fact | One row per journey interaction event |
+| `FactEngagement` | Fact | One row per campaign engagement event |
+| `FactReviews` | Fact | One row per customer review |
+
+The two analytical summary views may also be loaded into Power BI for reference tables or SQL summary visuals, but the main interactive model should use the fact and dimension views.
+
+## Planned dashboard pages
+
+The Power BI report is planned to include these pages:
+
+| Page | Purpose |
+|---|---|
+| Executive Summary | High-level KPIs and main findings |
+| Journey & Touchpoint Analysis | Journey stage, touchpoint, purchase outcome and no-action analysis |
+| Campaign Engagement | Channel, campaign type, engagement score, conversion and unsubscribe analysis |
+| Product & Review Performance | Product/category review performance and feedback issues |
+| Customer Segmentation | Customer performance by age group, membership tier, income band, acquisition channel and geography |
+
 ## Repository structure
 
 ```text
@@ -256,13 +256,11 @@ nam-nam-australia-marketing-analytics/
 
 ## Next steps
 
-1. Add the SQL scripts to the `sql/` folder.
-2. Push the current in-progress project to GitHub.
-3. Connect Power BI to the SQL Server views.
-4. Build the star schema model.
-5. Create DAX measures.
-6. Build dashboard pages.
-7. Replace placeholder sections with final screenshots, insights and recommendations.
+1. Connect Power BI to the SQL Server views.
+2. Build the star schema model.
+3. Create DAX measures.
+4. Build dashboard pages.
+5. Replace placeholder sections with final screenshots, insights and recommendations.
 
 ## Skills shown so far
 
